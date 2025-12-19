@@ -1,0 +1,3 @@
+TITLE-ABS-KEY( ("vehicular crash" OR "traffic accident" OR "road collision" OR "road safety" OR "crash data" OR "transportation safety" OR "collision analysis" OR "traffic incident" OR "traffic injury" OR "crash mapping") AND (researcher OR policymaker OR public OR planner OR "transportation analyst") AND ("agency reports" OR "Excel-based analyses" OR "analytical dashboards"))
+
+https://api.elsevier.com/content/search/scopus?apiKey=565d596b00126cce6cab401be3dc2779&query=TITLE-ABS-KEY( ("vehicular crash" OR "traffic accident" OR "road collision" OR "road safety" OR "crash data" OR "transportation safety" OR "collision analysis" OR "traffic incident" OR "traffic injury" OR "crash mapping"))

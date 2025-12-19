@@ -1,0 +1,1697 @@
+{
+  "search-results": {
+    "opensearch:totalResults": "1127",
+    "opensearch:startIndex": "0",
+    "opensearch:itemsPerPage": "25",
+    "opensearch:Query": {
+      "@role": "request",
+      "@searchTerms": "TITLE-ABS-KEY( (\"vehicular crash\" OR \"traffic accident\" OR \"road collision\" OR \"road safety\" OR \"crash data\" OR \"transportation safety\" OR \"collision analysis\" OR \"traffic incident\" OR \"traffic injury\" OR \"crash mapping\") AND (usability OR interpretability OR effectiveness OR \"decision support\" OR comprehension) AND (accuracy OR readability OR \"analytic utility\"))",
+      "@startPage": "0"
+    },
+    "link": [
+      {
+        "@_fa": "true",
+        "@ref": "self",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=TITLE-ABS-KEY%28+%28%22vehicular+crash%22+OR+%22traffic+accident%22+OR+%22road+collision%22+OR+%22road+safety%22+OR+%22crash+data%22+OR+%22transportation+safety%22+OR+%22collision+analysis%22+OR+%22traffic+incident%22+OR+%22traffic+injury%22+OR+%22crash+mapping%22%29+AND+%28usability+OR+interpretability+OR+effectiveness+OR+%22decision+support%22+OR+comprehension%29+AND+%28accuracy+OR+readability+OR+%22analytic+utility%22%29%29",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "first",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=0&count=25&query=TITLE-ABS-KEY%28+%28%22vehicular+crash%22+OR+%22traffic+accident%22+OR+%22road+collision%22+OR+%22road+safety%22+OR+%22crash+data%22+OR+%22transportation+safety%22+OR+%22collision+analysis%22+OR+%22traffic+incident%22+OR+%22traffic+injury%22+OR+%22crash+mapping%22%29+AND+%28usability+OR+interpretability+OR+effectiveness+OR+%22decision+support%22+OR+comprehension%29+AND+%28accuracy+OR+readability+OR+%22analytic+utility%22%29%29",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "next",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=25&count=25&query=TITLE-ABS-KEY%28+%28%22vehicular+crash%22+OR+%22traffic+accident%22+OR+%22road+collision%22+OR+%22road+safety%22+OR+%22crash+data%22+OR+%22transportation+safety%22+OR+%22collision+analysis%22+OR+%22traffic+incident%22+OR+%22traffic+injury%22+OR+%22crash+mapping%22%29+AND+%28usability+OR+interpretability+OR+effectiveness+OR+%22decision+support%22+OR+comprehension%29+AND+%28accuracy+OR+readability+OR+%22analytic+utility%22%29%29",
+        "@type": "application/json"
+      },
+      {
+        "@_fa": "true",
+        "@ref": "last",
+        "@href": "https://api.elsevier.com/content/search/scopus?start=1102&count=25&query=TITLE-ABS-KEY%28+%28%22vehicular+crash%22+OR+%22traffic+accident%22+OR+%22road+collision%22+OR+%22road+safety%22+OR+%22crash+data%22+OR+%22transportation+safety%22+OR+%22collision+analysis%22+OR+%22traffic+incident%22+OR+%22traffic+injury%22+OR+%22crash+mapping%22%29+AND+%28usability+OR+interpretability+OR+effectiveness+OR+%22decision+support%22+OR+comprehension%29+AND+%28accuracy+OR+readability+OR+%22analytic+utility%22%29%29",
+        "@type": "application/json"
+      }
+    ],
+    "entry": [
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105020970120"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105020970120?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105020970120&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105020970120&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1746809425014909"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105020970120",
+        "dc:identifier": "SCOPUS_ID:105020970120",
+        "eid": "2-s2.0-105020970120",
+        "dc:title": "A frequency-attentive spatio-temporal convolutional neural network with weighted feature fusion for EEG-based driver fatigue detection",
+        "dc:creator": "Bello I.",
+        "prism:publicationName": "Biomedical Signal Processing and Control",
+        "prism:issn": "17468094",
+        "prism:eIssn": "17468108",
+        "prism:volume": "113",
+        "prism:pageRange": null,
+        "prism:coverDate": "2026-03-01",
+        "prism:coverDisplayDate": "March 2026",
+        "prism:doi": "10.1016/j.bspc.2025.108979",
+        "pii": "S1746809425014909",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Tianjin University",
+            "affiliation-city": "Tianjin",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "108979",
+        "source-id": "4700152237",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105020757138"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105020757138?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105020757138&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105020757138&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105020757138",
+        "dc:identifier": "SCOPUS_ID:105020757138",
+        "eid": "2-s2.0-105020757138",
+        "dc:title": "Automated geolocalization of vehicles from UAV footage: evaluating measurement precision of object detection and segmentation methods",
+        "dc:creator": "Ahmed M.W.",
+        "prism:publicationName": "Applied Geomatics",
+        "prism:issn": "18669298",
+        "prism:eIssn": "1866928X",
+        "prism:volume": "18",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2026-03-01",
+        "prism:coverDisplayDate": "March 2026",
+        "prism:doi": "10.1007/s12518-025-00662-2",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Transportation Research Institute (IMOB)",
+            "affiliation-city": "Hasselt",
+            "affiliation-country": "Belgium"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "13",
+        "source-id": "19400158591",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105023178538"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105023178538?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105023178538&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105023178538&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S2213624X25003037"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105023178538",
+        "dc:identifier": "SCOPUS_ID:105023178538",
+        "eid": "2-s2.0-105023178538",
+        "dc:title": "Analyzing heterogeneity in motorcycle crashes: a comparative study of senior and young riders using the random forest approach",
+        "dc:creator": "Mohamad I.",
+        "prism:publicationName": "Case Studies on Transport Policy",
+        "prism:issn": "2213624X",
+        "prism:eIssn": "22136258",
+        "prism:volume": "23",
+        "prism:pageRange": null,
+        "prism:coverDate": "2026-03-01",
+        "prism:coverDisplayDate": "March 2026",
+        "prism:doi": "10.1016/j.cstp.2025.101666",
+        "pii": "S2213624X25003037",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "King Mongkut's University of Technology Thonburi",
+            "affiliation-city": "Bangkok",
+            "affiliation-country": "Thailand"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "101666",
+        "source-id": "21100283790",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105021606484"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105021606484?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105021606484&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105021606484&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0001457525003999"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105021606484",
+        "dc:identifier": "SCOPUS_ID:105021606484",
+        "eid": "2-s2.0-105021606484",
+        "dc:title": "SET-DGCN: An end-to-end electroencephalography-based fatigue detection method for young drivers",
+        "dc:creator": "Cao Y.",
+        "prism:publicationName": "Accident Analysis and Prevention",
+        "prism:issn": "00014575",
+        "prism:eIssn": "18792057",
+        "prism:volume": "225",
+        "prism:pageRange": null,
+        "prism:coverDate": "2026-02-01",
+        "prism:coverDisplayDate": "February 2026",
+        "prism:doi": "10.1016/j.aap.2025.108311",
+        "pii": "S0001457525003999",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Southwest Jiaotong University",
+            "affiliation-city": "Chengdu",
+            "affiliation-country": "China"
+          }
+        ],
+        "pubmed-id": "41240740",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "108311",
+        "source-id": "19532",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105011582702"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105011582702?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105011582702&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105011582702&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1566253525006062"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105011582702",
+        "dc:identifier": "SCOPUS_ID:105011582702",
+        "eid": "2-s2.0-105011582702",
+        "dc:title": "A data-driven digital twin model for bridge health monitoring using feature fusion and unsupervised deep learning",
+        "dc:creator": "Mousavi V.",
+        "prism:publicationName": "Information Fusion",
+        "prism:issn": "15662535",
+        "prism:volume": "126",
+        "prism:pageRange": null,
+        "prism:coverDate": "2026-02-01",
+        "prism:coverDisplayDate": "February 2026",
+        "prism:doi": "10.1016/j.inffus.2025.103534",
+        "pii": "S1566253525006062",
+        "citedby-count": "3",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Western Sydney University",
+            "affiliation-city": "Penrith",
+            "affiliation-country": "Australia"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "103534",
+        "source-id": "26099",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherhybridgold"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Hybrid Gold"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105015608640"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105015608640?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105015608640&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105015608640&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0263224125023322"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105015608640",
+        "dc:identifier": "SCOPUS_ID:105015608640",
+        "eid": "2-s2.0-105015608640",
+        "dc:title": "Polynomial gated network: An intelligent classification method for driver fatigue based on EEG analysis",
+        "dc:creator": "Huangfu C.",
+        "prism:publicationName": "Measurement Journal of the International Measurement Confederation",
+        "prism:issn": "02632241",
+        "prism:volume": "257",
+        "prism:pageRange": null,
+        "prism:coverDate": "2026-01-15",
+        "prism:coverDisplayDate": "15 January 2026",
+        "prism:doi": "10.1016/j.measurement.2025.118973",
+        "pii": "S0263224125023322",
+        "citedby-count": "1",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Nanjing University of Information Science & Technology",
+            "affiliation-city": "Nanjing",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "118973",
+        "source-id": "15424",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105015045729"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105015045729?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105015045729&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105015045729&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0263224125022237"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105015045729",
+        "dc:identifier": "SCOPUS_ID:105015045729",
+        "eid": "2-s2.0-105015045729",
+        "dc:title": "Detection of driver maneuvers using a modular, low-cost sensor device",
+        "dc:creator": "Pourkhaksar A.",
+        "prism:publicationName": "Measurement Journal of the International Measurement Confederation",
+        "prism:issn": "02632241",
+        "prism:volume": "257",
+        "prism:pageRange": null,
+        "prism:coverDate": "2026-01-15",
+        "prism:coverDisplayDate": "15 January 2026",
+        "prism:doi": "10.1016/j.measurement.2025.118864",
+        "pii": "S0263224125022237",
+        "citedby-count": "1",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Amirkabir University of Technology",
+            "affiliation-city": "Tehran",
+            "affiliation-country": "Iran"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "118864",
+        "source-id": "15424",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105020965340"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105020965340?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105020965340&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105020965340&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0001457525003938"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105020965340",
+        "dc:identifier": "SCOPUS_ID:105020965340",
+        "eid": "2-s2.0-105020965340",
+        "dc:title": "Application of the dual-model interpretability framework of XGBoost-SHAP and GAT-GNNExplainer to investigate the impact of the built environment on traffic accidents at intersections",
+        "dc:creator": "Chen Y.",
+        "prism:publicationName": "Accident Analysis and Prevention",
+        "prism:issn": "00014575",
+        "prism:volume": "224",
+        "prism:pageRange": null,
+        "prism:coverDate": "2026-01-01",
+        "prism:coverDisplayDate": "January 2026",
+        "prism:doi": "10.1016/j.aap.2025.108305",
+        "pii": "S0001457525003938",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Changsha University of Science and Technology",
+            "affiliation-city": "Changsha",
+            "affiliation-country": "China"
+          }
+        ],
+        "pubmed-id": "41205237",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "108305",
+        "source-id": "19532",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105021828324"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105021828324?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105021828324&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105021828324&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105021828324",
+        "dc:identifier": "SCOPUS_ID:105021828324",
+        "eid": "2-s2.0-105021828324",
+        "dc:title": "A Survey on Deep Learning Techniques and Real-Time Applications in Traffic Sign Recognition",
+        "dc:creator": "Pattnaik S.",
+        "prism:publicationName": "Lecture Notes in Networks and Systems",
+        "prism:issn": "23673370",
+        "prism:eIssn": "23673389",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9789819689002]"
+          }
+        ],
+        "prism:volume": "1519 LNNS",
+        "prism:pageRange": "57-65",
+        "prism:coverDate": "2026-01-01",
+        "prism:coverDisplayDate": "2026",
+        "prism:doi": "10.1007/978-981-96-8901-9_6",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Rajarshi Shahu College of Engineering",
+            "affiliation-city": "Pimpri-Chinchwad",
+            "affiliation-country": "India"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100901469",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105020018200"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105020018200?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105020018200&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105020018200&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105020018200",
+        "dc:identifier": "SCOPUS_ID:105020018200",
+        "eid": "2-s2.0-105020018200",
+        "dc:title": "Low Visibility Forecasting Using Numerical Weather Prediction Data",
+        "dc:creator": "Paul T.",
+        "prism:publicationName": "Lecture Notes in Computer Science",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783032061287]"
+          }
+        ],
+        "prism:volume": "16022",
+        "prism:pageRange": "196-212",
+        "prism:coverDate": "2026-01-01",
+        "prism:coverDisplayDate": "2026",
+        "prism:doi": "10.1007/978-3-032-06129-4_12",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Toshiba Corporation",
+            "affiliation-city": "Tokyo",
+            "affiliation-country": "Japan"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105020756548"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105020756548?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105020756548&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105020756548&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105020756548",
+        "dc:identifier": "SCOPUS_ID:105020756548",
+        "eid": "2-s2.0-105020756548",
+        "dc:title": "Detection of Potholes Using Deep Learning and Image Processing Techniques",
+        "dc:creator": "Kanchana M.",
+        "prism:publicationName": "Lecture Notes in Networks and Systems",
+        "prism:issn": "23673370",
+        "prism:eIssn": "23673389",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9789819649327]"
+          }
+        ],
+        "prism:volume": "1359 LNNS",
+        "prism:pageRange": "387-403",
+        "prism:coverDate": "2026-01-01",
+        "prism:coverDisplayDate": "2026",
+        "prism:doi": "10.1007/978-981-96-4933-4_27",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "SRM Institute of Science and Technology",
+            "affiliation-city": "Kattankulathur",
+            "affiliation-country": "India"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100901469",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105020702647"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105020702647?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105020702647&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105020702647&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105020702647",
+        "dc:identifier": "SCOPUS_ID:105020702647",
+        "eid": "2-s2.0-105020702647",
+        "dc:title": "Nominative Trademark Collision Analysis: A Study on the Performance of Natural Language Processing Models",
+        "dc:creator": "Torres M.M.",
+        "prism:publicationName": "Lecture Notes in Networks and Systems",
+        "prism:issn": "23673370",
+        "prism:eIssn": "23673389",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783031977985]"
+          }
+        ],
+        "prism:volume": "1524 LNNS",
+        "prism:pageRange": "301-315",
+        "prism:coverDate": "2026-01-01",
+        "prism:coverDisplayDate": "2026",
+        "prism:doi": "10.1007/978-3-031-97799-2_25",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Instituto Federal de Educa\u00e7\u00e3o, Ci\u00eancia e Tecnologia do Piau\u00ed \u2013 IFPI",
+            "affiliation-city": "Teresina",
+            "affiliation-country": "Brazil"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100901469",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105019961918"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105019961918?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105019961918&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105019961918&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0925753525002498"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105019961918",
+        "dc:identifier": "SCOPUS_ID:105019961918",
+        "eid": "2-s2.0-105019961918",
+        "dc:title": "Harmony or hazard? Quantifying driver workload under music and navigation distractions using interpretable AI",
+        "dc:creator": "Peng Z.",
+        "prism:publicationName": "Safety Science",
+        "prism:issn": "09257535",
+        "prism:eIssn": "18791042",
+        "prism:volume": "193",
+        "prism:pageRange": null,
+        "prism:coverDate": "2026-01-01",
+        "prism:coverDisplayDate": "January 2026",
+        "prism:doi": "10.1016/j.ssci.2025.107024",
+        "pii": "S0925753525002498",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Xi'an Technological University",
+            "affiliation-city": "Xi'an",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "107024",
+        "source-id": "12332",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105014921910"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105014921910?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105014921910&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105014921910&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S1051200425005871"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105014921910",
+        "dc:identifier": "SCOPUS_ID:105014921910",
+        "eid": "2-s2.0-105014921910",
+        "dc:title": "DD-YOLO: A dual-channel dual-path YOLO network for target detection of blurred vehicles",
+        "dc:creator": "Duan C.",
+        "prism:publicationName": "Digital Signal Processing A Review Journal",
+        "prism:issn": "10512004",
+        "prism:volume": "168",
+        "prism:pageRange": null,
+        "prism:coverDate": "2026-01-01",
+        "prism:coverDisplayDate": "January 2026",
+        "prism:doi": "10.1016/j.dsp.2025.105565",
+        "pii": "S1051200425005871",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Shanghai University",
+            "affiliation-city": "Shanghai",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "105565",
+        "source-id": "24306",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105021000389"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105021000389?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105021000389&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105021000389&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S2090447925005891"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105021000389",
+        "dc:identifier": "SCOPUS_ID:105021000389",
+        "eid": "2-s2.0-105021000389",
+        "dc:title": "Involution and Kolmogorov-Arnold networks based computationally efficient algorithm for detection of road defect with use of oriented bounding boxes",
+        "dc:creator": "Tomi\u0142o P.",
+        "prism:publicationName": "Ain Shams Engineering Journal",
+        "prism:issn": "20904479",
+        "prism:volume": "17",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2026-01-01",
+        "prism:coverDisplayDate": "January 2026",
+        "prism:doi": "10.1016/j.asej.2025.103848",
+        "pii": "S2090447925005891",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Politechnika Lubelska",
+            "affiliation-city": "Lublin",
+            "affiliation-country": "Poland"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "103848",
+        "source-id": "19700200705",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfullgold"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Gold"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105023828972"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105023828972?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105023828972&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105023828972&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105023828972",
+        "dc:identifier": "SCOPUS_ID:105023828972",
+        "eid": "2-s2.0-105023828972",
+        "dc:title": "Spectral Curvature Signature: A Frequency-Domain Descriptor for Driving Behavior Classification",
+        "dc:creator": "Thai D.T.",
+        "prism:publicationName": "Lecture Notes in Computer Science",
+        "prism:issn": "03029743",
+        "prism:eIssn": "16113349",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9789819549597]"
+          }
+        ],
+        "prism:volume": "16354 LNAI",
+        "prism:pageRange": "371-383",
+        "prism:coverDate": "2026-01-01",
+        "prism:coverDisplayDate": "2026",
+        "prism:doi": "10.1007/978-981-95-4960-3_30",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Viet Nam National University Ho Chi Minh City",
+            "affiliation-city": "Ho Chi Minh City",
+            "affiliation-country": "Viet Nam"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Ho Chi Minh City University of Technology - HCMUT",
+            "affiliation-city": "Ho Chi Minh City",
+            "affiliation-country": "Viet Nam"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "25674",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105021815907"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105021815907?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105021815907&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105021815907&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105021815907",
+        "dc:identifier": "SCOPUS_ID:105021815907",
+        "eid": "2-s2.0-105021815907",
+        "dc:title": "Evaluating Viaduct Surface Cracking on SLAM Point Clouds: Insights from an Italian Case Study",
+        "dc:creator": "Pascucci N.",
+        "prism:publicationName": "Lecture Notes in Networks and Systems",
+        "prism:issn": "23673370",
+        "prism:eIssn": "23673389",
+        "prism:isbn": [
+          {
+            "@_fa": "true",
+            "$": "[9783032079855]"
+          }
+        ],
+        "prism:volume": "1675 LNNS",
+        "prism:pageRange": "618-639",
+        "prism:coverDate": "2026-01-01",
+        "prism:coverDisplayDate": "2026",
+        "prism:doi": "10.1007/978-3-032-07986-2_39",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Universit\u00e0 degli Studi dell'Aquila",
+            "affiliation-city": "L'Aquila",
+            "affiliation-country": "Italy"
+          }
+        ],
+        "prism:aggregationType": "Book Series",
+        "subtype": "cp",
+        "subtypeDescription": "Conference Paper",
+        "source-id": "21100901469",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfree2read"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Bronze"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105019112239"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105019112239?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105019112239&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105019112239&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0001457525003677"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105019112239",
+        "dc:identifier": "SCOPUS_ID:105019112239",
+        "eid": "2-s2.0-105019112239",
+        "dc:title": "Risk analysis of pedestrian crosswalks in airport drop-off zones based on integrated VISSIM\u2013SSAM model",
+        "dc:creator": "Qin M.x.",
+        "prism:publicationName": "Accident Analysis and Prevention",
+        "prism:issn": "00014575",
+        "prism:volume": "224",
+        "prism:pageRange": null,
+        "prism:coverDate": "2026-01-01",
+        "prism:coverDisplayDate": "January 2026",
+        "prism:doi": "10.1016/j.aap.2025.108279",
+        "pii": "S0001457525003677",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Beihang University",
+            "affiliation-city": "Beijing",
+            "affiliation-country": "China"
+          }
+        ],
+        "pubmed-id": "41124947",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "108279",
+        "source-id": "19532",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105018298441"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105018298441?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105018298441&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105018298441&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105018298441",
+        "dc:identifier": "SCOPUS_ID:105018298441",
+        "eid": "2-s2.0-105018298441",
+        "dc:title": "Context reasoning-based vehicle traffic accident severity prediction using a machine learning algorithm in edge computing",
+        "dc:creator": "Mahalakshmi V.",
+        "prism:publicationName": "Engineering Research Express",
+        "prism:eIssn": "26318695",
+        "prism:volume": "7",
+        "prism:issueIdentifier": "4",
+        "prism:pageRange": null,
+        "prism:coverDate": "2025-12-31",
+        "prism:coverDisplayDate": "31 December 2025",
+        "prism:doi": "10.1088/2631-8695/ae06f5",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Vellore Institute of Technology",
+            "affiliation-city": "Vellore",
+            "affiliation-country": "India"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "045310",
+        "source-id": "21101023156",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105019045001"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105019045001?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105019045001&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105019045001&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0952197625027514"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105019045001",
+        "dc:identifier": "SCOPUS_ID:105019045001",
+        "eid": "2-s2.0-105019045001",
+        "dc:title": "Residual generative adversarial network-driven Data enhancement for magnetic flux leakage-based defect recognition in oil and gas pipelines",
+        "dc:creator": "Liu B.",
+        "prism:publicationName": "Engineering Applications of Artificial Intelligence",
+        "prism:issn": "09521976",
+        "prism:volume": "162",
+        "prism:pageRange": null,
+        "prism:coverDate": "2025-12-24",
+        "prism:coverDisplayDate": "24 December 2025",
+        "prism:doi": "10.1016/j.engappai.2025.112720",
+        "pii": "S0952197625027514",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Shenyang University of Technology",
+            "affiliation-city": "Shenyang",
+            "affiliation-country": "China"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Shenyang Key Laboratory of Aeroengine Health Management",
+            "affiliation-city": "Shenyang",
+            "affiliation-country": "China"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "112720",
+        "source-id": "24182",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105017419360"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105017419360?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105017419360&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105017419360&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S0952197625026168"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105017419360",
+        "dc:identifier": "SCOPUS_ID:105017419360",
+        "eid": "2-s2.0-105017419360",
+        "dc:title": "Driver risk classification for transportation safety: A machine learning approach using psychological, physiological, and demographic factors with driving simulator",
+        "dc:creator": "Masmoudi M.",
+        "prism:publicationName": "Engineering Applications of Artificial Intelligence",
+        "prism:issn": "09521976",
+        "prism:volume": "162",
+        "prism:pageRange": null,
+        "prism:coverDate": "2025-12-22",
+        "prism:coverDisplayDate": "22 December 2025",
+        "prism:doi": "10.1016/j.engappai.2025.112585",
+        "pii": "S0952197625026168",
+        "citedby-count": "2",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Sharjah",
+            "affiliation-city": "Sharjah",
+            "affiliation-country": "United Arab Emirates"
+          },
+          {
+            "@_fa": "true",
+            "affilname": "Universit\u00e9 Jean Monnet Saint Etienne",
+            "affiliation-city": "Saint-Etienne",
+            "affiliation-country": "France"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "112585",
+        "source-id": "24182",
+        "openaccess": "0",
+        "openaccessFlag": false
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105010058248"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105010058248?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105010058248&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105010058248&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105010058248",
+        "dc:identifier": "SCOPUS_ID:105010058248",
+        "eid": "2-s2.0-105010058248",
+        "dc:title": "A hybrid ARIMA-BP approach for superior accuracy in predicting traffic accident losses",
+        "dc:creator": "Liu J.",
+        "prism:publicationName": "Scientific Reports",
+        "prism:eIssn": "20452322",
+        "prism:volume": "15",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2025-12-01",
+        "prism:coverDisplayDate": "December 2025",
+        "prism:doi": "10.1038/s41598-025-09888-x",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "University of Science and Technology Beijing",
+            "affiliation-city": "Beijing",
+            "affiliation-country": "China"
+          }
+        ],
+        "pubmed-id": "40624209",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "24328",
+        "source-id": "21100200805",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfullgold"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Gold"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105009550432"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105009550432?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105009550432&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105009550432&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "full-text",
+            "@href": "https://api.elsevier.com/content/article/eid/1-s2.0-S2045232225009393"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105009550432",
+        "dc:identifier": "SCOPUS_ID:105009550432",
+        "eid": "2-s2.0-105009550432",
+        "dc:title": "An explainable multi-task deep learning framework for crash severity prediction using multi-source data",
+        "dc:creator": "Xiao Y.",
+        "prism:publicationName": "Scientific Reports",
+        "prism:eIssn": "20452322",
+        "prism:volume": "15",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2025-12-01",
+        "prism:coverDisplayDate": "December 2025",
+        "prism:doi": "10.1038/s41598-025-09226-1",
+        "citedby-count": "2",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Chang'an University",
+            "affiliation-city": "Xi'an",
+            "affiliation-country": "China"
+          }
+        ],
+        "pubmed-id": "40596431",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "21978",
+        "source-id": "21100200805",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfullgold"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Gold"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105010743982"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105010743982?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105010743982&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105010743982&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105010743982",
+        "dc:identifier": "SCOPUS_ID:105010743982",
+        "eid": "2-s2.0-105010743982",
+        "dc:title": "Traffic accident severity prediction based on an enhanced MSCPO-XGBoost hybrid model",
+        "dc:creator": "Chen F.",
+        "prism:publicationName": "Scientific Reports",
+        "prism:eIssn": "20452322",
+        "prism:volume": "15",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2025-12-01",
+        "prism:coverDisplayDate": "December 2025",
+        "prism:doi": "10.1038/s41598-025-00797-7",
+        "citedby-count": "2",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Xihua University",
+            "affiliation-city": "Chengdu",
+            "affiliation-country": "China"
+          }
+        ],
+        "pubmed-id": "40670407",
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "25729",
+        "source-id": "21100200805",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfullgold"
+            },
+            {
+              "$": "repository"
+            },
+            {
+              "$": "repositoryam"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Gold"
+            },
+            {
+              "$": "Green"
+            }
+          ]
+        }
+      },
+      {
+        "@_fa": "true",
+        "link": [
+          {
+            "@_fa": "true",
+            "@ref": "self",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105019357148"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "author-affiliation",
+            "@href": "https://api.elsevier.com/content/abstract/scopus_id/105019357148?field=author,affiliation"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus",
+            "@href": "https://www.scopus.com/inward/record.uri?partnerID=HzOxMe3b&scp=105019357148&origin=inward"
+          },
+          {
+            "@_fa": "true",
+            "@ref": "scopus-citedby",
+            "@href": "https://www.scopus.com/inward/citedby.uri?partnerID=HzOxMe3b&scp=105019357148&origin=inward"
+          }
+        ],
+        "prism:url": "https://api.elsevier.com/content/abstract/scopus_id/105019357148",
+        "dc:identifier": "SCOPUS_ID:105019357148",
+        "eid": "2-s2.0-105019357148",
+        "dc:title": "A Computational Intelligence GNN\u2013LSTM Framework for Spatiotemporal Prediction of Traffic Accident Severity in Smart Cities Using SHAP XAI",
+        "dc:creator": "Alnowaiser K.",
+        "prism:publicationName": "International Journal of Computational Intelligence Systems",
+        "prism:issn": "18756891",
+        "prism:eIssn": "18756883",
+        "prism:volume": "18",
+        "prism:issueIdentifier": "1",
+        "prism:pageRange": null,
+        "prism:coverDate": "2025-12-01",
+        "prism:coverDisplayDate": "December 2025",
+        "prism:doi": "10.1007/s44196-025-01015-y",
+        "citedby-count": "0",
+        "affiliation": [
+          {
+            "@_fa": "true",
+            "affilname": "Prince Sattam Bin Abdulaziz University",
+            "affiliation-city": "Al Kharj",
+            "affiliation-country": "Saudi Arabia"
+          }
+        ],
+        "prism:aggregationType": "Journal",
+        "subtype": "ar",
+        "subtypeDescription": "Article",
+        "article-number": "271",
+        "source-id": "17800156712",
+        "openaccess": "1",
+        "openaccessFlag": true,
+        "freetoread": {
+          "value": [
+            {
+              "$": "all"
+            },
+            {
+              "$": "publisherfullgold"
+            }
+          ]
+        },
+        "freetoreadLabel": {
+          "value": [
+            {
+              "$": "All Open Access"
+            },
+            {
+              "$": "Gold"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

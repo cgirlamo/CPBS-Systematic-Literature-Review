@@ -1,0 +1,92 @@
+id,Title,Author,Date,Volume,Pages,DOI,SCOPUS_ID
+1,"Patterns, Causes, and Mortality Trends of Road Traffic Accidents in Hamedan Province, Iran: A Spatiotemporal Epidemiological Analysis (2011–2024)",Jalili E.,2026-12-01,26,,10.34172/jrhs.11510,SCOPUS_ID:105020826478
+2,"Monthly rural-urban scaling of road accidents in England, Wales and Scotland (2019-2023)",Copsey I.,2026-05-01,516,,10.1016/j.amc.2025.129874,SCOPUS_ID:105024219202
+3,Effect of COVID-19 restrictions and fuel prices on traffic volume and offenses in Iran: A spatiotemporal analysis,Delavary M.,2025-10-01,20,,10.1371/journal.pone.0332443,SCOPUS_ID:105019520337
+4,Segment length optimization for crash frequency modelling: Evaluating power spectral segment length in safety performance assessment,Kumar P.,2025-09-01,219,,10.1016/j.aap.2025.108122,SCOPUS_ID:105006530813
+5,Nonlinear Effects of Multiscale Road Network Features on Traffic Accidents,Zhou F.,2025-08-01,45,1344-1357,10.13284/j.cnki.rddl.20240777,SCOPUS_ID:105015828701
+6,Dataset for Traffic Accident Analysis in Poland: Integrating Weather Data and Sociodemographic Factors,Faruga Ł.,2025-07-01,15,,10.3390/app15137362,SCOPUS_ID:105010303853
+7,Explainable artificial intelligence visions on incident duration using eXtreme Gradient Boosting and SHapley Additive exPlanations,Hamad K.,2025-06-01,4,,10.1016/j.multra.2025.100209,SCOPUS_ID:86000609063
+8,Can tire wear be detected using vibration signals?–an experimental study,Prasshanth C.V.,2025-05-01,16,1899-1913,10.1007/s13198-025-02756-x,SCOPUS_ID:105001963016
+9,"Modelling low temporal, large spatial data of fatal crashes: An application of negative binomial GSARIMAX time series",Ghalehnovi S.,2025-05-01,214,,10.1016/j.aap.2025.107958,SCOPUS_ID:85217777281
+10,Analyzing Traffic Accident Trends and Correlations in Iraq: An Investigative Statistical Approach,Hassooni D.K.,2025-03-31,3303,,10.1063/5.0264564,SCOPUS_ID:105002311605
+11,"Machine Learning Regression Model Development and Data Visualization of Road Accident in Urdaneta City, Pangasinan, Philippines",Dorado D.,2025-03-05,,27-32,10.1145/3690771.3690785,SCOPUS_ID:105001161688
+12,"Exploring and identification of road traffic crash hotspots in Kigali-city, Rwanda",Jean de Dieu G.,2025-01-01,30,454-470,10.1080/13588265.2024.2406972,SCOPUS_ID:85205529113
+13,Tire Pressure Monitoring System Using Feature Fusion and Family of Lazy Classifiers,Pandey A.,2025-01-01,7,,10.1002/eng2.13057,SCOPUS_ID:85210386339
+14,Exploring Accident Frequency Using Explainable AI: a Case Study of the Central Section of National Freeway No.1 in Taiwan,Yang M.C.,2025-01-01,,,10.1109/ECTI-CON64996.2025.11101022,SCOPUS_ID:105014434053
+15,Next-Generation Safety using a Continuous HMM Method for Automatic Accident Detection,Rao S.P.C.,2025-01-01,,,10.1109/ICDSIS65355.2025.11071232,SCOPUS_ID:105011824171
+16,Traffic conflict analysis in continuous confluence area of cross-river bridge driven by vehicle trajectory data,Wang J.,2025-01-01,26,102-110,10.1080/15389588.2024.2385585,SCOPUS_ID:85201223561
+17,Who initiates the automated vehicle disengagement—humans or automated driving systems?,Moradloo N.,2025-01-01,,,10.1080/15472450.2025.2474406,SCOPUS_ID:86000217022
+18,STARTING DRIVING STYLE RECOGNITION OF ELECTRIC CITY BUS BASED ON DEEP LEARNING AND CAN DATA,Zhao D.,2024-11-21,39,229-239,10.3846/transport.2024.22749,SCOPUS_ID:85215095172
+19,Estimating global 0.1° scale gridded anthropogenic CO2 emissions using TROPOMI NO2 and a data-driven method,Zhang Y.,2024-11-01,949,,10.1016/j.scitotenv.2024.175177,SCOPUS_ID:85200245112
+20,Risk prediction model for distracted driving: Characterizing interactions of eye glances and manual sequences,Li S.,2024-10-01,37,,10.1016/j.tbs.2024.100851,SCOPUS_ID:85196484585
+21,Machine learning modeling of pavement performance and IRI prediction in flexible pavement,Alnaqbi A.,2024-10-01,9,,10.1007/s41062-024-01688-y,SCOPUS_ID:85203985794
+22,VisUAM: A web-based tool for data visualization in scientific research,Pérez-Espinosa A.,2024-09-01,27,,10.1016/j.softx.2024.101852,SCOPUS_ID:85201709230
+23,Multi-Index Driver Drowsiness Detection Method Based on Driver’s Facial Recognition Using Haar Features and Histograms of Oriented Gradients,Quiles-Cucarella E.,2024-09-01,24,,10.3390/s24175683,SCOPUS_ID:85203865916
+24,"Global, regional, national trends of femur fracture and machine learning prediction: Comprehensive findings and questions from global burden of disease 1990–2019",Wu J.,2024-05-01,46,46-52,10.1016/j.jot.2024.03.002,SCOPUS_ID:85193247417
+25,Assessment of the Effect of Road Infrastructure on Traffic Accidents Based on the Fuzzy Linear Regression Method,Muratova M.A.,2024-01-01,846,221-235,10.1007/978-3-031-49390-4_16,SCOPUS_ID:85197913460
+26,Road Accidents Forecasting: An Uncertainty Quantification Model for Pre-disaster Management in Moroccan Context,Raillani H.,2024-01-01,,225-244,10.1007/978-3-031-47036-3_20,SCOPUS_ID:85175974969
+27,Developing a spatio-temporal interactions model for car crashes using a novel data-driven AHP-TOPSIS,Ghezelbash S.,2024-01-01,162,,10.1016/j.apgeog.2023.103151,SCOPUS_ID:85177834768
+28,Moving vision zero programs forward: What pedestrian-focused countermeasure combinations work best and where? A dynamic copula-based time-series approach,Ghomi H.,2023-11-01,192,,10.1016/j.aap.2023.107229,SCOPUS_ID:85169838308
+29,Nonlinear Time Series Analysis and Prediction of General Aviation Accidents Based on Multi-Timescales,Wang Y.,2023-08-01,10,,10.3390/aerospace10080714,SCOPUS_ID:85168667241
+30,Robust visual detection of brake-lights in front for commercialized dashboard camera,Moon J.,2023-08-01,18,,10.1371/journal.pone.0289700,SCOPUS_ID:85167761096
+31,"Trends in alcohol-impaired crashes in California, 2016 to 2021: A time series analysis for alcohol involvement and crash distribution among demographic subgroups",Mehranbod C.A.,2023-06-01,47,1119-1131,10.1111/acer.15091,SCOPUS_ID:85158153596
+32,A Spatial-Reduction Attention-Based BiGRU Network for Water Level Prediction,Bao K.,2023-04-01,15,,10.3390/w15071306,SCOPUS_ID:85152859663
+33,Machine Learning Methods to Analyze and Predict Crash Injury Severity Based on Contributing Factors for Southeast Michigan,Cai X.,2023-03-01,2677,83-94,10.1177/03611981221113569,SCOPUS_ID:85153344064
+34,Analysis of the impact of expressway construction on soil moisture in road areas,Li Y.,2023-03-01,18,,10.1371/journal.pone.0283225,SCOPUS_ID:85151397224
+35,LSTM Road Traffic Accident Prediction Model Based on Attention Mechanism,Wang S.,2023-01-01,,215-219,10.1109/ICCCBDA56900.2023.10154750,SCOPUS_ID:85164666148
+36,It Is About Weather: Explainable Machine Learning for Traffic Accident Understanding,Soedirman S.,2023-01-01,,2689-2694,10.1109/SMC53992.2023.10393997,SCOPUS_ID:85187267452
+37,Risk reduction via spatial and temporal visualization of road accidents: a way forward for emergency response optimization in developing countries,Qalb A.,2023-01-01,30,310-320,10.1080/17457300.2022.2164312,SCOPUS_ID:85145675517
+38,Research on Safety Risk Prediction Model of High-Speed Railway Based on Chaotic RBF Neural Network,Yi S.,2023-01-01,,93-96,10.1109/ISHC61216.2023.00025,SCOPUS_ID:85196356591
+39,Hybrid Image Improving and CNN (HIICNN) Stacking Ensemble Method for Traffic Sign Recognition,Yildiz G.,2023-01-01,11,69536-69552,10.1109/ACCESS.2023.3292955,SCOPUS_ID:85164397758
+40,Secure Collaborative Augmented Reality Framework for Biomedical Informatics,Djenouri Y.,2022-06-01,26,2417-2424,10.1109/JBHI.2021.3139575,SCOPUS_ID:85122585046
+41,Traffic Accident Analyzer: A Visual Analytics Tool for Traffic Accidents Dataset,Almajyul A.,2022-01-01,235,869-882,10.1007/978-981-16-2377-6_80,SCOPUS_ID:85116454742
+42,ViewClassifier: Visual Analytics on Performance Analysis for Imbalanced Fatal Accident Data,Alicioglu G.,2022-01-01,296,481-501,10.1007/978-3-030-82199-9_32,SCOPUS_ID:85113786933
+43,Identification of Suburban Motorcycle Traffic Accident Hotspots Using GIS-Based Spatial Analysis,Klaylee J.,2022-01-01,,35-40,10.1109/ICTLE55577.2022.9902103,SCOPUS_ID:85141353854
+44,Trend Extraction and Visualization of Motor Vehicle Occupant Fatality Rates,Stromberger K.,2022-01-01,2022-September,389-394,10.1109/CCECE49351.2022.9918457,SCOPUS_ID:85140965319
+45,Real-Time Detection of Traffic Anomalies Near Roundabouts,Pramanik A.,2022-01-01,1543 CCIS,253-264,10.1007/978-3-031-04112-9_19,SCOPUS_ID:85128973128
+46,"Impact of COVID-19 pandemic on road safety in Tamil Nadu, India",Paramasivan K.,2022-01-01,29,265-277,10.1080/17457300.2021.2007134,SCOPUS_ID:85120990458
+47,"Traffic violation analysis using time series, clustering and panel zero-truncated one-inflated mixed model",Rezaei Ghahroodi Z.,2022-01-01,29,429-449,10.1080/17457300.2022.2075396,SCOPUS_ID:85134631326
+48,TripMD: Driving patterns investigation via motif analysis,Silva M.I.,2021-12-01,184,,10.1016/j.eswa.2021.115527,SCOPUS_ID:85110108224
+49,Traffic stops do not prevent traffic deaths,Sarode A.L.,2021-07-01,91,141-147,10.1097/TA.0000000000003163,SCOPUS_ID:85108671465
+50,Evaluation of a population health strategy to reduce distracted driving: Examining all “Es” of injury prevention,Stewart T.C.,2021-03-01,90,535-543,10.1097/TA.0000000000002948,SCOPUS_ID:85102214434
+51,A Novel Driving Behavior Learning and Visualization Method with Natural Gaze Prediction,Yuan G.,2021-01-01,9,18560-18568,10.1109/ACCESS.2021.3054951,SCOPUS_ID:85100466584
+52,"Collection, analysis, and reporting of kentucky traffic incident management performance",Zhang X.,2021-01-01,2675,167-181,10.1177/03611981211001077,SCOPUS_ID:85118422661
+53,Enhanced amygdala-frontal operculum functional connectivity during rest in women with chronic neck pain: Associations with impaired conditioned pain modulation,Coppieters I.,2021-01-01,30,,10.1016/j.nicl.2021.102638,SCOPUS_ID:85104982407
+54,Surgical versus conservative treatment of unilateral subaxial non-subluxed facet fractures: A systematic review and meta-analysis,Larkin C.J.,2020-12-01,199,,10.1016/j.clineuro.2020.106280,SCOPUS_ID:85092629685
+55,"Investigation of Spatiotemporal Changes in the Incidence of Traffic Accidents in Kahramanmaraş, Turkey, Using GIS-Based Density Analysis",Özcan M.,2020-07-01,48,1045-1056,10.1007/s12524-020-01137-0,SCOPUS_ID:85089084459
+56,"Towards Big Data Analytics and Mining for UK Traffic Accident Analysis, Visualization & Prediction",Feng M.,2020-02-15,,225-229,10.1145/3383972.3384034,SCOPUS_ID:85085914127
+57,A comparison of radial and linear charts for visualizing daily patterns,Waldner M.,2020-01-01,26,1033-1042,10.1109/TVCG.2019.2934784,SCOPUS_ID:85075634112
+58,Mortality by Road Traffic Injuries in Brazil (2000–2016): Capital Cities Versus Non-Capital Cities,de Aquino É.C.,2020-01-01,54,1-13,10.11606/s1518-8787.2020054001703,SCOPUS_ID:85096817098
+59,3d modeling to identify and quantify obstacles in aerodrome protection zone,Falavigna G.P.,2020-01-01,26,1-12,10.1590/s1982-21702020000200009,SCOPUS_ID:85090177891
+60,Spatial analysis of traffic accidents based on WaveCluster and vehicle communication system data,Zhang J.,2019-12-01,2019,,10.1186/s13638-019-1450-0,SCOPUS_ID:85066114580
+61,Visual spatial analytic method for spatial semantic-enhanced urban traffic data,Yuelong L.,2019-12-01,24,2279-2290,10.11834/jig.190284,SCOPUS_ID:85194737716
+62,"Economic development and road traffic injuries and fatalities in Thailand: An application of spatial panel data analysis, 2012-2016",Suphanchaimat R.,2019-11-04,19,,10.1186/s12889-019-7809-7,SCOPUS_ID:85074546709
+63,Complementary methodologies to identify weather conditions in naturalistic driving study trips: Lessons learned from the SHRP2 naturalistic driving study & roadway information database,Ghasemzadeh A.,2019-11-01,119,21-28,10.1016/j.ssci.2019.01.006,SCOPUS_ID:85060489284
+64,Visual Analytics Method for Local Correlation of Urban Traffic Accidents,Liu X.Y.,2019-10-31,40,843-851,10.11996/JG.j.2095-302X.2019050843,SCOPUS_ID:85163716421
+65,Intelligent monitoring system for smart road environment,Finogeev A.,2019-09-01,15,15-20,10.1016/j.jii.2019.05.003,SCOPUS_ID:85065873965
+66,DM-MCDA: A web-based platform for data mining and multiple criteria decision analysis: A case study on road accident,Ait-Mlouk A.,2019-07-01,10,,10.1016/j.softx.2019.100323,SCOPUS_ID:85071883425
+67,"Contextualising Safety in Numbers: A longitudinal investigation into change in cycling safety in Britain, 1991-2001 and 2001-2011",Aldred R.,2019-06-01,25,236-241,10.1136/injuryprev-2017-042498,SCOPUS_ID:85046415667
+68,A deep-learning model for predicting and visualizing the risk of road traffic accidents in Saudi Arabia: A tutorial approach,Alrajhi M.,2019-01-01,10,475-483,10.14569/IJACSA.2019.0101166,SCOPUS_ID:85077236394
+69,Regional differences and spatial aggregation of sustainable transport efficiency: A case study of China,Ma F.,2018-07-10,10,,10.3390/su10072399,SCOPUS_ID:85049737237
+70,Influence of pedestrian age and gender on spatial and temporal distribution of pedestrian crashes,Toran Pour A.,2018-01-02,19,81-87,10.1080/15389588.2017.1341630,SCOPUS_ID:85028535191
+71,"4th International Conference on Cloud Computing andSecurity, ICCCS 2018",,2018-01-01,11064 LNCS,,,SCOPUS_ID:85057363436
+72,Research on image processing technology and application of unmanned aerial vehicle,Wang Y.,2017-12-15,55,534-540,,SCOPUS_ID:85038874541
+73,ACM International Conference Proceeding Series,,2017-06-19,Part F129475,,,SCOPUS_ID:85028315786
+74,Evaluating the Brazilian zero tolerance drinking and driving law: Time series analyses of traffic-related mortality in three major cities,Volpe F.M.,2017-05-19,18,337-343,10.1080/15389588.2016.1214869,SCOPUS_ID:85006150275
+75,"Hotspots and causes of motor vehicle crashes in Baltimore, Maryland: A geospatial analysis of five years of police crash and census data",Dezman Z.,2016-11-01,47,2450-2458,10.1016/j.injury.2016.09.002,SCOPUS_ID:84994126409
+76,Determinants of road traffic safety: New evidence from Australia using state-space analysis,Nghiem S.,2016-09-01,94,65-72,10.1016/j.aap.2016.05.012,SCOPUS_ID:84971671312
+77,Missing aircraft crash sites and spatial relationships to the last radar fix,Koester R.J.,2016-02-01,87,114-121,10.3357/AMHP.4396.2016,SCOPUS_ID:84965092224
+78,"5th International Conference on Soft Computing for Problem Solving, SocProS 2015",,2016-01-01,437,1-1044,,SCOPUS_ID:84964903030
+79,Driver aggressiveness detection using visual information from forward camera,Kumtepe O.,2015-10-19,,,10.1109/AVSS.2015.7301729,SCOPUS_ID:84958665483
+80,Level of agreement between patient-reported EQ-5D responses and EQ-5D responses mapped from the SF-12 in an injury population,Gabbe B.J.,2015-06-13,13,,10.1186/s12963-015-0047-z,SCOPUS_ID:84934974469
+81,"15th International Conference on Algorithms and Architectures for Parallel Processing, ICA3PP 2015",,2015-01-01,9529,1-728,,SCOPUS_ID:84951934430
+82,Traffic incident detection and modelling using Quantum Frequency Algorithm and AutoRegressive Integrated Moving Average models,Abanto J.E.,2013-12-09,,7-10,10.1109/IISA.2013.6623679,SCOPUS_ID:84889019370
+83,On statistical inference in time series analysis of the evolution of road safety,Commandeur J.J.F.,2013-01-01,60,424-434,10.1016/j.aap.2012.11.006,SCOPUS_ID:84887104484
+84,A macro-analysis of impacts of safety interventions on road safety developments in a country,Gitelman V.,2012-12-01,,139-170,,SCOPUS_ID:84892089904
+85,Amenable mortality in Germany: Spatial distribution and regional concentrations,Sundmacher L.,2011-01-01,73,229-237,10.1055/s-0030-1254154,SCOPUS_ID:79955467558
+86,Finding comparable temporal categorical records: A similarity measure with an interactive visualization,Wongsuphasawat K.,2009-12-01,,27-34,10.1109/VAST.2009.5332595,SCOPUS_ID:72849125354
+87,Pinpointing the pieces,Talend D.,2009-08-01,20,50,,SCOPUS_ID:77951835461
+88,Application of electronic surveillance and global information system mapping to track the epidemiology of pediatric pedestrian injury,Weiner E.J.,2009-03-01,66,S10-S16,10.1097/TA.0b013e3181937bc8,SCOPUS_ID:68049118315
+89,"Effect of repeated administration of an antihistamine, olopatadine, on CNS histamine H1 receptor measured with PET: Visualization of down regulation",Senda M.,2007-11-13,27,BP20-02,,SCOPUS_ID:36348985445
+90,Attributable fractions: Fundamental concepts and their visualization,Eide G.,2001-07-09,10,159-193,10.1191/096228001680195148,SCOPUS_ID:0034960011
+91,A computational dynamical model for traffic accident reconstruction,Lozano J.A.,1998-01-01,19,213-227,,SCOPUS_ID:0031650284

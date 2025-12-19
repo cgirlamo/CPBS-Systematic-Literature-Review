@@ -1,0 +1,668 @@
+id,Title,Author,Date,Volume,Pages,DOI,SCOPUS_ID
+1,Exploring weather-related factors affecting the duration of multiple congestion levels caused by traffic incidents using a multivariate joint frailty survival model,Liu Y.,2026-04-01,43,,10.1016/j.tbs.2025.101209,SCOPUS_ID:105024214714
+2,A multivariate approach for drowsiness detection using empirical Fourier decomposition,Mahato A.,2026-03-01,113,,10.1016/j.bspc.2025.108944,SCOPUS_ID:105019977098
+3,SET-DGCN: An end-to-end electroencephalography-based fatigue detection method for young drivers,Cao Y.,2026-02-01,225,,10.1016/j.aap.2025.108311,SCOPUS_ID:105021606484
+4,Spatiotemporal evolution of global maritime accidents: Integrating hot spot detection and severity modeling for system safety,Wan C.,2026-02-01,266,,10.1016/j.ress.2025.111687,SCOPUS_ID:105017118337
+5,Short-crested wave-induced ship motion prediction using a CL-CBAM-GRU model,Wei Q.,2026-01-15,343,,10.1016/j.oceaneng.2025.123277,SCOPUS_ID:105021120545
+6,STCAGNN-RNKDE: a traffic accident prediction model for spatiotemporal combinatorial attention graph neural networks using Ripley's K and network kernel density estimation,Gao P.,2026-01-01,265,,10.1016/j.ress.2025.111593,SCOPUS_ID:105013739920
+7,Cloud Integrated Mobile App Development for Road Safety and Pothole Detection Alert System Using Rasperry Pi,Muthu Krishnammal P.,2026-01-01,1386 LNNS,123-146,10.1007/978-981-96-6053-7_9,SCOPUS_ID:105019647967
+8,LiDAR-GPS Integrated System for Real-Time Pothole Detection and Visualization Using Google Earth,Pattanashetty V.B.,2026-01-01,1656 LNNS,215-224,10.1007/978-3-032-06703-6_21,SCOPUS_ID:105022853513
+9,Chaotic dual-feature graph convolutional network (CDF-GCN) for traffic speed forecasting,Shi N.,2026-01-01,186,,10.1016/j.asoc.2025.114096,SCOPUS_ID:105019529968
+10,How does the driver respond to rear-end risk under time-varying driving styles: A temporal instability test using the model with heterogeneity in means and variances,Xu G.,2026-01-01,224,,10.1016/j.aap.2025.108288,SCOPUS_ID:105021256576
+11,Harmony or hazard? Quantifying driver workload under music and navigation distractions using interpretable AI,Peng Z.,2026-01-01,193,,10.1016/j.ssci.2025.107024,SCOPUS_ID:105019961918
+12,Leveraging LLMs in Cloud–Edge Networks for Traffic Risk Prediction and Accident Severity Analysis,Hu Y.,2026-01-01,13,438-453,10.1109/TNSE.2025.3584432,SCOPUS_ID:105010058194
+13,Spectral Curvature Signature: A Frequency-Domain Descriptor for Driving Behavior Classification,Thai D.T.,2026-01-01,16354 LNAI,371-383,10.1007/978-981-95-4960-3_30,SCOPUS_ID:105023828972
+14,Driver distracted detection using a new hybrid deep convolutional neural network based on Autoencoder,Hassam D.D.,2025-12-31,7,,10.1088/2631-8695/ae0ff5,SCOPUS_ID:105019403091
+15,Intelligent traffic accident detection system in complex dynamic scenarios based on the dual-stream spatiotemporal-fusion model,Liu H.,2025-12-26,162,,10.1016/j.engappai.2025.112675,SCOPUS_ID:105019979346
+16,A systematic review on GIS-based road traffic accidents analysis and road safety audit,Endashaw D.K.,2025-12-01,5,,10.1007/s43762-025-00221-w,SCOPUS_ID:105019196309
+17,Multi-view residual spatio-temporal topology adaptive graph convolutional network for urban road traffic accident prediction with multi-source risks,Wang R.,2025-12-01,28,,10.1016/j.array.2025.100617,SCOPUS_ID:105023711232
+18,Time-intervals-related pattern selection for continuous event prediction,Itzhak N.,2025-12-01,168,,10.1016/j.patcog.2025.111546,SCOPUS_ID:105006976658
+19,Temporal facial features based fatigue detection system for low-cost devices,Wang C.,2025-12-01,239,7272-7286,10.1177/09544070241306160,SCOPUS_ID:85213503077
+20,YOLOv10n-BC: A Novel Real-Time Object Detection Model for Driver Distracted Driving Detection,Liu Y.,2025-12-01,E108.D,1570-1581,10.1587/transinf.2025EDP7088,SCOPUS_ID:105023311187
+21,Real-time driver drowsiness detection using transformer architectures: a novel deep learning approach,Hassan O.F.,2025-12-01,15,,10.1038/s41598-025-02111-x,SCOPUS_ID:105005555166
+22,Deep segmentation of 3+1D radar point cloud for real-time roadside traffic user detection,Bhanderi S.,2025-12-01,15,,10.1038/s41598-025-23019-6,SCOPUS_ID:105020866215
+23,Adaptive multi-scale spatio-temporal convolutional network with reinforcement learning for dynamic lane-level traffic flow prediction,Yang X.,2025-12-01,28,,10.1016/j.array.2025.100513,SCOPUS_ID:105015780677
+24,Deep learning based predictive models for real time accident prevention in autonomous vehicle networks,Almutairi A.,2025-12-01,15,,10.1038/s41598-025-04867-8,SCOPUS_ID:105009740103
+25,Assessing motorcyclist injury severity on curved road segments with temporal dynamics and unobserved heterogeneity,Jafari M.,2025-12-01,15,,10.1038/s41598-025-97972-7,SCOPUS_ID:105003125741
+26,Does brain connectivity hold the key to safer roads? EEG-based fatigue detection in young drivers using interpretable deep learning,Zhou Y.,2025-12-01,223,,10.1016/j.aap.2025.108251,SCOPUS_ID:105016993034
+27,Zone-specific real-time traffic conflict risk modeling for freeway tunnels: a CrossTabNet approach,Jin J.,2025-12-01,223,,10.1016/j.aap.2025.108274,SCOPUS_ID:105018050041
+28,Mobile crowd sensing for road anomaly detection using deep learning,Jana S.,2025-12-01,33,,10.1007/s41324-025-00651-y,SCOPUS_ID:105019757963
+29,Design of an integrated model for pothole detection and repair optimization using multimodal transformers and hybrid deep learning,Meshram K.,2025-12-01,23,,10.1016/j.cscm.2025.e05431,SCOPUS_ID:105019739774
+30,Hybrid AI model for social network-based flow prediction,Zhou Y.,2025-12-01,5,,10.1007/s44163-025-00593-2,SCOPUS_ID:105021800321
+31,CrossFormerGAN: enhancing pedestrian trajectory prediction in autonomous driving through advanced attention mechanisms and transformer architectures,Nisha V.,2025-12-01,19,,10.1007/s11571-025-10316-z,SCOPUS_ID:105014007935
+32,Exploring the role of virtual reality in preparing emergency responders for mass casualty incidents,Lochmannová A.,2025-12-01,14,,10.1186/s13584-025-00681-9,SCOPUS_ID:105002706572
+33,Hypergraph network with multi-granularity temporal representation for traffic accident prediction,Deng W.,2025-11-07,653,,10.1016/j.neucom.2025.131219,SCOPUS_ID:105013322305
+34,Predicting urban vitality and pedestrian road safety in urban areas based on machine learning,Qiao W.,2025-11-01,166,,10.1016/j.cities.2025.106193,SCOPUS_ID:105009501085
+35,Digital Twin-Based Driver Risk-Aware Predictive Mobility Analytics for Real-Time Situational Awareness Through Cooperative Sensing,Li T.,2025-11-01,26,20071-20090,10.1109/TITS.2025.3604569,SCOPUS_ID:105015478177
+36,Real-Time Detection of Rear Car Signals for Advanced Driver Assistance Systems Using Meta-Learning and Geometric Post-Processing,Tammisetti V.,2025-11-01,15,,10.3390/app152211964,SCOPUS_ID:105023195816
+37,IDSRN: Interpretable Dynamic System Recurrent Network for Driver Fatigue Assessment,Gao B.,2025-11-01,15,,10.3390/app152111384,SCOPUS_ID:105021458349
+38,A crash-injury-aware driving safety field for real-time risk assessment and its application in autonomous vehicle motion planning,Guo W.,2025-11-01,222,,10.1016/j.aap.2025.108224,SCOPUS_ID:105015570841
+39,Sparse attention and graph matching network for multi-view vehicle detection in collaborative perception systems,Zhang Y.,2025-11-01,19,,10.1007/s11760-025-04535-4,SCOPUS_ID:105012251732
+40,Dynamic risk assessment for autonomous vehicles from spatio-temporal probabilistic occupancy heatmaps,Wang H.,2025-11-01,222,,10.1016/j.aap.2025.108226,SCOPUS_ID:105016458728
+41,A novel data-driven multi-agent pedestrian flow risk assessment framework for avoiding stampede incident,Zhou Z.X.,2025-11-01,222,,10.1016/j.aap.2025.108207,SCOPUS_ID:105014548812
+42,LATTE: A Real-time Lightweight Attention-based Traffic Accident Anticipation Engine,Zhang J.,2025-10-01,122,,10.1016/j.inffus.2025.103173,SCOPUS_ID:105002292774
+43,"Evaluating the impact of meteorological parameters on road accidents using spatial analysis: a case study of Semnan province, Iran",Ghazvinian H.,2025-10-01,33,,10.1007/s41324-025-00645-w,SCOPUS_ID:105014717089
+44,ADVANCING TRAFFIC SAFETY THROUGH CAPRNN: A HYBRID CAPSULE-RECURRENT NEURAL NETWORK FOR ACCIDENT FORECASTING,Verma R.,2025-10-01,16,335-352,10.30572/2018/KJE/160419,SCOPUS_ID:105022280040
+45,Driver distraction detection based on adaptive tiny targets and lightweight networks,Gu S.,2025-10-01,138,,10.1016/j.image.2025.117342,SCOPUS_ID:105005416157
+46,HCF-YOLO: a high-performance traffic sign detection model with hybrid channel fusion and auxiliary box regression,Ren H.,2025-10-01,22,,10.1007/s11554-025-01767-y,SCOPUS_ID:105018065145
+47,Transfer learning-based facial emotion detection for enhanced driver safety: a hybrid approach,Slimi S.,2025-09-30,7,,10.1088/2631-8695/adfa6b,SCOPUS_ID:105014400362
+48,Rain-fog detection via spatial adaptive deformable network with multi-scale feature preservation and task-aware dynamic calibration,Hou P.,2025-09-30,7,,10.1088/2631-8695/adf525,SCOPUS_ID:105012500446
+49,DFDG: Adaptive federated learning for dynamic graph-based traffic forecasting,Usman M.,2025-09-27,326,,10.1016/j.knosys.2025.114019,SCOPUS_ID:105009592175
+50,CIRS: A Multi-Agent Machine Learning Framework for Real-Time Accident Detection and Emergency Response,Ayesha S.,2025-09-01,25,,10.3390/s25185845,SCOPUS_ID:105016905679
+51,Can AI-powered traffic enforcement system augment road safety by influencing driver behavior and perception?,Cheranchery M.F.,2025-09-01,21,,10.1016/j.cstp.2025.101566,SCOPUS_ID:105013503143
+52,Real-Time Driver State Detection Using mmWave Radar: A Spatiotemporal Fusion Network for Behavior Monitoring on Edge Platforms,Tseng S.P.,2025-09-01,14,,10.3390/electronics14173556,SCOPUS_ID:105015790039
+53,Real-Time Driver Attention Detection in Complex Driving Environments via Binocular Depth Compensation and Multi-Source Temporal Bidirectional Long Short-Term Memory Network,Zhou S.,2025-09-01,25,,10.3390/s25175548,SCOPUS_ID:105015895413
+54,Advancing winter road maintenance: An AI-driven web platform for real-time road condition monitoring and spatial analysis,Urbiztondo M.,2025-09-01,33,,10.1016/j.trip.2025.101575,SCOPUS_ID:105013593982
+55,Enhanced road object detection with DFPD-YOLO: focusing on small and occluded targets,Liu Z.,2025-09-01,81,,10.1007/s11227-025-07815-5,SCOPUS_ID:105015441494
+56,Modelling taxi drop-off decisions in FIFO lanes via survival and discrete choice analysis,Yang F.,2025-09-01,20,,10.1371/journal.pone.0331664,SCOPUS_ID:105015392682
+57,AI-Driven Safety Evaluation in Public Transport: A Case Study from Belgrade’s Closed Transit Systems,Zdravković S.,2025-09-01,17,,10.3390/su17188283,SCOPUS_ID:105017158538
+58,A Systematic Review of Machine Learning Analytic Methods for Aviation Accident Research,Nanyonga A.,2025-09-01,7,,10.3390/sci7030124,SCOPUS_ID:105017298827
+59,EPDD-YOLO: An efficient benchmark for pavement damage detection based on Mamba-YOLO,Luo S.,2025-09-01,253,,10.1016/j.measurement.2025.117638,SCOPUS_ID:105004257527
+60,Composite safety potential field for highway driving risk assessment,Zuo D.,2025-09-01,220,,10.1016/j.aap.2025.108080,SCOPUS_ID:105007356162
+61,Early Response Framework for Accident Detection and Prevention Through Multi-Zone Fog-Cloud Collaboration for Safety-Critical Applications,Mishra M.,2025-09-01,55,1616-1634,10.1002/spe.3439,SCOPUS_ID:105009810872
+62,Traffic Accident Rescue Action Recognition Method Based on Real-Time UAV Video,Yang B.,2025-08-01,9,,10.3390/drones9080519,SCOPUS_ID:105014512635
+63,Forecasting spatiotemporal trends of road accidents injuries and fatalities using spatio-temporal cube models: a case study in Iran,Mousavi B.S.,2025-08-01,33,,10.1007/s41324-025-00630-3,SCOPUS_ID:105008971821
+64,Accident Impact Prediction Based on a Deep Convolutional and Recurrent Neural Network Model,Sajadi P.,2025-08-01,9,,10.3390/urbansci9080299,SCOPUS_ID:105014426523
+65,Enhancing Intelligent Transportation Systems in Smart Cities Using VANETs With Deep Reinforcement Transfer Learning and Explainable AI,Ramesh S.S.S.,2025-08-01,36,,10.1002/ett.70219,SCOPUS_ID:105011815307
+66,Maritime vessel trajectory prediction based on sequential long short-term memory and U-Net architectures,Gan L.,2025-08-01,334,,10.1016/j.oceaneng.2025.121598,SCOPUS_ID:105005495149
+67,RL-Net: a rapid and lightweight network for detecting tiny vehicle targets in remote sensing images,Du Y.,2025-08-01,11,,10.1007/s40747-025-01956-z,SCOPUS_ID:105007522033
+68,Automatic detection of foreign object intrusion along railway tracks based on MACENet,Chen X.,2025-08-01,20,,10.1371/journal.pone.0329303,SCOPUS_ID:105012520144
+69,Fine-grained detection and defect analysis for multiple key components in railway tracks based on ABI-RTLSeg,Wei D.,2025-08-01,39,79-90,10.13382/j.jemi.B2407985,SCOPUS_ID:105022738243
+70,Online Identification of Abnormal Events Based on Vehicle Spatiotemporal Trajectory Characteristics,Du S.,2025-07-17,72,207-217,10.3233/ATDE250421,SCOPUS_ID:105016842771
+71,"Road Crash Analysis and Modeling: A Systematic Review of Methods, Data, and Emerging Technologies",Skaug L.,2025-07-01,15,,10.3390/app15137115,SCOPUS_ID:105010207909
+72,DROWSINESS DETECTION USING ECG FROM WEARABLE SENSORS USING VARIATIONAL AUTOENCODER MODEL,Putra B.A.,2025-07-01,16,783-789,10.24507/icicelb.16.07.783,SCOPUS_ID:105006845237
+73,Cross-Modal Behavioral Intelligence in Regard to a Ship Bridge: A Rough Set-Driven Framework with Enhanced Spatiotemporal Perception and Object Semantics,Chen C.,2025-07-01,15,,10.3390/app15137220,SCOPUS_ID:105010335672
+74,Research on Road Damage Detection Algorithms for Intelligent Inspection Robots,Tian H.,2025-07-01,14,,10.3390/electronics14142762,SCOPUS_ID:105011621027
+75,Deflection Prediction of Highway Bridges Using Wireless Sensor Networks and Enhanced iTransformer Model,Mu C.,2025-07-01,15,,10.3390/buildings15132176,SCOPUS_ID:105010318106
+76,A Signal Processing-Guided Deep Learning Framework for Wind Shear Prediction on Airport Runways,Khattak A.,2025-07-01,16,,10.3390/atmos16070802,SCOPUS_ID:105011601025
+77,Online adaptive shockwave detection and inpainting based on vehicle trajectory data: rigorous algorithm design and theory development,Pu C.,2025-07-01,197,,10.1016/j.trb.2025.103225,SCOPUS_ID:105004066065
+78,Deep Learning and LSTM Integration for Analyzing Driver Behaviors,Cınar I.,2025-06-30,17,191-211,10.47000/tjmcs.1644390,SCOPUS_ID:105010240761
+79,Spatio-temporal analysis of road traffic crashes by severity,Gedamu W.T.,2025-06-01,20,,10.1016/j.treng.2025.100327,SCOPUS_ID:105002023923
+80,An Intelligent Driving Recommendation System Integrating Temporal Convolutional Networks and Fuzzy Logic for Real-Time Traffic and Weather Optimization,Girija M.,2025-06-01,73,396-416,10.14445/22315381/IJETT-V73I6P132,SCOPUS_ID:105009865499
+81,Graph convolutional LSTM algorithm for real-time crash prediction on mountainous freeways,Azati Y.,2025-06-01,18,272-284,10.1016/j.ijtst.2024.07.002,SCOPUS_ID:85199106544
+82,Developing a Prediction Model for Real-Time Incident Detection Leveraging User-Oriented Participatory Sensing Data,Hossain M.T.,2025-06-01,16,,10.3390/info16060423,SCOPUS_ID:105009150944
+83,Deep-ATM DL-LSTM: A novel adaptive thresholding model with dual-layer LSTM architecture for real-time driver drowsiness detection using skin conductance signals,Theivadas J.R.,2025-06-01,192,,10.1016/j.compbiomed.2025.110243,SCOPUS_ID:105003103681
+84,YOLO-SFT: Road Damage Detection Algorithm Based on Feature Diffusion,Xie Y.,2025-06-01,151,,10.1061/JPEODX.PVENG-1726,SCOPUS_ID:85217367659
+85,TU-DAT: A Computer Vision Dataset on Road Traffic Anomalies,Pradeep Kumar P.,2025-06-01,25,,10.3390/s25113259,SCOPUS_ID:105007698023
+86,Short-term conflict-based crash risk forecasting: A Bayesian conditional peak-over-threshold approach,Niu D.,2025-06-01,46,,10.1016/j.amar.2025.100385,SCOPUS_ID:105004210827
+87,"A survey of multimodal emotion recognition from facial expressions,audios,and language",Wang S.,2025-06-01,30,2120-2138,10.11834/jig.250168,SCOPUS_ID:105011612395
+88,"GIS-based analysis of spatio-temporal clustering of road traffic accidents in Bangkok Metropolitan Region (BMR), Thailand from 2012 to 2021",Iamtrakul P.,2025-05-01,31,,10.1016/j.trip.2025.101489,SCOPUS_ID:105007758277
+89,Traffic accident risk prediction based on deep learning and spatiotemporal features of vehicle trajectories,Li H.,2025-05-01,20,,10.1371/journal.pone.0320656,SCOPUS_ID:105004211661
+90,"Modelling low temporal, large spatial data of fatal crashes: An application of negative binomial GSARIMAX time series",Ghalehnovi S.,2025-05-01,214,,10.1016/j.aap.2025.107958,SCOPUS_ID:85217777281
+91,Crash localization and traffic impact assessment via spatio-temporal analysis of connected vehicle data,Querfurth L.,2025-05-01,214,,10.1016/j.aap.2025.107956,SCOPUS_ID:85217931008
+92,ST-MambaSync: Complement the power of Mamba and Transformer fusion for less computational cost in spatial–temporal traffic forecasting,Shao Z.,2025-05-01,117,,10.1016/j.inffus.2024.102872,SCOPUS_ID:85212589603
+93,A deep transfer learning approach for Real-Time traffic conflict prediction with trajectory data,Hou Q.,2025-05-01,214,,10.1016/j.aap.2025.107966,SCOPUS_ID:85217956208
+94,Modelling fourth-order hyperelasticity in soft solids using physics informed neural networks without labelled data,Pratap V.,2025-05-01,224,,10.1016/j.brainresbull.2025.111318,SCOPUS_ID:105001299941
+95,SSRL: A Clustering-Based Reinforcement Learning Approach for Efficient Ship Scheduling in Inland Waterways,Gan S.,2025-05-01,17,,10.3390/sym17050679,SCOPUS_ID:105006786676
+96,Advancing road safety: A lightweight feature fusion model for robust road crack segmentation,Khan A.,2025-05-01,65,,10.1016/j.aei.2025.103262,SCOPUS_ID:105000381974
+97,Innovative Approaches to Traffic Anomaly Detection and Classification Using AI,Pérez B.,2025-05-01,15,,10.3390/app15105520,SCOPUS_ID:105006837614
+98,A Highly Efficient Traffic Prediction Model for Continuous Time-series Graph Attention Networks,Liu Y.,2025-04-15,51,350-359,10.19678/j.issn.1000-3428.0069059,SCOPUS_ID:105009466560
+99,Improved DeepLabv3+ Road Surface Crack Detection Method,Yang P.,2025-04-15,51,261-270,10.19678/j.issn.1000-3428.0069114,SCOPUS_ID:105004836079
+100,Driver Cognitive Distraction Detection based on eye movement behavior and integration of multi-view space-channel feature,Qiao Y.,2025-03-25,266,,10.1016/j.eswa.2024.125975,SCOPUS_ID:85212347787
+101,Real-Time Monitoring and Forecasting Ice Layer Thickness Growth Rate and Grip Loss on a Road Network During Winter Storm Events,Emami Tabrizi S.,2025-03-01,2679,189-200,10.1177/03611981241275580,SCOPUS_ID:85206634812
+102,Real-time risk estimation for active road safety: Leveraging Waymo AV sensor data with hierarchical Bayesian extreme value models,Anis M.,2025-03-01,211,,10.1016/j.aap.2024.107880,SCOPUS_ID:85214207817
+103,Driver Drowsiness Detection Based on Facial Video Non-Contact Heart Rate Measurement,Ding F.,2025-03-01,29,306-315,10.20965/jaciii.2025.p0306,SCOPUS_ID:105000795606
+104,Enhanced Broad-Learning-Based Dangerous Driving Action Recognition on Skeletal Data for Driver Monitoring Systems,Li P.,2025-03-01,25,,10.3390/s25061769,SCOPUS_ID:105000919620
+105,Conditional Generative Adversarial Network-Based roadway crash risk prediction considering heterogeneity with dynamic data,Park N.,2025-02-01,92,217-229,10.1016/j.jsr.2024.12.001,SCOPUS_ID:85211207184
+106,Traffic sign recognition model based on scale sequence features and high-order spatial interactions,Zhang G.,2025-02-01,37,3605-3620,10.1007/s00521-024-10677-2,SCOPUS_ID:85212181382
+107,Freeway real-time crash prediction using floating car data,Wang Y.,2025-02-01,171,,10.1016/j.trc.2025.105009,SCOPUS_ID:85215863087
+108,"Burning gig, rewarding risk: Effects of dual exposure to incentive structure and heat condition on risky driving among on-demand food-delivery motorcyclists in Kaohsiung, Taiwan",Hsu C.K.,2025-02-01,210,,10.1016/j.aap.2024.107841,SCOPUS_ID:85210532473
+109,OPTIMIZING ROAD SAFETY: THE ROLE OF GEOGRAPHIC INFORMATION SYSTEMS (GIS) IN TRAFFIC ACCIDENT ANALYSIS AND PREDICTION,Alfaras M.S.,2025-01-01,7,33-42,10.24874/PES07.01.005,SCOPUS_ID:105000049768
+110,Enhanced Road Safety in IoV Using Deep Learning for Real-Time Accident Prediction and Prevention,Syed A.A.M.,2025-01-01,,325-332,10.1109/ICCMSO67468.2025.00065,SCOPUS_ID:105013847052
+111,Cross-Temporal Fusion Memory Network for Traffic Accident Detection,Zhang Y.,2025-01-01,15040 LNCS,387-401,10.1007/978-981-97-8792-0_27,SCOPUS_ID:85209581758
+112,TRACE: Traffic Response Anomaly Capture Engine for Localization of Traffic Incidents,Zulqarnain A.B.,2025-01-01,,42-49,10.1109/SMARTCOMP65954.2025.00067,SCOPUS_ID:105010835809
+113,Comparative Analysis of Spatial Algorithms for Real-Time Traffic Accident Alerts,Chen R.C.,2025-01-01,,431-432,10.1109/ICCE-Taiwan66881.2025.11207808,SCOPUS_ID:105022416660
+114,A Traffic Accident Prediction Model Based on Spatio-Temporal Depth Map and Transformer,Zhou C.,2025-01-01,,2527-2532,10.1109/CSCWD64889.2025.11033325,SCOPUS_ID:105011543555
+115,ST-TAR: An Efficient Spatio-Temporal Learning Framework for Traffic Accident Risk Forecasting,Wang H.,2025-01-01,,7778-7785,10.24963/ijcai.2025/865,SCOPUS_ID:105021805466
+116,DSDFormer: An Innovative Transformer-Mamba Framework for Robust High-Precision Driver Distraction Identification,Chen J.,2025-01-01,,,10.1109/TITS.2025.3625645,SCOPUS_ID:105022721170
+117,Real- Time Driver Emotion Recognition Using CNN-LSTM for Enhanced Road Safety and Accident Prevention,Angel Barakka J.,2025-01-01,,,10.1109/ICCCT63501.2025.11020146,SCOPUS_ID:105008948223
+118,Traffic Accident Prediction Method Based on Local Relational Features and Attention Mechanisms,Zhang Y.,2025-01-01,45,11-18,10.15918/j.tbit1001-0645.2024.018,SCOPUS_ID:105001503955
+119,Self-Supervised State-Space Model for Real-Time Traffic Accident Forecasting Using eKAN Networks,Tan X.,2025-01-01,,,10.1177/03611981251381308,SCOPUS_ID:105023146622
+120,Adaptive prediction of traffic incident duration using change detection and Bayesian networks,Bian Z.,2025-01-01,,,10.1080/23249935.2025.2467743,SCOPUS_ID:86000576595
+121,"Exploring hotspots of traffic accidents in Chiniot-Sargodha Road, Punjab, Pakistan",Ashraf T.,2025-01-01,,,10.1007/s10668-025-05996-w,SCOPUS_ID:85217441536
+122,Enhancing Traffic Crash Analysis with Fine-Tuned LLMs: A Social Media-Based Approach,Jaradat S.,2025-01-01,1268 LNNS,248-261,10.1007/978-3-031-82377-0_22,SCOPUS_ID:105000778667
+123,COGNIDRIVE: Integrating AI and Computer Vision for Proactive Detection and Real-Time Monitoring of Driver Drowsiness,Swetha Margaret T.A.,2025-01-01,,105-123,10.4018/979-8-3693-8272-1.ch005,SCOPUS_ID:105007257658
+124,Collision causal discovery and real-time prediction of freeway tunnels: A novel dual-task approach,Jin J.,2025-01-01,155,,10.1016/j.tust.2024.106216,SCOPUS_ID:85209086766
+125,Next Gen Road Safety: Harnessing YOLOv11 Explainable AI and Cloud Aware Context,Nivethitha E.,2025-01-01,,,10.1109/ICETEA64585.2025.11100032,SCOPUS_ID:105015615429
+126,Exploring Spatiotemporal Relational Learning With TimeSformer for Identifying the Severity of the Road Accidents,Kour V.,2025-01-01,,,10.1109/TCSS.2025.3592805,SCOPUS_ID:105013164313
+127,Generative AI-Enhanced Multi-Physiological Signal Analysis for Intelligent Transportation Safety: An Attention-Masked Transformer Approach,Zhang F.,2025-01-01,,,10.1109/TITS.2025.3554808,SCOPUS_ID:105002557795
+128,Multivariate Asynchronous Shapelets for Imbalanced Car Crash Predictions,Bianchi M.,2025-01-01,15243 LNAI,150-166,10.1007/978-3-031-78977-9_10,SCOPUS_ID:85218499420
+129,Real-Time Detection of Mixed-Critical Events Using Vision-Language Models,Sadhwani S.,2025-01-01,13,181363-181384,10.1109/ACCESS.2025.3622638,SCOPUS_ID:105019586875
+130,Spatio-Temporal Graph Convolutional Networks for Accident Detection in Video Surveillance,Allam M.,2025-01-01,,,10.1109/RAIT65068.2025.11089086,SCOPUS_ID:105013357946
+131,Real-Time Driver Distraction Detection Using Fast R-CNN Algorithm,Kshatri S.S.,2025-01-01,,,10.1007/s40009-025-01605-6,SCOPUS_ID:85217193644
+132,A Smartphone-Based Hybrid Model for Real-Time Monitoring of Aggressive Driving Behavior using Multidimensional Dynamic Time Warping,Upadhyay M.,2025-01-01,,,10.1109/ICEPE65965.2025.11139729,SCOPUS_ID:105016893293
+133,A Multi-Task ConvoBiLSTM Model With Self-Attention for Concurrent Forecasting of Traffic Accident Risk and Severity,Muhammad A.S.,2025-01-01,19,,10.1049/itr2.70108,SCOPUS_ID:105023290447
+134,Enhanced Multi-Class Driver Behavior Detection in IoMT Environments Using Hybrid LSTM-GRU Model,AlSalman H.,2025-01-01,13,142379-142396,10.1109/ACCESS.2025.3598005,SCOPUS_ID:105013252068
+135,MemHookNet: Real-Time Multi-Class Heap Anomaly Detection with Log Hooking,Wang S.,2025-01-01,85,3041-3066,10.32604/cmc.2025.067636,SCOPUS_ID:105017277465
+136,PedGT: Enhancing Pedestrian Intention Prediction Using a Skeleton-Based Graph-Transformer,Riaz M.N.,2025-01-01,,293-300,10.1109/IV64158.2025.11097602,SCOPUS_ID:105014238475
+137,Alert Drive: Enhancing Road Safety with Deep Learning,Das S.,2025-01-01,1381 LNEE,17-28,10.1007/978-981-96-3644-0_2,SCOPUS_ID:105013738402
+138,Real-Time Traffic Flow Prediction Model Based on Deep Learning: Taking Smart Highways as an Example,Li J.,2025-01-01,,,10.1142/S0129156425402396,SCOPUS_ID:86000536551
+139,GTC-DAN: A graph-temporal convolutional model with dynamic adjacency for vehicle trajectory prediction,Chen H.,2025-01-01,73,,10.24425/bpasts.2024.152610,SCOPUS_ID:86000276027
+140,Assessing Aggressive Driving Behaviour Using Attention Based Models,Aechtner J.,2025-01-01,2187 CCIS,54-81,10.1007/978-3-031-74650-5_4,SCOPUS_ID:85211464080
+141,MRA-FD: Driver Fatigue Detection via Deep Convolutional Modeling With Local and Global Features,Zhang X.,2025-01-01,74,18035-18048,10.1109/TVT.2025.3580078,SCOPUS_ID:105008678911
+142,Capturing signals of road traffic safety risk: based on the spatial-temporal correlation between traffic violations and crashes,Zhang R.,2025-01-01,26,557-566,10.1080/15389588.2024.2427270,SCOPUS_ID:85210764760
+143,Driver Drowsiness Detection Using CNN and LSTM,Reddy B.K.,2025-01-01,,,10.1109/ICCDS64403.2025.11209635,SCOPUS_ID:105023869937
+144,Deep BiLSTM Attention Model for Spatial and Temporal Anomaly Detection in Video Surveillance,Natha S.,2025-01-01,25,,10.3390/s25010251,SCOPUS_ID:85214511650
+145,Hybrid Deep Learning for Proactive Driver Risk Prediction and Safety Enhancement,Sakthivel K.,2025-01-01,,1572-1577,10.1109/ICMSCI62561.2025.10894603,SCOPUS_ID:105000507788
+146,Real-Time Pothole Detection System: A Deep Learning Approach with SSD,Leelavathy B.,2025-01-01,15526 LNCS,406-415,10.1007/978-3-031-81821-9_27,SCOPUS_ID:105000725027
+147,Examining the spatial correlations between road traffic crash severity and their causative factors: A GIS-based geographically weighted regression approach for Southwest Nigeria,Odinfono J.,2025-01-01,,,10.1080/15389588.2025.2504631,SCOPUS_ID:105007654296
+148,IncorporationNet: a novel bimodal EEG-EOG vigilance estimation method via time-frequency-space feature fusion network,Gao D.,2025-01-01,,,10.1080/10255842.2025.2515517,SCOPUS_ID:105010443534
+149,Multivariate Machine Learning Model Based on YOLOv8 for Traffic Flow Prediction in Intelligent Transportation Systems,Wu F.,2025-01-01,13,105091-105100,10.1109/ACCESS.2025.3580201,SCOPUS_ID:105008661279
+150,A 3D Convolutional Neural Network for Real Time Car Crash Detection in Road Traffic Videos,Mnafki Y.,2025-01-01,1346 LNNS,221-232,10.1007/978-3-031-87647-9_19,SCOPUS_ID:105003633157
+151,Intersection Safety Modeling Using Semantic Scene Graph and Graph Neural Network,Sonth A.,2025-01-01,,569-576,10.1109/IV64158.2025.11097800,SCOPUS_ID:105014242170
+152,MTNet: A Multi-task Learning Framework that Integrates Intra-task and Task-specific Dependencies for Traffic Forecasting,Zhang S.,2025-01-01,,,10.1109/TKDE.2025.3638147,SCOPUS_ID:105023157076
+153,"Integrating Emotion Recognition, Vehicle Detection & Predictive Safety: A Comprehensive Survey for Intelligent Transportation Systems",Pandey A.,2025-01-01,,,10.1109/ISAC364032.2025.11156882,SCOPUS_ID:105018908077
+154,A Comparative Study on Fatigue Detection Models With Temporal Feature Fusion,Li Y.,2025-01-01,,439-444,10.1109/ICEICT66683.2025.11160205,SCOPUS_ID:105018079635
+155,YOLOv8-Powered Driver Monitoring: A Scalable and Efficient Approach for Real-Time Distraction Detection,Kaif A.,2025-01-01,,338-345,10.1109/ICICT64420.2025.11005355,SCOPUS_ID:105007430857
+156,Spatial–Temporal Video Analysis For Advanced Traffic Conflict Detection And Risk Assessment Using Yolov8 And Attention-Enhanced Safety Metrics,Singh A.,2025-01-01,,,10.1007/s13177-025-00572-y,SCOPUS_ID:105022613425
+157,Comparative Study of YOLOv11-Segmentation Models for Vehicle Light Status Detection,Rabbani M.R.,2025-01-01,,103-108,10.1109/ICERA66156.2025.11087343,SCOPUS_ID:105013471212
+158,Forecasting the Intensity of Road Traffic Collisions using Machine Learning Algorithms,Rithickroshan M.,2025-01-01,,795-802,10.1109/ICCMC65190.2025.11140733,SCOPUS_ID:105016904842
+159,Hybrid spatial and channel attention in post-accident object detection,Kim J.,2025-01-01,19,,10.1049/itr2.12594,SCOPUS_ID:85213720149
+160,EffIntentGCN: An Efficient Graph Convolutional Network for Skeleton-Based Pedestrian Crossing Intention Prediction,Shi J.,2025-01-01,26,13175-13186,10.1109/TITS.2025.3585950,SCOPUS_ID:105012753951
+161,Assessing single motorcycle crash injury severity factor using a novel partial temporally constrained random parameters logit model,Dzinyela R.,2025-01-01,,,10.1080/23249935.2025.2478307,SCOPUS_ID:105000313883
+162,Traffic Sign Recognition Algorithm Based on Improved Real-Time Detection Transformer,Zhang R.,2025-01-01,,352-357,10.1109/ICCECE65250.2025.10984826,SCOPUS_ID:105007422016
+163,CycleCrash: A Dataset of Bicycle Collision Videos for Collision Prediction and Analysis,Desai N.P.,2025-01-01,,6688-6698,10.1109/WACV61041.2025.00651,SCOPUS_ID:105003635893
+164,TSM-Based Multi-pilot Behavior Recognition Method for Ship Bridges,Chen C.,2025-01-01,1390 LNEE,129-136,10.1007/978-981-96-3961-8_12,SCOPUS_ID:105002438236
+165,Machine Learning-Based Road Hazard Detection for Improved Driving Assistance and Safety,Singh K.P.,2025-01-01,18,845-858,10.22266/ijies2025.0630.58,SCOPUS_ID:105004996551
+166,VP2Net: Visual Perception-Inspired Network for Exploring the Causes of Drivers’ Attention Shift,Zhao C.,2025-01-01,26,20012-20026,10.1109/TITS.2025.3610121,SCOPUS_ID:105020746854
+167,A Comparative Study of Classical Spectral and Spatial Feature Extraction Methods for Fatigue Detection via EEG Signals,Zahid A.M.,2025-01-01,,,10.1109/ISAS66241.2025.11101841,SCOPUS_ID:105014933075
+168,"A YOLOv11-Based Robust, Scalable, and Efficient Pothole Detection Approach",Qaser S.F.,2025-01-01,,,10.1109/EAIC66483.2025.11101519,SCOPUS_ID:105015499275
+169,Design of an Intelligent Driving Behavior Monitoring System for Vehicle Drivers Based on CNN-RNN,Hu Z.,2025-01-01,,349-352,10.1109/ICETCI64844.2025.11084217,SCOPUS_ID:105013071296
+170,Spatiotemporal Influence Analysis Through Traffic Speed Pattern Analysis Using Spatial Classification,Chong K.,2025-01-01,15,,10.3390/app15010196,SCOPUS_ID:85214472052
+171,Auto-Fusing Covariance and Phase Locking Value With Brain-Inspired Spiking Neural Networks for EEG-Based Driver Reaction Time Prediction,Parekkattil A.V.,2025-01-01,9,,10.1109/LSENS.2024.3523443,SCOPUS_ID:85213725012
+172,Exploring and Evaluating Deep Learning Techniques for Traffic Prediction in Urban Environments,Buchade S.,2025-01-01,,,10.1177/03611981251394676,SCOPUS_ID:105023844419
+173,Multi-Fatigue Indicator Detection for Drivers Using FaceMesh,Jiao X.,2025-01-01,,396-399,10.1109/ICECAI66283.2025.11171211,SCOPUS_ID:105018803648
+174,Adaptive Quantum and Graph-Attentive Security Framework for DoS Attack Mitigation in VANETs,Anjum A.,2025-01-01,,1665-1671,10.1109/ICMLAS64557.2025.10969038,SCOPUS_ID:105004812061
+175,Driver Drowsiness Detection Using a Hybrid Deep Learning Framework,Venu K.S.,2025-01-01,,2005-2010,10.1109/ICIRCA65293.2025.11089643,SCOPUS_ID:105013621626
+176,Utilising a Novel Multi-level Multi-feature Fusion Approach to Detect and Diagnose Driver Fatigue in Real-Time,Butcher S.,2025-01-01,2607 CCIS,295-311,10.1007/978-3-032-04657-4_20,SCOPUS_ID:105020245128
+177,Monitoring of Speed Breaker Violations with RoadHAWK,Mahalik R.C.,2025-01-01,,833-836,10.1109/COMSNETS63942.2025.10885602,SCOPUS_ID:105001659813
+178,Hazards-Based Duration Time Model with Priorities Considering Unobserved Heterogeneity Using Real-Time Traffic and Weather Big Data,Lee S.,2025-01-01,2679,1695-1707,10.1177/03611981241255905,SCOPUS_ID:85200006865
+179,A Novel Multi-Resolution Heart Rate Variability Analysis for IoT-based Drowsiness Detection: Preserving Temporal Trends in Features Series,Hafidi H.E.,2025-01-01,,,10.23919/SpliTech65624.2025.11091790,SCOPUS_ID:105013457442
+180,Personalised Driver Risk Assessment With Adaptive Feedback Using Crowdsensed Telemetric Data,Muhammad A.S.,2025-01-01,19,,10.1049/itr2.70071,SCOPUS_ID:105014517386
+181,YoFlow Method for Scenario Based Automatic Accident Detection,Haryanto A.,2025-01-01,,,10.1109/OJITS.2025.3639557,SCOPUS_ID:105024089393
+182,Intelligent Automation of Driver Behavior Analysis Using Machine Learning: CAN Bus Signals,Qibtiah R.M.,2025-01-01,,12-17,10.1109/ROMA66616.2025.11155542,SCOPUS_ID:105019045752
+183,An Improved Self-Attention for Video Prediction,Hata R.,2025-01-01,432 SIST,447-459,10.1007/978-981-96-1154-6_30,SCOPUS_ID:105013027744
+184,Mobile Phone Sensor-based Nigerian Driving Dataset to Detect Alcohol-influenced Behaviours,Thompson I.P.,2025-01-01,,,10.1109/ICAC65379.2025.11196488,SCOPUS_ID:105021494069
+185,Real-time crash risk estimation with autonomous vehicle data: a comparative analysis of extreme value models,Kamel A.,2025-01-01,,,10.1080/23249935.2025.2495125,SCOPUS_ID:105004428607
+186,A Multi-Sensor Late Fusion Framework for Driver Cognitive State Detection,Raafay Umar S.A.,2025-01-01,,,10.1109/AVSS65446.2025.11149912,SCOPUS_ID:105017421631
+187,Real-Time Traffic Insights With Physics-Informed Neural Networks: Integrating the Aw-Rascle Model and LLMs,Syum Gebre T.,2025-01-01,13,181246-181266,10.1109/ACCESS.2025.3618282,SCOPUS_ID:105018215395
+188,DA-RMN: Denoising Attention Enhanced Recurrent Multigraph Convolutional Network for Traffic Flow Prediction,Bao Y.,2025-01-01,12,4820-4833,10.1109/JIOT.2024.3476498,SCOPUS_ID:85207325935
+189,Data-Driven Prediction of Vehicle-Vulnerable Road User Collisions at Road Intersections Using Machine Learning Models,Atif Y.,2025-01-01,257,777-784,10.1016/j.procs.2025.03.100,SCOPUS_ID:105005181125
+190,Towards Safer Roads: An End-to-End Deep Learning Framework for Traffic Violation Detection and License Plate Recognition,Kavitha A.,2025-01-01,,,10.1177/18758967251397468,SCOPUS_ID:105022267506
+191,Context-Aware Warning Systems: Leveraging Driving Environment Data for Improved Driver and Road User Warnings,Stocker A.,2025-01-01,,573-581,10.5220/0013820600003985,SCOPUS_ID:105022278382
+192,AI-Driven TrafNet-DCMCRP for Congestion-Aware Routing and Traffic Management in VANETs,Kumar D.S.,2025-01-01,18,239-251,10.22266/ijies2025.0630.18,SCOPUS_ID:105004996209
+193,Urban Traffic Prediction Using Hybrid XGBoost–LSTM Model,Bechere M.,2025-01-01,18,,10.12785/ijcds/1571136041,SCOPUS_ID:105008034448
+194,Road Safety Risk Assessment Approach for Freight Vehicles Using Warning Data,Yang C.,2025-01-01,13,126769-126779,10.1109/ACCESS.2025.3588502,SCOPUS_ID:105010974137
+195,A Self-Sovereign Identity-Based Authentication and Reputation Protocol for IoV Applications,Emanuel Farias da Costa Borges V.,2025-01-01,13,105693-105711,10.1109/ACCESS.2025.3579929,SCOPUS_ID:105008674921
+196,Unsupervised Hybrid VAE-Based Anomaly Detection for Vehicle Onboard LiDAR Sensors,Sboui N.,2025-01-01,13,81835-81847,10.1109/ACCESS.2025.3568395,SCOPUS_ID:105004932909
+197,Autonomous vehicle collision prediction systems: Artificial intelligence (AI) in action with knowledge graphs,Gupta R.,2025-01-01,,335-358,10.1016/B978-0-443-30040-0.00017-5,SCOPUS_ID:105011220333
+198,Predicting Driver Alertness by Learning Takeover Patterns from Vehicle Telemetry,Chung W.K.,2025-01-01,,,10.1109/ICoICT66265.2025.11192954,SCOPUS_ID:105020919718
+199,YOLO and BiLSTM Fusion for Smart Motorcycle Ignition,Daniel E.,2025-01-01,,930-936,10.1109/ICICT64420.2025.11004780,SCOPUS_ID:105007416530
+200,Data-driven BN and DBN models prediction performance for ship collision risk assessment,Celik C.,2025-01-01,,1945-1952,10.1109/ICTIS68762.2025.11214913,SCOPUS_ID:105022445084
+201,Driver Fatigue Detection Based on BiLSTM-At and Multi-Source Information Fusion,Zhao R.,2025-01-01,,1719-1723,10.1109/ICCEA65460.2025.11103417,SCOPUS_ID:105014941705
+202,Fatigue Driving Detection Based on Eye Features,Yao S.,2025-01-01,,1036-1041,10.1109/ICMA65362.2025.11120844,SCOPUS_ID:105016012802
+203,Synchronized Delay Measurement of Multi-Stream Analysis over Data Concentrator Units,Yusupov A.,2025-01-01,14,,10.3390/electronics14010081,SCOPUS_ID:85214534365
+204,Operating Speed Prediction Model for Horizontal Curves of Two-Lane Rural Highways,Mulangi R.H.,2025-01-01,673 LNCE,359-369,10.1007/978-981-96-8448-9_25,SCOPUS_ID:105020168712
+205,Selective State-Focused Graph Attention Networks for Multihorizon Traffic Forecasting,Vashistha S.,2025-01-01,,,10.1109/TCSS.2025.3605930,SCOPUS_ID:105020067760
+206,The cascade matching method for multi-object tracking of 3D LiDAR point clouds,Chen G.,2025-01-01,52,,10.12086/oee.2025.250050,SCOPUS_ID:105009420024
+207,Morphology Recognition Network via Contrastive Distillation for Detecting Rail Surface Defects,Zhou W.,2025-01-01,,,10.1109/TETCI.2025.3593905,SCOPUS_ID:105013140966
+208,FD-YOLO: A YOLO Network Optimized for Fall Detection,Hwang H.,2025-01-01,15,,10.3390/app15010453,SCOPUS_ID:85214491043
+209,Evaluating Deep Learning Approaches for Traffic Prediction in VANETs: A Comparative Study,Hanine M.,2025-01-01,,,10.1109/ECAI65401.2025.11095555,SCOPUS_ID:105013843459
+210,Enhancing Small Object Detection in Resource-Constrained ARAS Using Image Cropping and Slicing Techniques,Kaundanya C.,2025-01-01,3,570-583,10.5220/0013190400003912,SCOPUS_ID:105001838361
+211,UAV-based intelligent traffic surveillance using recurrent neural networks and Swin transformer for dynamic environments,Alshehri M.,2025-01-01,19,,10.3389/fnbot.2025.1681341,SCOPUS_ID:105019978618
+212,AI-Driven Space Debris Detection and Trajectory Prediction for Enhanced Safety at Bhartiya Antriksh Station,Kumar G.,2025-01-01,,,10.1109/SPACE65882.2025.11171228,SCOPUS_ID:105018457372
+213,Quasi Oppositional Jaya Algorithm with Computer Vision based Deep Learning Model for Emotion Recognition on Autonomous Vehicle Drivers,Rajesh D.,2025-01-01,14,141-153,10.54216/JISIoT.140111,SCOPUS_ID:85202740121
+214,Fuzzy-based driver monitoring system to assess dangerous driving on roads,Zargari S.A.,2025-01-01,,,10.1080/15389588.2025.2539923,SCOPUS_ID:105013789553
+215,A review on the estimation of vulnerable road user behavior for automated vehicles,Ara J.,2025-01-01,19,547-575,10.1080/15568318.2025.2510413,SCOPUS_ID:105006982602
+216,Perception and performance: Evaluating driver behavior on horizontal curves at day and night based on optical flow model analysis,Wang J.,2025-01-01,26,671-678,10.1080/15389588.2024.2444471,SCOPUS_ID:85219733179
+217,Enhancing indoor PM2.5 predictions based on land use and indoor environmental factors by applying machine learning and spatial modeling approaches,Lu Q.O.,2024-12-15,363,,10.1016/j.envpol.2024.125093,SCOPUS_ID:85207063347
+218,An innovative traffic flow detection model based on temporal video frame analysis and grayscale aggregation quantification,Liu X.,2024-12-11,18,4704-4715,10.1049/ipr2.13279,SCOPUS_ID:85208810440
+219,Customized Vehicle Feature Control through Driver Recognition Technology,Marimuthu R.,2024-12-05,,,10.4271/2024-28-0219,SCOPUS_ID:85213367370
+220,Dynamic object detection using sparse LiDAR data for autonomous machine driving and road safety applications,Gupta A.,2024-12-01,255,,10.1016/j.eswa.2024.124636,SCOPUS_ID:85197336112
+221,Auto-GeRo: An IOT based Geo Spatial Model for Real-Time Road Condition Detection,Singh A.K.,2024-12-01,5,,10.1007/s42979-024-03362-7,SCOPUS_ID:85208143833
+222,Evolution of user behaviour on social media during 2018 road safety movement in Bangladesh,Sharmin S.,2024-12-01,14,,10.1007/s13278-024-01349-z,SCOPUS_ID:85204937922
+223,Research on highway rain monitoring based on rain monitoring coefficient,Wang X.,2024-12-01,14,,10.1038/s41598-024-53360-1,SCOPUS_ID:85185901087
+224,A novel interval rough model for optimizing road network performance and safety,Na Z.,2024-12-01,255,,10.1016/j.eswa.2024.124844,SCOPUS_ID:85199704681
+225,An Improved Real-Time Detection Transformer Model for the Intelligent Survey of Traffic Safety Facilities,Wan Y.,2024-12-01,16,,10.3390/su162310172,SCOPUS_ID:85211802435
+226,A CAV-Lead speed advice approach considering local spatiotemporal traffic state near bottlenecks,Cao D.,2024-12-01,208,,10.1016/j.aap.2024.107798,SCOPUS_ID:85205137038
+227,Efficient and Secure Graph-Based Trust-Enabled Routing in Vehicular Ad-Hoc Networks,Alam I.,2024-12-01,29,1732-1752,10.1007/s11036-023-02274-9,SCOPUS_ID:85182151278
+228,Robust pavement crack segmentation network based on transformer and dual-branch decoder,Yu Z.,2024-11-29,453,,10.1016/j.conbuildmat.2024.139026,SCOPUS_ID:85208100888
+229,Analyzing the Relationship Between User Feedback and Traffic Accidents Through Crowdsourced Data,Kim J.,2024-11-01,16,,10.3390/su16229867,SCOPUS_ID:85210564674
+230,Analyzing urban traffic crash patterns through spatio-temporal data: A city-level study using a sparse non-negative matrix factorization model with spatial constraints approach,Jin J.,2024-11-01,172,,10.1016/j.apgeog.2024.103402,SCOPUS_ID:85203202853
+231,Quantitative Estimation and Analysis of Spatiotemporal Delay Effects in Expressway Traffic Accidents,Zhang Y.,2024-11-01,13,,10.3390/ijgi13110407,SCOPUS_ID:85210264425
+232,Road Defect Identification and Location Method Based on an Improved ML-YOLO Algorithm,Li T.,2024-11-01,24,,10.3390/s24216783,SCOPUS_ID:85208651990
+233,Rethinking real-time risk prediction from multi-step time series forecasting on highway car-following scenarios,Zhang H.,2024-11-01,207,,10.1016/j.aap.2024.107748,SCOPUS_ID:85201501915
+234,Quantifying Cigarette and e-Cigarette Marketing Exposure among Chinese Adolescents Using Ecological Momentary Assessment,Czaplicki L.,2024-11-01,26,1480-1488,10.1093/ntr/ntae103,SCOPUS_ID:85207356698
+235,Learning multi-layer interactive residual feature fusion network for real-time traffic sign detection with stage routing attention,Zhang J.,2024-10-01,21,,10.1007/s11554-024-01554-1,SCOPUS_ID:85204940421
+236,DriSm_YNet: a breakthrough in real-time recognition of driver smoking behavior using YOLO-NAS,Pandey N.N.,2024-10-01,36,18413-18432,10.1007/s00521-024-10162-w,SCOPUS_ID:85199599410
+237,Real-time rear-end conflict prediction on congested highways sections using trajectory data,An X.,2024-10-01,187,,10.1016/j.chaos.2024.115391,SCOPUS_ID:85201471705
+238,"‘I mean, I wouldn't say I was sober’: Exploring the psychosocial impact of e-scooter injuries and aligning a collaborative public health response",Piatkowski T.,2024-10-01,35,1128-1135,10.1002/hpja.845,SCOPUS_ID:85184173703
+239,Multidimensional information fusion and broad learning system-based condition recognition for energy pipeline safety,Zhu C.,2024-09-27,300,,10.1016/j.knosys.2024.112259,SCOPUS_ID:85199255439
+240,An Intelligent Real-Time Driver Activity Recognition System Using Spatio-Temporal Features,Kidu T.,2024-09-01,14,,10.3390/app14177985,SCOPUS_ID:85203861290
+241,Real-time anomaly detection for ‘Remote’ bus stop surveillance using unsupervised conditional generative adversarial networks,Xi B.,2024-09-01,36,15799-15813,10.1007/s00521-024-09911-8,SCOPUS_ID:85193466475
+242,A study on diversion behavior in weaving segments: Individualized traffic conflict prediction and causal mechanism analysis,Yuan R.,2024-09-01,205,,10.1016/j.aap.2024.107681,SCOPUS_ID:85196290239
+243,An Efficient Foreign Object Recognition Model in Rail Transit Based on Real-Time Railway Region Extraction and Object Detection,Feng Z.C.,2024-08-01,19,3723-3734,10.1007/s42835-024-01805-y,SCOPUS_ID:85184504276
+244,DCoMA: A dynamic coordinative merging assistant strategy for on-ramp vehicles with mixed traffic conditions,Li L.,2024-08-01,165,,10.1016/j.trc.2024.104700,SCOPUS_ID:85195823208
+245,Paraquat disrupts KIF5A-mediated axonal mitochondrial transport in midbrain neurons and its antagonism by melatonin,Hong H.,2024-07-15,934,,10.1016/j.scitotenv.2024.173119,SCOPUS_ID:85193275629
+246,Assessing network-based traffic crash risk using prospective space-time scan statistic method,Miao C.,2024-07-01,119,,10.1016/j.jtrangeo.2024.103958,SCOPUS_ID:85199910955
+247,Modeling temporal correlation and heterogeneity in real-time conflict rates using Bayesian Tobit models for signalized intersections,Guo Y.,2024-07-01,202,,10.1016/j.aap.2024.107552,SCOPUS_ID:85191584119
+248,Custom Anchorless Object Detection Model for 3D Synthetic Traffic Sign Board Dataset with Depth Estimation and Text Character Extraction,Soans R.,2024-07-01,14,,10.3390/app14146352,SCOPUS_ID:85199458437
+249,Advancing urban traffic accident forecasting through sparse spatio-temporal dynamic learning,Cui P.,2024-06-01,200,,10.1016/j.aap.2024.107564,SCOPUS_ID:85189543707
+250,A passenger flow spatial–temporal distribution model for a passenger transit hub considering node queuing,Wen X.,2024-06-01,163,,10.1016/j.trc.2024.104640,SCOPUS_ID:85191834159
+251,Investigating the temporal dynamics of motor vehicle collision density patterns in urban road networks – A case study of New York,Chang H.,2024-06-01,89,116-134,10.1016/j.jsr.2024.02.009,SCOPUS_ID:85187346559
+252,Investigating built environment and traffic flow impact on crash frequency in urban road networks,Xiao D.,2024-06-01,201,,10.1016/j.aap.2024.107561,SCOPUS_ID:85189744724
+253,Using the dead to infer about the living: Amphibian roadkill spatiotemporal dynamics suggest local populations' reduction,Pinto T.,2024-06-01,927,,10.1016/j.scitotenv.2024.172356,SCOPUS_ID:85190239886
+254,A macroscopic safety indicator for road segment: application of entropy theory,Ye W.,2024-05-15,642,,10.1016/j.physa.2024.129787,SCOPUS_ID:85192167725
+255,Scalable Pythagorean Mean-based Incident Detection in Smart Transportation Systems,Islam M.J.,2024-05-14,8,,10.1145/3603381,SCOPUS_ID:85198751506
+256,Research on Methodology of Intelligent Traffic Accident Detection based on Enhanced YOLOv8 Algorithm,Gao G.,2024-05-10,,340-348,10.1145/3665348.3665406,SCOPUS_ID:85198990953
+257,Spatial and Temporal Analysis of Road Traffic Accidents in Major Californian Cities Using a Geographic Information System,Alsahfi T.,2024-05-01,13,,10.3390/ijgi13050157,SCOPUS_ID:85194142228
+258,A Fast Spatial-temporal Information Compression algorithm for online real-time forecasting of traffic flow with complex nonlinear patterns,Xu Z.,2024-05-01,182,,10.1016/j.chaos.2024.114852,SCOPUS_ID:85190249307
+259,Real-time combined safety-mobility assessment using self-driving vehicles collected data,Kamel A.,2024-05-01,199,,10.1016/j.aap.2024.107513,SCOPUS_ID:85186504897
+260,SDPH: a new technique for spatial detection of path holes from huge volume high-resolution raster images in near real-time,Tasyurek M.,2024-05-01,21,,10.1007/s11554-024-01451-7,SCOPUS_ID:85189644005
+261,Accelerated Augmented Reality Holographic 4k Video Projections Based on Lidar Point Clouds for Automotive Head-Up Displays,Skirnewskaja J.,2024-04-24,12,,10.1002/adom.202301772,SCOPUS_ID:85180227383
+262,"Survey of Dynamic Knowledge Graph for Urban Traffic: Construction, Representation and Application",Liu Y.,2024-04-01,26,946-966,10.12082/dqxxkx.2024.230572,SCOPUS_ID:85193602725
+263,A driver stress detection model via data augmentation based on deep convolutional recurrent neural network,Zhao Q.,2024-03-15,238,,10.1016/j.eswa.2023.122056,SCOPUS_ID:85175205299
+264,New Modeling Approach for Predicting Disaggregated Time-Series Traffic Crashes,Cai B.,2024-03-01,2678,637-648,10.1177/03611981231182703,SCOPUS_ID:85165297959
+265,Pothole detection in bituminous road using convolutional neural network with transfer learning,Tripathi M.K.,2024-03-01,33,1950-1957,10.11591/ijeecs.v33.i3.pp1950-1957,SCOPUS_ID:85185587076
+266,Vehicle distance warning method based on improved YOLOv4⁃tiny algorithm,Wang H.Z.,2024-03-01,54,741-748,10.13229/j.cnki.jdxbgxb.20220473,SCOPUS_ID:85173555173
+267,Predicting Highway Risk Event with Trajectory Data: A Joint Approach of Traffic Flow and Vehicle Kinematics,Huang S.,2024-02-01,13,,10.3390/electronics13030625,SCOPUS_ID:85184477098
+268,DeepSecDrive: An explainable deep learning framework for real-time detection of cyberattack in in-vehicle networks,Ding W.,2024-02-01,658,,10.1016/j.ins.2023.120057,SCOPUS_ID:85181171623
+269,Graphical Consensus-Based Sharding for Efficient and Secure Sharings in Blockchain-Enabled Internet of Vehicles,Li W.,2024-02-01,73,1991-2002,10.1109/TVT.2023.3311445,SCOPUS_ID:85171555809
+270,Advancing proactive crash prediction: A discretized duration approach for predicting crashes and severity,Thapa D.,2024-02-01,195,,10.1016/j.aap.2023.107407,SCOPUS_ID:85178622803
+271,Spatio-Temporal Transportation Images Classification Based on Light and Weather Conditions,Gawali T.K.,2024-01-29,12,150-154,,SCOPUS_ID:85186437833
+272,A traffic accident prediction model based on a Spatial-Attention Temporal Graph Convolutional Network,Yang Z.,2024-01-01,,886-890,10.1109/EIT63098.2024.10762275,SCOPUS_ID:85214442112
+273,Deep Learning-Based Traffic Accident Prediction: An Investigative Study for Enhanced Road Safety,Girija M.,2024-01-01,10,,10.4108/eetiot.5166,SCOPUS_ID:85185943244
+274,Explainable Traffic Accident Severity Prediction with Attention-Enhanced Bidirectional GRU-LSTM,Muhammad A.S.,2024-01-01,,1083-1090,10.1109/SWC62898.2024.00174,SCOPUS_ID:105002216450
+275,Enhancing Traffic Incident Detection Through ADASYN-Attention Fusion: A Comparative Study with RITIS Data,Liu R.,2024-01-01,,1488-1493,10.1109/ITSC58415.2024.10919901,SCOPUS_ID:105001673639
+276,Real-Time Traffic Sign Detection For Autonomous Vehicles Using Improved YOLOv8,Henlin R.C.,2024-01-01,,356-361,10.1109/ISRITI64779.2024.10963400,SCOPUS_ID:105004413582
+277,Multi-Scale and Similarity Interaction Modeling for Pedestrian Trajectory Prediction Based on Graph Convolutional Neural Networks,Liu S.,2024-01-01,,138-143,10.1109/CCSB63463.2024.10735465,SCOPUS_ID:85210879373
+278,Spatio-temporal Analysis of the Main Types of Road Incidents in Mexico City 2018–2022,Hernández-Martínez P.,2024-01-01,,19-30,10.1007/978-3-031-61440-8_2,SCOPUS_ID:85200982205
+279,An Algorithm for Automatic Traffic Incident Detection Based on Surveillance Video,Huang S.D.,2024-01-01,41,169-176,10.3969/j.issn.1002-0268.2024.01.019,SCOPUS_ID:105002143473
+280,Leveraging Commercial Connected Vehicle Data for High-Speed Signalized Intersection Safety: A Quantitative Analysis of Hard-Braking and Crashes,Wei X.,2024-01-01,,138-142,10.1109/WFPST58552.2024.00028,SCOPUS_ID:85201178743
+281,Enhancing road safety in internet of vehicles using deep learning approach for real-time accident prediction and prevention,Wei X.,2024-01-01,5,212-223,10.1016/j.ijin.2024.05.002,SCOPUS_ID:85193258295
+282,Spatiotemporal Analysis of Traffic Accidents Hotspots Using Twitter Data: The Case of Quezon City,Ugalino M.G.,2024-01-01,12977,,10.1117/12.3009662,SCOPUS_ID:85184517399
+283,Identification of Urban Traffic Accident Hotspots Using Getis-Ord Gi and DBSCAN Algorithmsimes,Zhang L.,2024-01-01,,93-99,10.1109/CBASE64041.2024.10824615,SCOPUS_ID:85217167732
+284,Integrating Predictive Analytics and Deep Learning for Vehicle Safety Incident Forecasting,Adike A.K.,2024-01-01,,,10.1109/ICSES63760.2024.10910455,SCOPUS_ID:105001407216
+285,Spatial-Temporal Dynamic Graph Convolutional Network for Traffic Flow Forecasting,Fu Y.,2024-01-01,,1190-1193,10.1109/MCTE62870.2024.11117307,SCOPUS_ID:105016384205
+286,Driver Behavior and Action Prediction in Human-Computer Interaction,Lai Z.,2024-01-01,,97-101,10.1109/AIoTC63215.2024.10748264,SCOPUS_ID:85211790528
+287,Real-time Prediction of Traffic Accident Risk Focused on the Most Accident-Prone Zones,Mouaici M.,2024-01-01,,1299-1304,10.1109/CoDIT62066.2024.10708384,SCOPUS_ID:85208223618
+288,Traffic Flow Forecasting Via Graph Transformers: A Deep Learning Approach,Gao Y.,2024-01-01,,768-772,10.1109/ICIRDC65564.2024.00143,SCOPUS_ID:105017676372
+289,GRANP: A Graph Recurrent Attentive Neural Process Model for Vehicle Trajectory Prediction,Luo Y.,2024-01-01,,370-375,10.1109/IV55156.2024.10588741,SCOPUS_ID:85199792646
+290,COOT-Optimized Real-Time Drowsiness Detection using GRU and Enhanced Deep Belief Networks for Advanced Driver Safety,Devi G.R.,2024-01-01,15,804-814,10.14569/IJACSA.2024.0150483,SCOPUS_ID:85192088124
+291,Comparative Analysis of Machine Learning Models for Smart Pothole Detection: Enhancing Road Safety and Maintenance Efficiency,Dhanvanth Prasath M.P.,2024-01-01,,,10.1109/GCCIT63234.2024.10862602,SCOPUS_ID:85218411789
+292,Driver’s Distraction Detection via Hybrid CNN-LSTM,Hemashree R.,2024-01-01,717 IFIPAICT,412-423,10.1007/978-3-031-69982-5_31,SCOPUS_ID:85207649452
+293,CRNN-Based Eye Behavior Analysis for Drowsiness Detection,Kiran J.S.,2024-01-01,897,391-399,10.1007/978-981-99-9704-6_36,SCOPUS_ID:85186726858
+294,Hybrid CNN-LSTM Machine Learning Algorithm for Driver Distraction Detection,Kothuri S.R.,2024-01-01,,,10.1109/ICICACS60521.2024.10498991,SCOPUS_ID:85191712358
+295,Transferability of real-time EVT safety models: an investigation using autonomous vehicles data,Kamel A.,2024-01-01,,,10.1080/23249935.2024.2418458,SCOPUS_ID:85207378262
+296,A Driver Fatigue Detection Framework with Convolutional Neural Network and Long Short-Term Memory Network,Bao R.,2024-01-01,2065 CCIS,283-297,10.1007/978-3-031-68639-9_18,SCOPUS_ID:85202288462
+297,Real-Time Pedestrian Crossing Anticipation Based on an Action-Interaction Dual-Branch Network,Yang B.,2024-01-01,25,21021-21034,10.1109/TITS.2024.3454950,SCOPUS_ID:85207935093
+298,A hybrid deep learning method for distracted driving risk prediction based on spatio-temporal driving behavior data,Fu X.,2024-01-01,12,,10.1080/21680566.2023.2297144,SCOPUS_ID:85181508899
+299,EPAAMap: Enhanced Parallel Attention Aggregation HD Semantic Map in Complex Traffic Scenarios,Zhang J.,2024-01-01,,,10.1109/DSIT61374.2024.10880966,SCOPUS_ID:86000229577
+300,Temporal dynamics of pedestrian injury severity: A seasonally constrained random parameters approach,Abdulrazaq M.A.,2024-01-01,,,10.1016/j.ijtst.2024.11.009,SCOPUS_ID:85212236252
+301,Deep learning based algorithm for classifying pedestrian behavior at crosswalks,Li M.,2024-01-01,13396,,10.1117/12.3050750,SCOPUS_ID:85208827063
+302,Real-Time Detection of Driver Distraction Using Hybrid Model VGG16 and Random Forest A Deep Learning Approach,Kshatri S.S.,2024-01-01,,,10.1109/ICAIQSA64000.2024.10882240,SCOPUS_ID:105000139496
+303,The Real-Time Dynamic Prediction of Optimal Taxi Cruising Area Based on Deep Learning,Wang S.,2024-01-01,16,,10.3390/su16020866,SCOPUS_ID:85183449204
+304,Vehicle-Based Evolutionary Travel Time Estimation with Deep Meta Learning,Wang C.,2024-01-01,15024 LNCS,246-262,10.1007/978-3-031-72356-8_17,SCOPUS_ID:85205292429
+305,Utilizing angle-based outlier detection method with sliding window mechanism to identify real-time crash risk,Gao Z.,2024-01-01,16,157-174,10.1080/19439962.2023.2189762,SCOPUS_ID:85151165840
+306,Efficient-MobileNet: A Feature Fusion Approach for Vehicle Driver Behavior Detection and Classification,Saeed M.I.,2024-01-01,,1891-1898,10.1109/HPCC64274.2024.00251,SCOPUS_ID:105013073705
+307,Real-Time Driver Drowsiness Detection Using Hybrid CNN-LSTM Model with Facial Feature and Behavioral Analysis,Desai M.M.,2024-01-01,,197-202,10.1109/ICUIS64676.2024.10866692,SCOPUS_ID:86000261119
+308,"The Impact of Climate Change, Environment, and Health Worker Density Index on Road Accident Fatalities: Evidence from Top Ten Pollution Emitting Countries",Wang C.,2024-01-01,33,3887-3902,10.15244/pjoes/175305,SCOPUS_ID:85193695906
+309,Faster Pedestrian Crossing Intention Prediction Based on Efficient Fusion of Diverse Intention Influencing Factors,Yang B.,2024-01-01,10,9071-9087,10.1109/TTE.2024.3360966,SCOPUS_ID:85184325516
+310,Anomalous vehicle recognition in smart cities using persistent bloom filter: Memory efficient and intelligent monitoring,Kumar M.,2024-01-01,35,,10.1002/ett.4896,SCOPUS_ID:85177556180
+311,Automatic Human Life Rescue Analysis Model with Incorporation of Deep Learning Algorithm,Kalaiselvi V.K.G.,2024-01-01,,687-691,10.1109/ICSCNA63714.2024.10864136,SCOPUS_ID:85219623827
+312,Pothole detection and dimension estimation by deep learning,Ch S.S.,2024-01-01,1326,,10.1088/1755-1315/1326/1/012100,SCOPUS_ID:85197919976
+313,Effective Driver Fatigue Management and Prevention Using Cloud-Integrated RNN Models,Arya S.M.,2024-01-01,,,10.1109/ICICEC62498.2024.10808640,SCOPUS_ID:85216518672
+314,Multimodal Fusion for Robust Driver Drowsiness Detection: Integrating EEG and Video Signals with Enhanced Accuracy,Shanthini S.,2024-01-01,,,10.1109/ACCAI61061.2024.10601871,SCOPUS_ID:85200564842
+315,Intelligent detection and recognition of road cracks based on improved YOLOV8,Zhang H.,2024-01-01,13416,,10.1117/12.3049951,SCOPUS_ID:85210080313
+316,Traffic Target Location Estimation Based on Tensor Decomposition in Intelligent Transportation System,Guo Y.,2024-01-01,25,816-828,10.1109/TITS.2022.3165584,SCOPUS_ID:85128597232
+317,A Comprehensive Analysis of Road Traffic Prediction Using Machine Learning Algorithms,Parashuram N.,2024-01-01,,,10.1109/SSITCON62437.2024.10797035,SCOPUS_ID:85215680470
+318,Deep Learning-Based Anomaly Detection System for Automatic Traffic Identification and Localization,Sahu H.,2024-01-01,,296-302,10.1109/ICPIDS65698.2024.00054,SCOPUS_ID:105004896849
+319,A Hybrid Reinforcement Learning-Based Method for Generating Privacy-Preserving Trajectories in Low-Density Traffic Environments,Zhang Z.,2024-01-01,25,14740-14757,10.1109/TITS.2024.3400312,SCOPUS_ID:85194057901
+320,Predicting Lane Change and Vehicle Trajectory with Driving Micro-Data and Deep Learning,Wang L.,2024-01-01,12,106432-106446,10.1109/ACCESS.2024.3435741,SCOPUS_ID:85200228468
+321,Research on Pedestrian Tracking Technology for Autonomous Driving Scenarios,Zhang X.,2024-01-01,12,149662-149675,10.1109/ACCESS.2024.3477513,SCOPUS_ID:85207626948
+322,Design and Analysis of Resilient Vehicular Platoon Systems over Wireless Networks,Shui T.,2024-01-01,,5186-5192,10.1109/GLOBECOM52923.2024.10901727,SCOPUS_ID:105000819613
+323,VR Technology and the Theoretical Model and Method of Road Network Traffic State Information Accident Prediction and Perception under the Environment of Internet of Vehicles,Huang M.,2024-01-01,,1-1,10.1109/ACCESS.2020.3022048,SCOPUS_ID:85186074521
+324,Enhancing Driver Safety through A Data Collection Platform,Gavrila M.,2024-01-01,,,10.1109/ECAI61503.2024.10607493,SCOPUS_ID:85201179324
+325,Multimodal Fatigue Detection in Drivers via Physiological and Visual Signals,Li W.,2024-01-01,14509 LNCS,221-236,10.1007/978-981-99-9785-5_16,SCOPUS_ID:85185706089
+326,Pedestrian Detection and Tracking for Driver Assistance Systems,Muddebihal A.,2024-01-01,,,10.1109/ICONAT61936.2024.10774640,SCOPUS_ID:85214972563
+327,Acoustic Spectral Analysis for Emergency Vehicle Detection: Symbolic and CNN Approaches,Pacheco A.,2024-01-01,4,2189-2200,10.54364/AAIML.2024.42125,SCOPUS_ID:85198351175
+328,Data-Driven Multi-Dimension Driving Safety Evaluation for Real-World Electric Vehicles,Hong J.,2024-01-01,73,9721-9733,10.1109/TVT.2024.3379677,SCOPUS_ID:85188555858
+329,"Efficient distributed association management method of data, model, and knowledge for digital twin railway",Guo Y.,2024-01-01,17,,10.1080/17538947.2024.2340089,SCOPUS_ID:85192093146
+330,Deep learning based traffic flow prediction model on highway research,Jia Q.,2024-01-01,13064,,10.1117/12.3015648,SCOPUS_ID:85187210495
+331,Enhancing Driver Fatigue Detection Accuracy in On-Road Driving Systems Using an LSTM-DNN Hybrid Model with Modified Z-Score and Morlet Wavelet,Abdubrani R.,2024-01-01,1212 LNEE,359-371,10.1007/978-981-97-3847-2_31,SCOPUS_ID:105004721023
+332,Application and Challenges of EEG Signals in Fatigue Driving Detection,Zong S.J.,2024-01-01,51,1645-1669,10.16476/j.pibb.2023.0399,SCOPUS_ID:85200895812
+333,Real-Time Non-Invasive Imaging and Detection of Spreading Depolarizations through EEG: An Ultra-Light Explainable Deep Learning Approach,Wu Y.,2024-01-01,28,5780-5791,10.1109/JBHI.2024.3370502,SCOPUS_ID:85186980031
+334,Beyond sight: Distance-aware LVMs for smarter navigation,Saeed A.,2024-01-01,,,10.11159/mvml24.116,SCOPUS_ID:85205601508
+335,Computer Vision based Spatial Matrix LED Headlights,Burujwale A.,2024-01-01,,1718-1725,10.1109/ICOSEC61587.2024.10722139,SCOPUS_ID:85209896200
+336,"Smart Communities, Smart Responders -Artificial Intelligence for Internet of Things Competition: A Case Study in Organizing a Public Safety Innovation Challenge",Raghukumar H.,2024-01-01,,114-119,10.1109/WFPST58552.2024.00039,SCOPUS_ID:85201178649
+337,Assessment of approach separation with probabilistic aircraft wake vortex recognition via deep learning,Chu N.,2024-01-01,181,,10.1016/j.tre.2023.103387,SCOPUS_ID:85179125689
+338,Expert assessments in decision making: Risks and safety,Domin D.,2023-12-19,,1-206,10.21303/978-9916-9850-2-1,SCOPUS_ID:85195718982
+339,Real Time Accident Detection from Closed Circuit Television and Suggestion of Nearest Medical Amenities,Pai A.A.,2023-12-01,15,15-28,10.5815/ijitcs.2023.06.02,SCOPUS_ID:85195139135
+340,A GIS-Based Damage Evaluation Method for Explosives Road Transportation Accidents,Zhao J.,2023-12-01,12,,10.3390/ijgi12120470,SCOPUS_ID:85180691743
+341,Real driving environment EEG-based detection of driving fatigue using the wavelet scattering network,Wang F.,2023-12-01,400,,10.1016/j.jneumeth.2023.109983,SCOPUS_ID:85174172487
+342,Optimal order-k routing policy for adaptive routing in real road networks,Zhang D.,2023-12-01,157,,10.1016/j.trc.2023.104392,SCOPUS_ID:85174693395
+343,An integrated approach of machine learning and Bayesian spatial Poisson model for large-scale real-time traffic conflict prediction,Li D.,2023-11-01,192,,10.1016/j.aap.2023.107286,SCOPUS_ID:85170286554
+344,MSGNN: A Multi-structured Graph Neural Network model for real-time incident prediction in large traffic networks,Tran T.,2023-11-01,156,,10.1016/j.trc.2023.104354,SCOPUS_ID:85172867484
+345,Optimizing Road Safety: Advancements in Lightweight YOLOv8 Models and GhostC2f Design for Real-Time Distracted Driving Detection,Du Y.,2023-10-31,23,,10.3390/s23218844,SCOPUS_ID:85176902070
+346,Spatio-temporal dynamic change mechanism analysis of traffic conflict risk based on trajectory data,Hu Y.,2023-10-01,191,,10.1016/j.aap.2023.107203,SCOPUS_ID:85163859726
+347,Intelligent algorithms for incident detection and management in smart transportation systems,Yijing H.,2023-09-01,110,,10.1016/j.compeleceng.2023.108839,SCOPUS_ID:85166654631
+348,Analyzing Takeaway E-Bikers’ Risky Riding Behaviors and Formation Mechanism at Urban Intersections with the Structural Equation Model,Ye X.,2023-09-01,15,,10.3390/su151713094,SCOPUS_ID:85170377075
+349,Real-Time Big Data Analytics and Proactive Traffic Safety Management Visualization System,Abdel-Aty M.,2023-08-01,149,,10.1061/JTEPBS.TEENG-7530,SCOPUS_ID:85159965627
+350,Spatiotemporal Capsule Neural Network for Vehicle Trajectory Prediction,Qin Y.,2023-08-01,72,9746-9756,10.1109/TVT.2023.3253695,SCOPUS_ID:85149874574
+351,Real-time road safety optimization through network-level data management,Muthugama L.,2023-07-01,27,491-523,10.1007/s10707-022-00473-2,SCOPUS_ID:85136543609
+352,Modeling of Freeway Real-Time Traffic Crash Risk Based on Dynamic Traffic Flow Considering Temporal Effect Difference,Yang Y.,2023-07-01,149,,10.1061/JTEPBS.TEENG-7717,SCOPUS_ID:85159951661
+353,Context–aware assistive driving: an overview of techniques for mitigating the risks of driver in real-time driving environment,Gite S.,2023-05-22,19,325-342,10.1108/IJPCC-11-2020-0192,SCOPUS_ID:85112493670
+354,On the impact of advanced driver assistance systems on driving distraction and risky behaviour: An empirical analysis of irish commercial drivers,Masello L.,2023-04-01,183,,10.1016/j.aap.2023.106969,SCOPUS_ID:85146547646
+355,Fusion of forehead EEG with machine vision for real-time fatigue detection in an automatic processing pipeline,Min J.,2023-04-01,35,8859-8872,10.1007/s00521-022-07466-0,SCOPUS_ID:85132745123
+356,A deep spatiotemporal network for forecasting the risk of traffic accidents in low-risk regions,Zheng J.,2023-03-01,35,5207-5220,10.1007/s00521-022-07971-2,SCOPUS_ID:85140989903
+357,Deep Deconvolution for Traffic Analysis With Distributed Acoustic Sensing Data,Van Den Ende M.,2023-03-01,24,2947-2962,10.1109/TITS.2022.3223084,SCOPUS_ID:85144053312
+358,Jointly analyzing freeway primary and secondary crash severity using a copula-based approach,Huang H.,2023-02-01,180,,10.1016/j.aap.2022.106911,SCOPUS_ID:85143495462
+359,Lightweight multimodal feature graph convolutional network for dangerous driving behavior detection,Wei X.,2023-02-01,20,,10.1007/s11554-023-01277-9,SCOPUS_ID:85148212396
+360,Detection of Microsleep Events with a Behind-the-Ear Wearable System,Pham N.,2023-02-01,22,841-857,10.1109/TMC.2021.3090829,SCOPUS_ID:85112421286
+361,Applying Probabilistic Model Checking to Path Planning for a Smart Multimodal Transportation System Using IoT Sensor Data,Yang X.,2023-02-01,28,382-393,10.1007/s11036-023-02089-8,SCOPUS_ID:85150419335
+362,Real-time traffic accident detection based on the derivative of traffic parameters,Li Y.,2023-01-01,,1470-1473,10.1109/CCDC58219.2023.10327413,SCOPUS_ID:85181839382
+363,Risk reduction via spatial and temporal visualization of road accidents: a way forward for emergency response optimization in developing countries,Qalb A.,2023-01-01,30,310-320,10.1080/17457300.2022.2164312,SCOPUS_ID:85145675517
+364,A Data-Driven Approach to Estimate and Predict the Traffic Incidents' Queue Length,Ghosh B.,2023-01-01,,2517-2522,10.1109/ITSC57777.2023.10422644,SCOPUS_ID:85186517462
+365,Traffic Accident Modeling and Prediction Algorithm Using Convolutional Recurrent Neural Networks,Kumar A.,2023-01-01,756 LNNS,351-361,10.1007/978-981-99-5088-1_30,SCOPUS_ID:85174633677
+366,End-to-end fatigue driving EEG signal detection model based on improved temporal-graph convolution network,Jia H.,2023-01-01,152,,10.1016/j.compbiomed.2022.106431,SCOPUS_ID:85144402841
+367,Real-time Improper Driving Action Recognition Using TSM Model with Facial Key Points and Temporal Variations in Pixels,Kou Z.,2023-01-01,,1750-1754,10.1109/ICSP58490.2023.10248743,SCOPUS_ID:85174493726
+368,A Real-Time AIS Data Cleaning and Indicator Analysis Algorithm Based on Stream Computing,Lv T.,2023-01-01,2023,,10.1155/2023/8345603,SCOPUS_ID:85154530741
+369,The Effect of Weather Temporal Instability on the Injury Severity in Single-Vehicle Crashes: A Random Parameters with Heterogeneity in Means Approach,Wang J.,2023-01-01,,1579-1591,10.1061/9780784484869.151,SCOPUS_ID:85174025126
+370,Quantifying incident impacts and identifying influential features in urban traffic networks,Lee J.Y.,2023-01-01,11,279-300,10.1080/21680566.2022.2063205,SCOPUS_ID:85129339293
+371,Learning Spatio-Temporal Features via 3D CNNs to Forecast Time-to-Accident,Anjum T.,2023-01-01,3,532-540,10.5220/0011697900003393,SCOPUS_ID:85184959250
+372,Different Forecasting Model Comparison for Near Future Crash Prediction,Cai B.,2023-01-01,13,,10.3390/app13020759,SCOPUS_ID:85146640191
+373,A Highly Efficient Traffic Prediction Model for Continuous Time-Series Graph Attention Networks,Liu Y.,2023-01-01,,629-634,10.1109/ICAIBD57115.2023.10206100,SCOPUS_ID:85169588124
+374,Predicting Emergency Braking in Vehicles Using a CNN with Sequential Image and Velocity Data,Itu R.,2023-01-01,,41-47,10.1109/ICCP60212.2023.10398701,SCOPUS_ID:85184997959
+375,ViT-CD: A Vision Transformer Approach to Vehicle Collision Detection,Dalwai F.S.,2023-01-01,,,10.1109/GCITC60406.2023.10426462,SCOPUS_ID:85191749435
+376,Using Multidimensional Data to Analyze Freeway Real-Time Traffic Crash Precursors Based on XGBoost-SHAP Algorithm,Li J.,2023-01-01,2023,,10.1155/2023/5789573,SCOPUS_ID:85152914663
+377,Pipeline Leakage Monitoring Technology of Distributed Optical Fiber Vibration Based on Multi-Dimensional Spatial Data Fusion Algorithm,Zhiwei L.,2023-01-01,60,,10.3788/LOP220964,SCOPUS_ID:85166952376
+378,Real-Time Multi-Scale Pothole Detection using Transformer,Bibi A.,2023-01-01,,114-119,10.1109/FIT60620.2023.00030,SCOPUS_ID:85185847380
+379,A Data-Driven Approach to Estimate Incident-Induced Delays Using Incomplete Probe Vehicle Data: Application to Safety Service Patrol Program Evaluation,Oh M.,2023-01-01,2023,,10.1155/2023/3402853,SCOPUS_ID:85165916939
+380,Research on fatigue detection algorithm of vehicle driver based on computer vision,Wang Z.,2023-01-01,12509,,10.1117/12.2655821,SCOPUS_ID:85147250780
+381,Real time tire wear detection using intelligent tires,Gupta U.,2023-01-01,13,,10.1115/IMECE2023-112423,SCOPUS_ID:85185560104
+382,Prediction of Autonomous Vehicle Trajectories in Turnaround Scenarios,Daoud G.,2023-01-01,,606-613,10.1109/DSA59317.2023.00089,SCOPUS_ID:85179511507
+383,Remote sensing traffic scene retrieval based on learning control algorithm for robot multimodal sensing information fusion and human-machine interaction and collaboration,Peng H.,2023-01-01,17,,10.3389/fnbot.2023.1267231,SCOPUS_ID:85174729953
+384,Online Safety Verification of Autonomous Driving Decision-Making Based on Dynamic Reachability Analysis,Gao F.,2023-01-01,11,93293-93309,10.1109/ACCESS.2023.3300423,SCOPUS_ID:85166765111
+385,Research on Road Surface Slippery State Dynamic Evaluation Model of Long Highway Tunnels,Liu R.,2023-01-01,,343-347,10.1109/ICITE59717.2023.10733867,SCOPUS_ID:85210593805
+386,Time and Distance Gaps of Primary-Secondary Crashes Prediction and Analysis Using Random Forests and SHAP Model,Liu X.,2023-01-01,2023,,10.1155/2023/7833555,SCOPUS_ID:85154583190
+387,Filtering Malicious Messages by Trust-Aware Cognitive Routing in Vehicular Ad Hoc Networks,Mirzadeh I.,2023-01-01,24,1134-1143,10.1109/TITS.2022.3191634,SCOPUS_ID:85136111403
+388,Interpretable Machine Learning for Modelling and Explaining Car Drivers’ Behaviour: An Exploratory Analysis on Heterogeneous Data,Islam M.R.,2023-01-01,2,392-404,10.5220/0011801000003393,SCOPUS_ID:85182555765
+389,Road-range Tracking of Vehicle Trajectories Based on Millimeter-wave Radar,Wang J.H.,2022-12-20,35,181-192,10.19721/j.cnki.1001-7372.2022.12.015,SCOPUS_ID:85146235612
+390,Real-time traffic sign detection based on multiscale attention and spatial information aggregator,Zhang J.,2022-12-01,19,1155-1167,10.1007/s11554-022-01252-w,SCOPUS_ID:85138156071
+391,Real-time vehicular accident prevention system using deep learning architecture,Kabir M.F.,2022-11-15,206,,10.1016/j.eswa.2022.117837,SCOPUS_ID:85133202767
+392,Improving Spatiotemporal Transferability of Real-Time Crash Likelihood Prediction Models Using Transfer-Learning Approaches,Li P.,2022-11-01,2676,621-631,10.1177/03611981221094289,SCOPUS_ID:85136711582
+393,Machine Learning Framework for Real-Time Assessment of Traffic Safety Utilizing Connected Vehicle Data,Mussah A.R.,2022-11-01,14,,10.3390/su142215348,SCOPUS_ID:85142685444
+394,RESEARCH ON EMERGENCY RESPONSE SYSTEM OF DANGEROUS GOODS TRANSPORTATION VEHICLES,Yang Y.,2022-10-27,10,71-77,10.5194/isprs-annals-X-3-W2-2022-71-2022,SCOPUS_ID:85141447002
+395,Spatio-Temporal Feature Encoding for Traffic Accident Detection in VANET Environment,Zhou Z.,2022-10-01,23,19772-19781,10.1109/TITS.2022.3147826,SCOPUS_ID:85124824643
+396,DeepTrack: Lightweight Deep Learning for Vehicle Trajectory Prediction in Highways,Katariya V.,2022-10-01,23,18927-18936,10.1109/TITS.2022.3172015,SCOPUS_ID:85132510940
+397,Pedestrian Trajectory Prediction for Real-Time Autonomous Systems via Context-Augmented Transformer Networks,Saleh K.,2022-10-01,22,,10.3390/s22197495,SCOPUS_ID:85139772772
+398,Multi-Scale Feature Fusion Lightweight Real-Time Infrared Pedestrian Detection at Night,He Z.,2022-09-10,49,,10.3788/CJL202249.1717001,SCOPUS_ID:85138192230
+399,Road users’ engagement in prosocial and altruistic behaviors: A systematic review,Kaye S.A.,2022-09-01,82,342-351,10.1016/j.jsr.2022.06.010,SCOPUS_ID:85133589551
+400,An Inverse Reinforcement Learning Approach for Customizing Automated Lane Change Systems,Liu J.,2022-09-01,71,9261-9271,10.1109/TVT.2022.3179332,SCOPUS_ID:85131749705
+401,Development of a conflict risk evaluation model to assess pedestrian safety in interaction with vehicles,Ezzati Amini R.,2022-09-01,175,,10.1016/j.aap.2022.106773,SCOPUS_ID:85134978349
+402,"Investigating the Risk Factors Associated with Injury Severity in Pedestrian Crashes in Santiago, Chile",Rampinelli A.,2022-09-01,19,,10.3390/ijerph191711126,SCOPUS_ID:85137586387
+403,Real-time mental stress detection using multimodality expressions with a deep learning framework,Zhang J.,2022-08-05,16,,10.3389/fnins.2022.947168,SCOPUS_ID:85136464944
+404,Continuous Emulation and Multiscale Visualization of Traffic Flow Using Stationary Roadside Sensor Data,Xu H.,2022-08-01,23,10530-10541,10.1109/TITS.2021.3094808,SCOPUS_ID:85113890259
+405,Real-time crash identification using connected electric vehicle operation data,Zhu M.,2022-08-01,173,,10.1016/j.aap.2022.106708,SCOPUS_ID:85131059951
+406,Data-Driven system identification of 6-DoF ship motion in waves with neural networks,Silva K.M.,2022-08-01,125,,10.1016/j.apor.2022.103222,SCOPUS_ID:85131715143
+407,Real-Time Crash Likelihood Prediction Using Temporal Attention-Based Deep Learning and Trajectory Fusion,Li P.,2022-07-01,148,,10.1061/JTEPBS.0000697,SCOPUS_ID:85129338207
+408,Geospatial Simulation System of Mountain Area Black Ice Accidents,Lee J.K.,2022-06-01,12,,10.3390/app12115709,SCOPUS_ID:85131877627
+409,Navigation Trajectory Prediction Method of Inland Ships Based on Multi-model Fusion,Zhang Y.,2022-05-25,33,1142-1152,10.3969/j.issn.1004-132X.2022.10.002,SCOPUS_ID:85130907753
+410,Study on risk model of highway traffic accidents based on LSTM-BF,Xiong X.,2022-05-01,32,170-176,10.16265/j.cnki.issn1003-3033.2022.05.1602,SCOPUS_ID:85151031863
+411,Driving Fatigue Detection Based on the Combination of Multi‐Branch 3D‐CNN and Attention Mechanism,Xiang W.,2022-05-01,12,,10.3390/app12094689,SCOPUS_ID:85131290137
+412,A Novel Fast Responding Driver Assistance Technique with Efficient Lane Detection and Collision Avoidance Using Dynamic Feature Extraction in Any Environment,Tikar S.S.,2022-04-01,39,459-468,10.18280/ts.390207,SCOPUS_ID:85131566033
+413,Spatial-temporal prediction of the environmental conditions inside an urban road tunnel during an incident scenario,Xu L.,2022-03-15,212,,10.1016/j.buildenv.2022.108808,SCOPUS_ID:85123224128
+414,Intelligent Survey Technologies and Applications for Urban Forests in Taiwan,Chen J.C.,2022-03-01,48,49-59,10.48044/jauf.2022.005,SCOPUS_ID:85169445082
+415,Transfer learning for spatio-temporal transferability of real-time crash prediction models,Man C.K.,2022-02-01,165,,10.1016/j.aap.2021.106511,SCOPUS_ID:85120731024
+416,A hybrid machine learning model for predicting Real-Time secondary crash likelihood,Li P.,2022-02-01,165,,10.1016/j.aap.2021.106504,SCOPUS_ID:85119860906
+417,Real-time traffic incident detection based on a hybrid deep learning model,Li L.,2022-01-01,18,78-98,10.1080/23249935.2020.1813214,SCOPUS_ID:85090315553
+418,Real-time Automatic Method of Detecting Traffic Incidents Based on Temporal Convolutional Autoencoder Network,Li H.T.,2022-01-01,35,265-276,10.19721/j.cnki.1001-7372.2022.06.022,SCOPUS_ID:85147793981
+419,Automated Traffic Incident Detection: Coping With Imbalanced and Small Datasets,Xie T.,2022-01-01,10,35521-35540,10.1109/ACCESS.2022.3161835,SCOPUS_ID:85127021450
+420,Surface traffic monitoring using OpenCV for various weather conditions through enhanced spatial correlation method,Ghosh D.,2022-01-01,,19-24,10.1109/MECON53876.2022.9752182,SCOPUS_ID:85129182674
+421,LIBKDV: A Versatile Kernel Density Visualization Library for Geospatial Analytics,Chan T.N.,2022-01-01,15,3606-3609,10.14778/3554821.3554855,SCOPUS_ID:85137975372
+422,Driver Drowsiness Detection with Region-of-Interest Selection Based Spatio-Temporal Deep Convolutional-LSTM,Basit M.S.,2022-01-01,,,10.1109/ICOSST57195.2022.10016825,SCOPUS_ID:85147701945
+423,Spatial-Importance-Based Computation Scheme for Real-Time Object Detection from 3D Sensor Data,Otsu R.,2022-01-01,10,5672-5680,10.1109/ACCESS.2022.3140332,SCOPUS_ID:85122595431
+424,Hybrid MultiHop Routing Mechanism with Intelligent Transportation System architecture for Efficient Routing in VANETs,Ramamoorthy R.,2022-01-01,,69-74,10.1109/CENTCON56610.2022.10051361,SCOPUS_ID:85150214368
+425,Anomaly based Incident Detection in Large Scale Smart Transportation Systems,Islam J.,2022-01-01,,215-224,10.1109/ICCPS54341.2022.00026,SCOPUS_ID:85134200462
+426,Estimation of Shortest Route with Minimum Travel Time Using GIS and MSSTT Algorithm,Mahariba A.J.,2022-01-01,191,565-579,10.1007/978-981-16-5839-6_48,SCOPUS_ID:85124033930
+427,"International Conference on Frontiers of Traffic and Transportation Engineering, FTTE 2022",,2022-01-01,12340,,,SCOPUS_ID:85144060755
+428,Design and implementation of traffic police hand gesture recognition system based on surface electromyographic signals,Ma W.,2022-01-01,,1888-1894,10.1109/IMCEC55388.2022.10020092,SCOPUS_ID:85147670631
+429,Object Detection and Area Perception in Subway Operation Space Based on the Multi-task Model,Liu W.,2022-01-01,,362-366,10.1109/IWECAI55315.2022.00077,SCOPUS_ID:85128764601
+430,Spatial-temporal flows-adaptive street layout control using reinforcement learning,Ye Q.,2022-01-01,14,,10.3390/su14010107,SCOPUS_ID:85121735982
+431,Real-Time Sidewalk Crack Identification and Classification based on Convolutional Neural Network using Thermal Images,Karthikeyan G.,2022-01-01,,1266-1274,10.1109/ICACRS55517.2022.10029202,SCOPUS_ID:85148332845
+432,Data Image Aggregation Technology of Traffic Wireless Sensor Network,Xu C.,2022-01-01,2022,,10.1155/2022/5020296,SCOPUS_ID:85138094852
+433,Robust analysis and spectral-based deep learning to detect driving fatigue from EEG signals,Quintero-Rincon A.,2022-01-01,,1-6,10.1109/ICTIH57289.2022.10111943,SCOPUS_ID:85160015432
+434,A virtual procedure for real-time monitoring of intervisibility between conflicting agents at intersections using point cloud and trajectory data,Ma Y.,2022-01-01,134,,10.1016/j.trc.2021.103486,SCOPUS_ID:85120498316
+435,GIS-Based Survey over the Public Transport Strategy: An Instrument for Economic and Sustainable Urban Traffic Planning,Droj G.,2022-01-01,11,,10.3390/ijgi11010016,SCOPUS_ID:85123264387
+436,Cooperative Steering Control System for Robust Obstacle Avoidance in Cluttered Off-Road Environments,Yan L.,2022-01-01,,,10.1109/CVCI56766.2022.9965092,SCOPUS_ID:85144604164
+437,"3rd International Conference on Neural Computing for Advanced Applications, NCAA 2022",,2022-01-01,1638 CCIS,,,SCOPUS_ID:85142671295
+438,"3rd International Conference on Neural Computing for Advanced Applications, NCAA 2022",,2022-01-01,1637 CCIS,,,SCOPUS_ID:85142690131
+439,Research on technical model and method of urban road traffic accident and traffic conflict based on artificial intelligence,Yuan Y.,2021-12-18,,885-889,10.1145/3510858.3511416,SCOPUS_ID:85126227482
+440,The landscape of risk perception research: A scientometric analysis,Goerlandt F.,2021-12-01,13,,10.3390/su132313188,SCOPUS_ID:85120309516
+441,Cost-Effective and Smart Text Sensing and Spotting in Blurry Scene Images Using Deep Networks,Bagi R.,2021-11-15,21,25307-25314,10.1109/JSEN.2020.3024257,SCOPUS_ID:85113723409
+442,African swine fever re-emerging in estonia: The role of seropositive wild boar from an epidemiological perspective,Schulz K.,2021-11-01,13,,10.3390/v13112121,SCOPUS_ID:85117915457
+443,Fine particulate matter exposure in four transport modes of Greater Cairo,Abbass R.A.,2021-10-15,791,,10.1016/j.scitotenv.2021.148104,SCOPUS_ID:85107708483
+444,A conflict-based approach for real-time road safety analysis: Comparative evaluation with crash-based models,Orsini F.,2021-10-01,161,,10.1016/j.aap.2021.106382,SCOPUS_ID:85114040906
+445,Real-time lane detection model based on non bottleneck skip residual connections and attention pyramids,Chen L.,2021-10-01,16,,10.1371/journal.pone.0252755,SCOPUS_ID:85119056874
+446,Huperzine A protects against traumatic brain injury through anti-oxidative effects via the Nrf2-ARE pathway,Mei Z.,2021-10-01,24,1455-1461,10.22038/ijbms.2021.58169.12932,SCOPUS_ID:85116589196
+447,A Traffic Accident Risk Prediction Model Based on Spatial Gated Memory Network,Lai S.,2021-09-23,,331-335,10.1109/EIECS53707.2021.9588055,SCOPUS_ID:85119431438
+448,Towards a Real-time System based on Regression Model to Evaluate Driver's Attention,Lago T.K.,2021-09-07,,,10.1109/ISC253183.2021.9562886,SCOPUS_ID:85118151192
+449,Understanding gender difference in perceptions toward transit services across space and time: A social media mining approach,Luo S.,2021-09-01,111,63-73,10.1016/j.tranpol.2021.07.018,SCOPUS_ID:85111822859
+450,Revealing the spatial pattern of weather-related road traffic crashes in slovenia,Ivajnšič D.,2021-07-02,11,,10.3390/app11146506,SCOPUS_ID:85111123483
+451,Spatial-temporal EV charging demand model considering generic second-order traffic flows,Ross M.,2021-06-21,,789-794,10.1109/ITEC51675.2021.9490052,SCOPUS_ID:85114455454
+452,Temporal analysis of driving efficiency using smartphone data,Tselentis D.I.,2021-05-01,154,,10.1016/j.aap.2021.106081,SCOPUS_ID:85102246258
+453,Driver behavior detection via adaptive spatial attention mechanism,Zhao L.,2021-04-01,48,,10.1016/j.aei.2021.101280,SCOPUS_ID:85103078993
+454,"Associating ridesourcing with road safety outcomes: Insights from Austin, Texas",Kontou E.,2021-03-01,16,,10.1371/journal.pone.0248311,SCOPUS_ID:85102769190
+495,Allometric scaling of road accidents using social media crowd-sourced data,Ghandour A.J.,2020-05-01,545,,10.1016/j.physa.2019.123534,SCOPUS_ID:85076223348
+455,Improving Short-Term Travel Speed Prediction with High-Resolution Spatial and Temporal Rainfall Data,Harper C.D.,2021-03-01,147,,10.1061/JTEPBS.0000504,SCOPUS_ID:85099396975
+456,A traffic prediction model based on multiple factors,Wang J.,2021-03-01,77,2928-2960,10.1007/s11227-020-03373-0,SCOPUS_ID:85087629795
+457,Safety critical event prediction through unified analysis of driver and vehicle volatilities: Application of deep learning methods,Arvin R.,2021-03-01,151,,10.1016/j.aap.2020.105949,SCOPUS_ID:85097716387
+458,Toxoplasmosis: Recent Advances in Understanding the Link between Infection and Host Behavior,Johnson S.K.,2021-02-15,9,249-264,10.1146/annurev-animal-081720-111125,SCOPUS_ID:85100950438
+459,Driver activity recognition using spatial-temporal graph convolutional LSTM networks with attention mechanism,Pan C.,2021-02-01,15,297-307,10.1049/itr2.12025,SCOPUS_ID:85108914287
+460,Investigating hazardous factors affecting freeway crash injury severity incorporating real-time weather data: Using a Bayesian multinomial logit model with conditional autoregressive priors,Zhang X.,2021-02-01,76,248-255,10.1016/j.jsr.2020.12.014,SCOPUS_ID:85100459401
+461,Applying machine learning and geolocation techniques to social media data (Twitter) to develop a resource for urban planning,Milusheva S.,2021-02-01,16,,10.1371/journal.pone.0244317,SCOPUS_ID:85100682724
+462,Kdv-explorer: A near real-time kernel density visualization system for spatial analysis,Chan T.N.,2021-01-01,14,2655-2658,10.14778/3476311.3476312,SCOPUS_ID:85116798412
+463,SWS: A Complexity-Optimized Solution for Spatial-Temporal Kernel Density Visualization,Chan T.N.,2021-01-01,15,814-827,10.14778/3503585.3503591,SCOPUS_ID:85130366911
+464,ST-TAP: A Traffic Accident Prediction Framework Based on Spatio-Temporal Transformer,Liu W.,2021-01-01,,360-365,10.1109/DASC-PICom-CBDCom-CyberSciTech52372.2021.00068,SCOPUS_ID:85127561809
+465,Real-time road transportation safety risk evaluation model based on data-mining,Luo W.,2021-01-01,20,168-178,10.1504/IJWMC.2021.114140,SCOPUS_ID:85103877923
+466,Fast augmentation algorithms for network kernel density visualization,Chan T.N.,2021-01-01,14,1503-1516,10.14778/3461535.3461540,SCOPUS_ID:85115120399
+467,SAFE: A Share-and-Aggregate Bandwidth Exploration Framework for Kernel Density Visualization,Chan T.N.,2021-01-01,15,513-526,10.14778/3494124.3494135,SCOPUS_ID:85126362493
+468,Dynamic and Interpretable Hazard-Based Models of Traffic Incident Durations,Kalair K.,2021-01-01,2,,10.3389/ffutr.2021.669015,SCOPUS_ID:85130522027
+469,RTED-SD: A real-time edge detection scheme for sybil DDoS in the internet of vehicles,Li J.,2021-01-01,9,11296-11305,10.1109/ACCESS.2021.3049830,SCOPUS_ID:85099536076
+470,Traffic Dynamic Model for Attacked Information Propagation under V2V Communication Networks,Ren Y.,2021-01-01,,475-485,,SCOPUS_ID:85122700057
+471,Holistic LSTM for Pedestrian Trajectory Prediction,Quan R.,2021-01-01,30,3229-3239,10.1109/TIP.2021.3058599,SCOPUS_ID:85101765205
+472,A Two-Layer Risky Driver Recognition Model with Context Awareness,Wang K.,2021-01-01,9,138483-138495,10.1109/ACCESS.2021.3116996,SCOPUS_ID:85116922680
+473,"1st International Conference on Urban Science and Engineering, ICUSE 2020",,2021-01-01,121 LNCE,,,SCOPUS_ID:85104895960
+474,Vehicle Detection from UAV Remote Sensing Images Using Deep Learning,Tan L.,2021-01-01,,,,SCOPUS_ID:85127444686
+475,Indicators of injury severity of truck crashes using random parameter logit modeling,Rabbani M.B.A.,2021-01-01,,1137-1142,10.1109/DASA53625.2021.9682328,SCOPUS_ID:85125787169
+476,Brain injury severity due to direct head contact from near-side motor vehicle collisions,Tanczos R.L.,2021-01-01,22,S56-S61,10.1080/15389588.2021.1983177,SCOPUS_ID:85118258339
+477,Research on Detection Method of Traffic Anomaly Based on Improved YOLOv3,Gao X.,2020-12-01,,1134-1139,10.1109/ICISCE50968.2020.00231,SCOPUS_ID:85116341187
+478,A new method of temporal and spatial risk estimation for lane change considering conventional recognition defects,Wu J.,2020-12-01,148,,10.1016/j.aap.2020.105796,SCOPUS_ID:85093651795
+479,The effect of wildlife carcass underreporting on KDE+ hotspots identification and importance,Bíl M.,2020-12-01,275,,10.1016/j.jenvman.2020.111254,SCOPUS_ID:85089700346
+480,Dynamic accessibility: Incorporating day-to-day travel time reliability into accessibility measurement,Bimpou K.,2020-12-01,89,,10.1016/j.jtrangeo.2020.102892,SCOPUS_ID:85094186189
+481,Development of a Safety System for Intelligent Cyclist modelling,Malik F.A.,2020-11-25,,22-27,10.1109/ELECOM49001.2020.9297001,SCOPUS_ID:85099606785
+482,"Wildlife-vehicle collisions - Influencing factors, data collection and research methods",Pagany R.,2020-11-01,251,,10.1016/j.biocon.2020.108758,SCOPUS_ID:85090912748
+483,Towards nline prediction of safety-critical landing metrics in aviation using supervised machine learning,Puranik T.G.,2020-11-01,120,,10.1016/j.trc.2020.102819,SCOPUS_ID:85092731318
+484,Deep Graph Convolutional Networks for Incident-Driven Traffic Speed Prediction,Xie Q.,2020-10-19,,1665-1674,10.1145/3340531.3411873,SCOPUS_ID:85095865585
+485,Real-time evaluation of driver cognitive loads based on multivariate biosignal analysis,Shimizu T.,2020-10-11,2020-October,623-628,10.1109/SMC42975.2020.9282983,SCOPUS_ID:85098877139
+486,Improving the emergency system for a traffic accident,Rembalovich G.,2020-10-06,918,,10.1088/1757-899X/918/1/012072,SCOPUS_ID:85094166680
+487,Convolutional neural networks with refined loss functions for the real-time crash risk analysis,Yu R.,2020-10-01,119,,10.1016/j.trc.2020.102740,SCOPUS_ID:85089074845
+488,Real-time Traffic Incident Detection Using an Autoencoder Model,Yang H.,2020-09-20,,,10.1109/ITSC45102.2020.9294455,SCOPUS_ID:85099666954
+489,Anomalous State Recognition of Lane-changing Behavior using a Hybrid Autoencoder Architecture,Fan P.,2020-09-20,,,10.1109/ITSC45102.2020.9294394,SCOPUS_ID:85099663069
+490,A network-based scan statistic for detecting the exact location and extent of hotspots along urban streets,Shiode S.,2020-09-01,83,,10.1016/j.compenvurbsys.2020.101500,SCOPUS_ID:85085692243
+491,Adaptive Cartographic Techniques for Disaster Emergency Services,Du Q.,2020-08-05,45,1117-1125,10.13203/j.whugis20200138,SCOPUS_ID:85089898296
+492,A portable fuzzy driver drowsiness estimation system,Celecia A.,2020-08-01,20,1-16,10.3390/s20154093,SCOPUS_ID:85088572781
+493,A Multi-modal Graph Neural Network Approach to Traffic Risk Forecasting in Smart Urban Sensing,Zhang Y.,2020-06-01,,,10.1109/SECON48991.2020.9158447,SCOPUS_ID:85091968431
+494,Regression-based continuous driving fatigue estimation: Toward practical implementation,Bose R.,2020-06-01,12,323-331,10.1109/TCDS.2019.2929858,SCOPUS_ID:85071036774
+496,An Improved Probabilistic Threat Assessment Method for Intelligent Vehicles in Critical Rear-End Situations,Zhou H.,2020-04-14,2020-April,,10.4271/2020-01-0698,SCOPUS_ID:85083827206
+497,Investigating the impacts of real-time weather conditions on freeway crash severity: A bayesian spatial analysis,Zeng Q.,2020-04-02,17,,10.3390/ijerph17082768,SCOPUS_ID:85083658594
+498,Learning to rank spatio-temporal event hotspots,Mohler G.,2020-03-20,9,,10.1186/s40163-020-00112-x,SCOPUS_ID:85082199410
+499,A multivariate analysis of environmental effects on road accident occurrence using a balanced bagging approach,Schlögl M.,2020-03-01,136,,10.1016/j.aap.2019.105398,SCOPUS_ID:85076404457
+500,"Toward safer highways, application of XGBoost and SHAP for real-time accident detection and feature analysis",Parsa A.B.,2020-03-01,136,,10.1016/j.aap.2019.105405,SCOPUS_ID:85075826450
+501,Using Deep Learning to Construct a Real-Time Road Safety Model; Modelling the Personal Attributes for Cyclist,Malik F.A.,2020-01-01,12490 LNCS,610-619,10.1007/978-3-030-62365-4_60,SCOPUS_ID:85097181280
+502,Traffic Incident Detection from Massive Multivariate Time-Series Data,Sterling N.,2020-01-01,12408 LNCS,115-123,10.1007/978-3-030-59585-2_10,SCOPUS_ID:85091598511
+503,Hybrid Data-Fusion Model for Short-Term Road Hazardous Segments Identification Based on the Acceleration and Deceleration Information,Yang H.F.,2020-01-01,,313-326,,SCOPUS_ID:85091595667
+504,High Throughput Vehicular Communication Using Spatial Multiplexing MIMO,Dey U.K.,2020-01-01,,110-115,10.1109/CCWC47524.2020.9031225,SCOPUS_ID:85083082903
+505,Estimation method of traffic volume using big-data,Someya K.,2020-01-01,1036,387-395,10.1007/978-3-030-29029-0_36,SCOPUS_ID:85071424828
+506,A Road Traffic Crash Risk Assessment Method Using Vehicle Trajectory Data and Surrogate Safety Measures,Peng L.,2020-01-01,,3657-3669,10.1061/9780784482933.315,SCOPUS_ID:85107222591
+507,Providing Context Awareness in the Smart Car Environment: State of the Art,Soultana A.,2020-01-01,Part F1409,823-836,10.1007/978-3-030-37629-1_59,SCOPUS_ID:85171570190
+508,Visual spatial analytic method for spatial semantic-enhanced urban traffic data,Yuelong L.,2019-12-01,24,2279-2290,10.11834/jig.190284,SCOPUS_ID:85194737716
+509,Towards real-time detection and mitigation of driver frustration using SVM,Zepf S.,2019-12-01,,202-209,10.1109/ICMLA.2019.00039,SCOPUS_ID:85080956936
+510,"Structural equations modeling of real-time crash risk variation in car-following incorporating visual perceptual, vehicular, and roadway factors",Ding N.,2019-12-01,133,,10.1016/j.aap.2019.105298,SCOPUS_ID:85072380352
+511,Accident risk prediction based on heterogeneous sparse data: New dataset and insights,Moosavi S.,2019-11-05,,33-42,10.1145/3347146.3359078,SCOPUS_ID:85076973250
+512,ADMSv2: A modern architecture for transportation data management and analysis,Anastasiou C.,2019-11-05,,25-28,10.1145/3356395.3365544,SCOPUS_ID:85077329267
+513,Spatial analysis of traffic accidents near and between road intersections in a directed linear network,Briz-Redón Á.,2019-11-01,132,,10.1016/j.aap.2019.07.028,SCOPUS_ID:85070665013
+514,"Incorporating spatial effects into temporal dynamic of road traffic fatality risks: A case study on 48 lower states of the United States, 1975–2015",Zhou H.,2019-11-01,132,,10.1016/j.aap.2019.105283,SCOPUS_ID:85071836283
+515,Identification of differential risk hotspots for collision and vehicle type in a directed linear network,Briz-Redón Á.,2019-11-01,132,,10.1016/j.aap.2019.105278,SCOPUS_ID:85071993130
+516,Bayesian spatial-temporal model for the main and interaction effects of roadway and weather characteristics on freeway crash incidence,Wen H.,2019-11-01,132,,10.1016/j.aap.2019.07.025,SCOPUS_ID:85070384651
+517,Stack ResNet for Short-term Accident Risk Prediction Leveraging Cross-domain Data,Zhou Z.,2019-11-01,,782-787,10.1109/CAC48633.2019.8996483,SCOPUS_ID:85080038654
+518,A multivariate-based variable selection framework for clustering traffic conflicts in a brazilian freeway,Rocha M.,2019-11-01,132,,10.1016/j.aap.2019.105269,SCOPUS_ID:85070910899
+519,Monitoring of protein biomarkers of inflammation in human traumatic brain injury using microdialysis and proximity extension assay technology in neurointensive care,Dyhrfort P.,2019-10-15,36,2872-2885,10.1089/neu.2018.6320,SCOPUS_ID:85072945901
+520,Context-awareness in the smart car: Study and analysis,Soultana A.,2019-10-02,,,10.1145/3368756.3369019,SCOPUS_ID:85077736037
+521,A Driver Fatigue Recognition Algorithm Based on Spatio-Temporal Feature Sequence,Zhang C.,2019-10-01,,,10.1109/CISP-BMEI48845.2019.8965990,SCOPUS_ID:85079177244
+522,Summary of Research on impact of Adverse Weather on Traffic Safety and Traffic Flow,Yang W.,2019-10-01,43,843-849,10.3963/j.issn.2095-3844.2019.05.011,SCOPUS_ID:85075307094
+523,Current understanding of the effects of congestion on traffic accidents,Retallack A.E.,2019-09-02,16,,10.3390/ijerph16183400,SCOPUS_ID:85072516244
+524,Traffic accident prediction based on deep spatio-temporal analysis,Yu L.,2019-08-01,,995-1002,10.1109/SmartWorld-UIC-ATC-SCALCOM-IOP-SCI.2019.00195,SCOPUS_ID:85083565343
+525,A cellular automation model for convoy traffic in Arctic waters,Khan B.,2019-08-01,164,,10.1016/j.coldregions.2019.102783,SCOPUS_ID:85066238826
+526,Identifying high-risk areas for nonfatal opioid overdose: a spatial case-control study using EMS run data,Pesarsick J.,2019-08-01,36,20-25,10.1016/j.annepidem.2019.07.001,SCOPUS_ID:85070214731
+527,Detection and prevention of dos attacks in vanet with rsu’s cooperative message temporal signature,Kabbur M.,2019-07-01,8,6371-6377,10.35940/ijrte.B2210.078219,SCOPUS_ID:85071778269
+528,Estimation method of Traffic Volume in Provincial City Using Big-Data,Someya K.,2019-07-01,2,257-262,10.1109/COMPSAC.2019.10216,SCOPUS_ID:85072662755
+529,A new integrated collision risk assessment methodology for autonomous vehicles,Katrakazas C.,2019-06-01,127,61-79,10.1016/j.aap.2019.01.029,SCOPUS_ID:85062293912
+530,An improved multi-pedestrian tracking system based on deep neural network,Gong Y.,2019-04-02,2019-April,,10.4271/2019-01-1055,SCOPUS_ID:85064631308
+531,Crash severity effects of adaptive signal control technology: An empirical assessment with insights from Pennsylvania and Virginia,Khattak Z.H.,2019-03-01,124,151-162,10.1016/j.aap.2019.01.008,SCOPUS_ID:85059801588
+532,Identification and evaluation of urban traffic congestion based on the big data of floating vehicles and grid modeling,Yan X.,2019-02-01,43,104-113,10.11860/j.issn.1673-0291.2019.01.012,SCOPUS_ID:85065469588
+533,Diagnostic analysis of the effects of weather condition on pedestrian crash severity,Zhai X.,2019-01-01,122,318-324,10.1016/j.aap.2018.10.017,SCOPUS_ID:85056150923
+534,"Brazilian Traffic Signs Detection and Recognition in Videos Using CLAHE, HOG Feature Extraction and SVM Cascade Classifier with Temporal Coherence",Zottis Junges R.,2019-01-01,11835 LNAI,589-600,10.1007/978-3-030-33749-0_47,SCOPUS_ID:85075651044
+535,Spatial and Temporal Analyses for Estimation of Origin-Destination Demands by Time of Day over Year,Shen L.,2019-01-01,7,47904-47917,10.1109/ACCESS.2019.2909524,SCOPUS_ID:85065095438
+536,A real-time driver monitoring system using a high sensitivity camera,Tan L.,2019-01-01,10883,,10.1117/12.2507181,SCOPUS_ID:85068317226
+537,A LightGBM-Based EEG Analysis Method for Driver Mental States Classification,Zeng H.,2019-01-01,2019,,10.1155/2019/3761203,SCOPUS_ID:85072737139
+538,Vehicular speed determination using cellular and geo-spatial information,Diarah R.,2019-01-01,10,1496-1506,,SCOPUS_ID:85061075735
+539,Smartphone based context-Aware driver behavior classification using dynamic Bayesian network,Chhabra R.,2019-01-01,36,4399-4412,10.3233/JIFS-169995,SCOPUS_ID:85065823751
+540,CPD: Crowd-based pothole detection,Wirthmueller F.,2019-01-01,,33-42,10.5220/0007626700330042,SCOPUS_ID:85067571554
+541,Proactive assessment of road curve safety using floating car data: An exploratory study,Ambros J.,2019-01-01,50,7-15,10.5604/01.3001.0013.5570,SCOPUS_ID:85076531773
+542,A Deep Learning Approach to the Citywide Traffic Accident Risk Prediction,Ren H.,2018-12-07,2018-November,3346-3351,10.1109/ITSC.2018.8569437,SCOPUS_ID:85059504647
+543,Deep learning based urban post-accidental congestion prediction,Lu M.,2018-12-06,,155-156,10.1109/MASS.2018.00035,SCOPUS_ID:85060206541
+544,"Dijkstra’s-DBSCAN: Fast, Accurate, and Routable Density Based Clustering of Traffic Incidents on Large Road Network",Zhang Y.,2018-12-01,2672,265-273,10.1177/0361198118796071,SCOPUS_ID:85060919527
+545,ECG-based driver inattention identification during naturalistic driving using Mel-frequency cepstrum 2-D transform and convolutional neural networks,Taherisadr M.,2018-12-01,9-10,50-61,10.1016/j.smhl.2018.07.022,SCOPUS_ID:85059787951
+546,Intelligent Context-Aware Communication Paradigm Design for IoVs Based on Data Analytics,Lyu F.,2018-11-01,32,74-82,10.1109/MNET.2018.1800067,SCOPUS_ID:85057982744
+547,A Bayesian dynamic updating approach for urban expressway real-time crash risk evaluation,Yang K.,2018-11-01,96,192-207,10.1016/j.trc.2018.09.020,SCOPUS_ID:85053886086
+548,Applying a random parameters Negative Binomial Lindley model to examine multi-vehicle crashes along rural mountainous highways in Malaysia,Rusli R.,2018-10-01,119,80-90,10.1016/j.aap.2018.07.006,SCOPUS_ID:85049735668
+549,Freeway crash risks evaluation by variable speed limit strategy using real-world traffic flow data,Cheng Z.,2018-10-01,119,176-187,10.1016/j.aap.2018.07.009,SCOPUS_ID:85050102654
+550,Likelihood estimation of secondary crashes using Bayesian complementary log-log model,Kitali A.E.,2018-10-01,119,58-67,10.1016/j.aap.2018.07.003,SCOPUS_ID:85049434373
+551,Optimal Sequential Detection of Freeway Accidents,Liyanage Y.W.,2018-07-02,2018-October,2055-2059,10.1109/ACSSC.2018.8645501,SCOPUS_ID:85062935740
+552,Quickest freeway accident detection under unknown post-accident conditions,Liyanage Y.W.,2018-07-02,,1238-1242,10.1109/GlobalSIP.2018.8646617,SCOPUS_ID:85063110879
+553,Vehicle Safety Improvement through Deep Learning and Mobile Sensing,Peng Z.,2018-07-01,32,28-33,10.1109/MNET.2018.1700389,SCOPUS_ID:85056876665
+554,Analysis of hourly crash likelihood using unbalanced panel data mixed logit model and real-time driving environmental big data,Chen F.,2018-06-01,65,153-159,10.1016/j.jsr.2018.02.010,SCOPUS_ID:85046352028
+555,Real-time prediction and avoidance of secondary crashes under unexpected traffic congestion,Park H.,2018-03-01,112,39-49,10.1016/j.aap.2017.11.025,SCOPUS_ID:85040001401
+556,Rapid-Response Framework for Defensive Driving Based on Internet of Vehicles Using Message-Oriented Middleware,Lai P.Y.,2018-02-22,6,18548-18560,10.1109/ACCESS.2018.2808913,SCOPUS_ID:85042684690
+557,Concussion Alters the Functional Brain Processes of Visual Attention and Working Memory,Shah-Basak P.P.,2018-01-15,35,267-277,10.1089/neu.2017.5117,SCOPUS_ID:85041055863
+558,Traffic accident detection with spatiotemporal impact measurement,Yue M.,2018-01-01,10938 LNAI,471-482,10.1007/978-3-319-93037-4_37,SCOPUS_ID:85049363462
+559,Adaptive decision making based on temporal information dynamics,Meuser T.,2018-01-01,2018-March,91-102,10.5220/0006687900910102,SCOPUS_ID:85051767092
+560,Development of a big data platform for analysis of road driving environment using vehicle sensing data and public data,Jung I.,2018-01-01,10968 LNCS,220-234,10.1007/978-3-319-94301-5_17,SCOPUS_ID:85049360650
+561,"4th International Conference on Cloud Computing andSecurity, ICCCS 2018",,2018-01-01,11064 LNCS,,,SCOPUS_ID:85057363436
+562,A novel analytic framework of real-time multi-vessel collision risk assessment for maritime traffic surveillance,Zhen R.,2017-11-15,145,492-501,10.1016/j.oceaneng.2017.09.015,SCOPUS_ID:85029783882
+563,Visualizing Traffic Accident Hotspots Based on Spatial-Temporal Network Kernel Density Estimation (Demo Paper),Romano B.,2017-11-07,2017-November,,10.1145/3139958.3139981,SCOPUS_ID:85040977973
+564,Follow the best: Crowdsourced automated travel advice,AlDwyish A.,2017-11-07,,272-281,10.1145/3144457.3144475,SCOPUS_ID:85052489871
+565,Data-driven statistical analysis of dynamic vessel trajectories in Wuhan section of the yangtze river,Liang M.,2017-10-22,Part F132530,44-51,10.1145/3152723.3152738,SCOPUS_ID:85038956593
+566,ClariSense+: An enhanced traffic anomaly explanation service using social network feeds,Giridhar P.,2017-10-01,41,381-396,10.1016/j.pmcj.2017.02.007,SCOPUS_ID:85016577827
+567,A configurable synchronous intersection protocol for self-driving vehicles,Aoki S.,2017-09-19,,,10.1109/RTCSA.2017.8046306,SCOPUS_ID:85032742414
+568,BMRC: A bitmap-based maximum range counting approach for temporal data in sensor monitoring networks,Cao B.,2017-09-07,17,,10.3390/s17092051,SCOPUS_ID:85029181796
+569,Poster: Real-time rainfall estimation based on LTE vehicular communications for road safety applications,Beritelli F.,2017-07-02,2018-January,33-34,10.1109/VNC.2017.8275651,SCOPUS_ID:85046302959
+570,Data fusion in automotive applications: Efficient big data stream computing approach,Haroun A.,2017-06-01,21,443-455,10.1007/s00779-017-1008-2,SCOPUS_ID:85013167750
+571,Single-vehicle crashes along rural mountainous highways in Malaysia: An application of random parameters negative binomial model,Rusli R.,2017-05-01,102,153-164,10.1016/j.aap.2017.03.002,SCOPUS_ID:85015020092
+572,In-vehicle stereo vision system for identification of traffic conflicts between bus and pedestrian,Cafiso S.,2017-02-01,4,3-13,10.1016/j.jtte.2016.05.007,SCOPUS_ID:85009826140
+573,Improving Data Fusion in Big Data Stream Computing for Automotive Applications,Haroun A.,2017-01-12,,106-113,10.1109/UIC-ATC-ScalCom-CBDCom-IoP-SmartWorld.2016.0037,SCOPUS_ID:85013175400
+574,"9th International Conference on Social Computing and Social Media, SCSM 2017, held as part of the 19th International Conference on Human-Computer Interaction, HCI 2017",,2017-01-01,10283 LNCS,1-466,,SCOPUS_ID:85025129465
+575,Automated Incident Detection Using Real-Time Floating Car Data,Houbraken M.,2017-01-01,2017,,10.1155/2017/8241545,SCOPUS_ID:85042290353
+576,A multivariate-based conflict prediction model for a Brazilian freeway,Caleffi F.,2017-01-01,98,295-302,10.1016/j.aap.2016.10.025,SCOPUS_ID:84993940156
+577,Technological solutions for an effective health surveillance system for road traffic crashes in Burkina Faso,Bonnet E.,2017-01-01,10,,10.1080/16549716.2017.1295698,SCOPUS_ID:85028553204
+578,ClariSense+: An enhanced traffic anomaly explanation service using social network feeds,Giridhar P.,2016-12-01,33,140-155,10.1016/j.pmcj.2016.03.005,SCOPUS_ID:84964661119
+579,GeoContext: Discovering geographical topics from social media,Williams E.,2016-11-21,,1342-1346,10.1109/ASONAM.2016.7752411,SCOPUS_ID:85006780409
+580,A concise summary of spatial anomalies and its application in efficient real-time driving behaviour monitoring,Lam H.T.,2016-10-31,,,10.1145/2996913.2996989,SCOPUS_ID:85011063385
+581,"Analysis of safety factors for urban expressways considering the effect of congestion in Shanghai, China",Sun J.,2016-10-01,95,503-511,10.1016/j.aap.2015.12.011,SCOPUS_ID:84966477848
+582,A full Bayes before-after study accounting for temporal and spatial effects: Evaluating the safety impact of new signal installations,Sacchi E.,2016-09-01,94,52-58,10.1016/j.aap.2016.05.015,SCOPUS_ID:84971277130
+583,Perceptual-motor behaviour during a simulated pedestrian crossing,Dicks M.,2016-09-01,49,241-245,10.1016/j.gaitpost.2016.07.003,SCOPUS_ID:84978950549
+584,Word-clouds in the sky: Multi-layer spatio-temporal event visualization from a geo-parsed microblog stream,Itoh M.,2016-08-31,2016-August,282-289,10.1109/IV.2016.62,SCOPUS_ID:84989911932
+585,"Suicides in commuting railway systems: The case of Stockholm county, Sweden",Ceccato V.,2016-07-01,198,206-221,10.1016/j.jad.2016.02.051,SCOPUS_ID:84961644244
+586,Crash frequency modeling using real-time environmental and traffic data and unbalanced panel data models,Chen F.,2016-06-18,13,,10.3390/ijerph13060609,SCOPUS_ID:84975270804
+587,Enabling Smart Transportation Systems: A Parallel Spatio-Temporal Database Approach,Ding Z.,2016-05-01,65,1377-1391,10.1109/TC.2015.2479596,SCOPUS_ID:84963815052
+588,How big data serves for freight safety management at highway-rail grade crossings? A spatial approach fused with path analysis,Liu J.,2016-03-12,181,38-52,10.1016/j.neucom.2015.08.098,SCOPUS_ID:84958917798
+589,A Driver Support Interface to Detect Optical Illusion Places on a Road Map,Kashihara K.,2016-01-12,,1476-1481,10.1109/SMC.2015.261,SCOPUS_ID:84964507810
+590,Out of the corner of the driver's eye: Peripheral processing of hazards in static traffic scenes,Huestegge L.,2016-01-01,16,,10.1167/16.2.11,SCOPUS_ID:84983380322
+591,Improving IRR and safety through operational efficiency,Jackson W.,2016-01-01,,,10.15530/urtec-2016-2460853,SCOPUS_ID:85051545451
+592,Towards in time music mood-mapping for drivers: A novel approach,Krishnan A.S.,2015-11-02,,59-66,10.1145/2815347.2815352,SCOPUS_ID:84959288447
+593,Forecasting spatiotemporal impact of traffic incidents for next-generation navigation systems,Pan B.,2015-10-26,45,75-104,10.1007/s10115-014-0783-6,SCOPUS_ID:84942237931
+594,Share-use of the motion vectors from video encoding for high relative speed moving vehicle detection,Liu S.,2015-10-07,,,10.1109/IST.2015.7294550,SCOPUS_ID:84962706673
+595,Spatio-temporal accident analysis for accident prevention in relation to behavioral factors in driving: The case of South Anatolian Motorway,Kaygisiz Ö.,2015-08-10,33,128-140,10.1016/j.trf.2015.07.002,SCOPUS_ID:84938680928
+596,Real-time driver drowsiness feedback improves driver alertness and self-reported driving performance,Aidman E.,2015-08-01,81,8-13,10.1016/j.aap.2015.03.041,SCOPUS_ID:84928747649
+597,Tweeting traffic: Analyzing twitter for generating real-time city traffic insights and predictions,Tejaswin P.,2015-03-20,20-March-2015,,10.1145/2778865.2778874,SCOPUS_ID:84988702937
+598,Analysis and real-time prediction of local incident impact on transportation networks,He Y.,2015-01-26,2015-January,158-166,10.1109/ICDMW.2014.183,SCOPUS_ID:84936873281
+599,A model suggestion for the determination of the traffic accident hotspots on the turkish highway road network: A pilot study,Erdogan S.,2015-01-01,21,169-188,10.1590/S1982-21702015000100011,SCOPUS_ID:84925606296
+600,Spatio-temporal pedestrian accident analysis to improve urban pedestrian safety: The case of the eskişehir motorway,Kaygisiz Ö.,2015-01-01,28,623-630,,SCOPUS_ID:84949953052
+601,A spatio-temporal decision support framework for large scale logistics distribution in the metropolitan area,Tu W.,2015-01-01,19,193-206,10.1007/978-3-319-19950-4_12,SCOPUS_ID:84947236418
+602,Intelligent Decision-Making Optimization Model of a Traffic Emergency Based on Learning Bayesian Network,Cong H.,2015-01-01,,470-478,10.1061/9780784479384.061,SCOPUS_ID:84962132723
+603,Evaluating changes in driver behaviour: A risk profiling approach,Ellison A.,2015-01-01,75,298-309,10.1016/j.aap.2014.12.018,SCOPUS_ID:84919787688
+604,"13th International Work-Conference on Artificial Neural Networks, IWANN 2015",,2015-01-01,9094,1-611,10.1007/978-3-319-19258-1,SCOPUS_ID:84937431085
+605,Context-awareness based intelligent driver behavior detection: Integrating Wireless Sensor networks and Vehicle ad hoc networks,Gupta A.,2014-11-26,,2155-2162,10.1109/ICACCI.2014.6968230,SCOPUS_ID:84927593380
+606,Traffic incident validation and correlation using text alerts and images,Yan W.,2014-11-04,04-07-November-2014,601-604,10.1145/2666310.2666379,SCOPUS_ID:84961207552
+607,Real-time driver drowsiness estimation by multi-source information fusion with Dempster-Shafer theory,Li X.,2014-10-01,36,906-915,10.1177/0142331213508804,SCOPUS_ID:84907479050
+608,"Vision on wheels: Looking at driver, vehicle, and surround for on-road maneuver analysis",Ohn-Bar E.,2014-09-24,,185-190,10.1109/CVPRW.2014.33,SCOPUS_ID:84908542261
+609,Driver drowsiness detection through HMM based dynamic modeling,Tadesse E.,2014-09-22,,4003-4008,10.1109/ICRA.2014.6907440,SCOPUS_ID:84929191203
+610,Data integration and clustering for real time crash prediction,Paikari E.,2014-02-27,,537-544,10.1109/IRI.2014.7051936,SCOPUS_ID:84946688114
+611,Automatic detection of drowsiness in EEG records based on multimodal analysis,Garcés Correa A.,2014-02-01,36,244-249,10.1016/j.medengphy.2013.07.011,SCOPUS_ID:84895073949
+612,Using the bayesian updating approach to improve the spatial and temporal transferability of real-time crash risk prediction models,Xu C.,2014-01-01,38,167-176,10.1016/j.trc.2013.11.020,SCOPUS_ID:84890189616
+613,Real-time queue-end detection on freeways with floating car data :Practice-ready algorithm,Dinh T.U.J.,2014-01-01,2470,46-56,10.3141/2470-05,SCOPUS_ID:84938675161
+614,Vehicle safety evaluation based on driver drowsiness and distracted and impaired driving performance using evidence theory,Li X.,2014-01-01,,82-88,10.1109/IVS.2014.6856435,SCOPUS_ID:84905402377
+615,Dynamic control of high-speed train following Operation,Pan D.,2014-01-01,26,291-297,10.7307/ptt.v26i4.1256,SCOPUS_ID:84937571249
+616,Improving rail network velocity: A machine learning approach to predictive maintenance,Li H.,2014-01-01,45,17-26,10.1016/j.trc.2014.04.013,SCOPUS_ID:84904358786
+617,Forecasting spatiotemporal impact of traffic incidents on road networks,Pan B.,2013-12-01,,587-596,10.1109/ICDM.2013.44,SCOPUS_ID:84894671526
+618,CARL: Crash attribute and reference locator,Schutt K.,2013-10-15,,116-121,10.1109/COMGEO.2013.20,SCOPUS_ID:84885203076
+619,Entropy-based city tunnel real-time traffic incident detection clustering algorithm,Li X.F.,2013-10-07,380-384,753-756,10.4028/www.scientific.net/AMM.380-384.753,SCOPUS_ID:84884832446
+620,Real-time heart rate entropy predicts the need for lifesaving interventions in trauma activation patients,Mejaddam A.Y.,2013-10-01,75,607-612,10.1097/TA.0b013e31829bb991,SCOPUS_ID:84885367170
+621,Investigating the different characteristics of weekday and weekend crashes,Yu R.,2013-06-24,46,91-97,10.1016/j.jsr.2013.05.002,SCOPUS_ID:84879097852
+622,Context-aware driver behavior detection system in intelligent transportation systems,Al-Sultan S.,2013-01-01,62,4264-4275,10.1109/TVT.2013.2263400,SCOPUS_ID:84888035580
+623,Estimating safety effects of pavement management factors utilizing Bayesian random effect models.,Jiang X.,2013-01-01,14,766-775,10.1080/15389588.2012.756582,SCOPUS_ID:84888385330
+624,Complexity analysis of EEG data during rest state and visual stimulus,Mumtaz W.,2012-11-19,7663 LNCS,84-91,10.1007/978-3-642-34475-6_11,SCOPUS_ID:84869037256
+625,Incident-based traffic jams simulation and dispersing strategies,Li S.B.,2012-08-01,24,1707-1713,,SCOPUS_ID:84866468064
+626,Evaluation of the impacts of traffic states on crash risks on freeways,Xu C.,2012-07-01,47,162-171,10.1016/j.aap.2012.01.020,SCOPUS_ID:84862821492
+627,Airborne in-situ investigations of the Eyjafjallajökull volcanic ash plume on iceland and over north-western Germany with light aircrafts and optical particle counters,Weber K.,2012-03-01,48,9-21,10.1016/j.atmosenv.2011.10.030,SCOPUS_ID:84855965053
+628,Development of road surface friction monitoring system,Takahashi N.,2012-01-01,,,,SCOPUS_ID:84896980599
+629,VMS harmonisation in Europe: The case for topological road signs,Albaiza A.,2012-01-01,,,,SCOPUS_ID:84897007462
+630,The application of reliability models in traffic accident frequency analysis,Jovanović Dragan D.,2011-10-01,49,1246-1251,10.1016/j.ssci.2011.04.008,SCOPUS_ID:79958129069
+631,Identifying crash type propensity using real-time traffic data on freeways,Christoforou Z.,2011-02-01,42,43-50,10.1016/j.jsr.2011.01.001,SCOPUS_ID:79952536426
+632,Virtualized traffic: Reconstructing traffic flows from discrete spatiotemporal data,Sewall J.,2011-01-01,17,26-37,10.1109/TVCG.2010.27,SCOPUS_ID:78449287465
+633,Hierarchical probabilistic network-based system for traffic accident detection at intersections,Hwang J.W.,2010-12-01,,211-216,10.1109/UIC-ATC.2010.27,SCOPUS_ID:78651412810
+634,Developing real time model for road safety measures in Nigeria using geographical information systems and remote sensing,Alade T.,2010-12-01,10,8081-8087,,SCOPUS_ID:79959424802
+635,Field test methods for a co-operative integrated traffic management system,Gruber T.,2010-09-20,6351 LNCS,183-195,10.1007/978-3-642-15651-9_14,SCOPUS_ID:77956571321
+636,An intelligent traffic information service system based on agent and GIS-T,Zhang J.,2010-09-02,,2791-2794,10.1109/MACE.2010.5536501,SCOPUS_ID:77956092588
+637,A real-time wireless brain-computer interface system for drowsiness detection,Lin C.,2010-08-01,4,214-222,10.1109/TBCAS.2010.2046415,SCOPUS_ID:77955174770
+638,Influence of pre-collision occupant parameters on injury outcome in a frontal collision,Bose D.,2010-07-01,42,1398-1407,10.1016/j.aap.2010.03.004,SCOPUS_ID:77955324360
+639,Framing decision making at two levels,Brézillon P.,2010-01-01,212,358-368,10.3233/978-1-60750-577-8-358,SCOPUS_ID:77956016714
+640,Using spatial information and wireless technology to develop real time management system for commercial vehicle operation,Lai C.,2010-01-01,,,,SCOPUS_ID:84953896934
+641,Finding comparable temporal categorical records: A similarity measure with an interactive visualization,Wongsuphasawat K.,2009-12-01,,27-34,10.1109/VAST.2009.5332595,SCOPUS_ID:72849125354
+642,Visualizing real-time and archived traffic incident data,VanDaniker M.,2009-11-17,,206-211,10.1109/IRI.2009.5211552,SCOPUS_ID:70449370058
+643,Agent based assistance system with ubiquitous data mining for road safety,Gull K.,2009-11-04,,,10.1109/IAMA.2009.5228058,SCOPUS_ID:70350482686
+644,Intervention and causality: Forecasting traffic flows using a dynamic bayesian network,Queen C.M.,2009-06-01,104,669-681,10.1198/jasa.2009.0042,SCOPUS_ID:66549102138
+645,A Gaussian process-based approach for handling uncertainty in vehicle dynamics simulation,Schmitt K.,2009-01-01,11,617-628,10.1115/IMECE2008-66664,SCOPUS_ID:69949186836
+646,An efficient method for extracting road lane mark by fusing vehicle-based stereo image and laser range data,Shi Y.,2008-12-25,,,10.1109/EORSA.2008.4620324,SCOPUS_ID:57849151216
+647,Real-time travel path prediction using gps-enabled mobile phones,Persad-Maharaj N.,2008-12-01,7,5096-5107,,SCOPUS_ID:84878910331
+648,Diagnostic fusion for in vehicle driver vigilance assessment,Boverie S.,2008-12-01,17,,10.3182/20080706-5-KR-1001.1522,SCOPUS_ID:79961020366
+649,Incident detection based on short-term travel time forecasting,Lam W.,2008-12-01,,83-92,,SCOPUS_ID:84896842012
+650,Analyzing overspeed regularities of commercial vehicles based on data mining,Sun D.,2008-09-25,,9120-9125,10.1109/WCICA.2008.4594373,SCOPUS_ID:52149086150
+651,The time cost of prehospital intubation and intravenous access in trauma patients,Carr B.,2008-07-01,12,327-332,10.1080/10903120802096928,SCOPUS_ID:46349087982
+652,Fluctuations in urban traffic networks,Chen Y.D.,2008-01-20,22,101-115,10.1142/S0217984908014468,SCOPUS_ID:43949086582
+653,Multi-layered decomposition of recurrent scenes,Russell D.,2008-01-01,5304 LNCS,574-587,10.1007/978-3-540-88690-7_43,SCOPUS_ID:56749159824
+654,Assessing safety on Dutch freeways with data from infrastructure-based intelligent transportation systems,Abdel-Aty M.,2008-01-01,,153-161,10.3141/2083-18,SCOPUS_ID:63849337485
+655,Advanced time-of-flight range camera with novel real-time 3D image processing,Koenig B.,2007-12-01,6695,,10.1117/12.732078,SCOPUS_ID:42149142861
+656,Diazepam impairs temporal dynamics of visual attention,Boucart M.,2007-02-01,15,115-122,10.1037/1064-1297.15.1.115,SCOPUS_ID:33846945060
+657,Urban safety management: How to deal with complexity,Fleury D.,2007-01-01,10,327-338,10.1142/s0219525907001380,SCOPUS_ID:38349159023
+658,Quantifying effects of ramp metering on freeway safety,Lee C.,2006-03-01,38,279-288,10.1016/j.aap.2005.09.011,SCOPUS_ID:31044440520
+659,The study on the development of analysis and management system for traffic accident spatial DB,Yu J.,2005-12-31,23,345-352,,SCOPUS_ID:77953941904
+660,Obstacle detection for start-inhibit and low speed driving,Bertozzi M.,2005-12-01,2005,569-574,10.1109/IVS.2005.1505164,SCOPUS_ID:33745954380
+661,A freeway safety strategy for advanced proactive traffic management,Pande A.,2005-07-01,9,145-158,10.1080/15472450500183789,SCOPUS_ID:25444449022
+662,A Web-based GIS for analyzing commercial motor vehicle crashes,Bapna S.,2005-01-01,18,1-12,10.4018/irmj.2005070101,SCOPUS_ID:20744452767
+663,Tabu search algorithm for dynamic vehicle routing problems under real-time information,Liao T.Y.,2004-01-01,,140-149,10.3141/1882-17,SCOPUS_ID:14044278102
+664,Freeway safety as a function of traffic flow,Golob T.F.,2004-01-01,36,933-946,10.1016/j.aap.2003.09.006,SCOPUS_ID:4344671801
+665,Measurement of road traffic using spatial frequency analysis of TV images,Kondo H.,1997-01-01,121,60-66,10.1002/(SICI)1520-6416(19971130)121:3<60::AID-EEJ8>3.0.CO;2-V,SCOPUS_ID:0031271857
+666,Enhancement of the road safety with a stereovision system based on linear cameras,Burie J.C.,1996-12-01,,147-152,,SCOPUS_ID:0030386238
+667,The potential uses of a computer animated film in the analysis of geographical patterns of traffic crashes,Moellering H.,1976-01-01,8,215-227,10.1016/0001-4575(76)90007-5,SCOPUS_ID:0017200553

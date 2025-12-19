@@ -1,0 +1,877 @@
+id,Title,Author,Date,Volume,Pages,DOI,SCOPUS_ID
+1,Decision Support System for Urban Road Safety: A Comparison Between Two Different City Size,Pinna M.,2026-01-01,15889 LNCS,54-71,10.1007/978-3-031-97603-2_4,SCOPUS_ID:105011051121
+2,Mapping Risk Factors to Build Inclusive Roads: A Systematic Diagnosis for Enhancing Vulnerable Users and Persons with Reduced Mobility Safety,Maestroni D.,2026-01-01,15898 LNCS,87-104,10.1007/978-3-031-97657-5_6,SCOPUS_ID:105010822127
+3,Spatiotemporal and behavioural correlates of cycling near misses: evidence from helmet-mounted video data,Christie N.,2026-01-01,224,,10.1016/j.aap.2025.108272,SCOPUS_ID:105021857046
+4,A systematic review on GIS-based road traffic accidents analysis and road safety audit,Endashaw D.K.,2025-12-01,5,,10.1007/s43762-025-00221-w,SCOPUS_ID:105019196309
+5,Determining the Spatial and Temporal Distribution of Traffic Accidents Using GIS-based Data in Tabriz,Dianat I.,2025-12-01,20,219-232,10.18502/ijre.v20i4.18869,SCOPUS_ID:105013972142
+6,"Spatiotemporal modeling and mapping of traffic crashes using R programming and GIS: a case study of Bole sub city, Addis Ababa, Ethiopia",Haile M.N.,2025-12-01,15,,10.1038/s41598-025-19651-x,SCOPUS_ID:105019737994
+7,How does the built environment affect driver behaviours? A methodological framework for large-scale analysis that combines Onboard Diagnostic and Geographical Data to promote Road Safety,Nicolosi V.,2025-12-01,22,,10.1016/j.treng.2025.100384,SCOPUS_ID:105014726641
+8,Integrating climatic projections and geographical variables to predict road accident risks based on insights from the Khorramabad pole Zal axis under RCP scenarios,Moridi V.,2025-12-01,3,,10.1007/s44274-025-00417-1,SCOPUS_ID:105022444888
+9,Analyzing pocket park locations and pedestrian accident rates using Generative Adversarial Networks,Li Y.,2025-12-01,167,,10.1016/j.cities.2025.106341,SCOPUS_ID:105013359620
+10,"Evaluating the impact of meteorological parameters on road accidents using spatial analysis: a case study of Semnan province, Iran",Ghazvinian H.,2025-10-01,33,,10.1007/s41324-025-00645-w,SCOPUS_ID:105014717089
+11,Analysis of Spatial and Environmental Factors Beyond Speed Limits Affecting Drivers’ Speed Choice,Baek J.,2025-10-01,17,,10.3390/su17209097,SCOPUS_ID:105020163704
+12,A data-driven spatial decision framework for assessing the relationship between logistics activities and heavy vehicle accident risks,Kaya Ö.,2025-10-01,62,,10.1016/j.rtbm.2025.101440,SCOPUS_ID:105007877774
+13,Early Response Framework for Accident Detection and Prevention Through Multi-Zone Fog-Cloud Collaboration for Safety-Critical Applications,Mishra M.,2025-09-01,55,1616-1634,10.1002/spe.3439,SCOPUS_ID:105009810872
+14,"Evaluation of indicators of aging-friendly urban indicators in 8 districts of Ahwaz metropolitan, southwest Iran",Asadollahi A.,2025-09-01,7,,10.1007/s42452-025-07514-z,SCOPUS_ID:105014622949
+15,Deep Learning-Driven Pothole Dimension Analysis for Prioritizing Road Maintenance: A Comprehensive Framework,Bhosale S.B.,2025-08-07,,1-16,10.4018/979-8-3373-6335-6.ch001,SCOPUS_ID:105017839516
+16,Spatial distribution and cluster analysis of road traffic accidents in Nepal,Mahato R.K.,2025-08-01,20,,10.1371/journal.pone.0331333,SCOPUS_ID:105014389867
+17,The Settlement Ratio and Settled Area: Novel Indicators for Analyzing Land Use in Relation to Road Network Functions and Performance,Del Serrone G.,2025-08-01,6,,10.3390/eng6080188,SCOPUS_ID:105014353657
+18,Introduction to special issue —Emerging applications of road incidents and driver behaviour data analysis in road safety modelling and evaluation,Mehran B.,2025-08-01,52,1488-1489,10.1139/cjce-2025-0204,SCOPUS_ID:105012894290
+19,Forecasting spatiotemporal trends of road accidents injuries and fatalities using spatio-temporal cube models: a case study in Iran,Mousavi B.S.,2025-08-01,33,,10.1007/s41324-025-00630-3,SCOPUS_ID:105008971821
+20,A Multimodal Artificial Intelligence Framework for Intelligent Geospatial Data Validation and Correction,Skaug L.,2025-08-01,10,,10.3390/inventions10040059,SCOPUS_ID:105015414876
+21,A ships encounter sector analysis approach for intelligent navigation safety,Liu Z.,2025-07-30,333,,10.1016/j.oceaneng.2025.121307,SCOPUS_ID:105004822459
+22,Optimising Cyclist Road-Safety Scenarios Through Angle-of-View Analysis Using Buffer and GIS Mapping Techniques,Yaghoobloo Z.,2025-07-01,10,,10.3390/infrastructures10070184,SCOPUS_ID:105011635939
+23,A critical assessment of the role of mapping in Ohio Safe Routes to School travel plans,Mapes J.,2025-07-01,180,,10.1016/j.apgeog.2025.103670,SCOPUS_ID:105006704809
+24,"Mapping and quantifying near-miss events involving vehicles and vulnerable road users in Reno and Sparks, Nevada",Kelley S.,2025-07-01,32,,10.1016/j.trip.2025.101514,SCOPUS_ID:105009484492
+25,Predictive Models and GIS for Road Safety: Application to a Segment of the Chone–Flavio Alfaro Road,Moreno-Ponce L.A.,2025-06-01,17,,10.3390/su17115032,SCOPUS_ID:105007791888
+26,A GIS-MCDA spatial classification model to support group decision-making in traffic crash risk management,de Albuquerque Damasceno M.A.,2025-06-01,20,,10.1016/j.cstp.2025.101450,SCOPUS_ID:105002569999
+27,"GIS-based analysis of spatio-temporal clustering of road traffic accidents in Bangkok Metropolitan Region (BMR), Thailand from 2012 to 2021",Iamtrakul P.,2025-05-01,31,,10.1016/j.trip.2025.101489,SCOPUS_ID:105007758277
+28,The Role of Intelligent Transport Systems and Smart Technologies in Urban Traffic Management in Polish Smart Cities,Puzio E.,2025-05-01,18,,10.3390/en18102580,SCOPUS_ID:105006693202
+29,Crash localization and traffic impact assessment via spatio-temporal analysis of connected vehicle data,Querfurth L.,2025-05-01,214,,10.1016/j.aap.2025.107956,SCOPUS_ID:85217931008
+30,Spatio–temporal analysis of traffic crash hotspots- an application of GIS-based technique in road safety,Choudhary A.,2025-03-01,17,129-146,10.1007/s12518-025-00615-9,SCOPUS_ID:105001075373
+31,Riding safety Evaluation of food delivery motor scooters based on Associating Sensor-based riding behavior and road traffic characteristics,Gu Y.,2025-03-01,211,,10.1016/j.aap.2024.107871,SCOPUS_ID:85211112764
+32,A Novel Methodology for Planning Urban Road Safety Interventions,Toraldo E.,2025-02-01,15,,10.3390/app15041993,SCOPUS_ID:85218625306
+33,Influence of road environmental factors on traffic accidents involving vulnerable road users through negative binomial models,Chen Y.,2025-02-01,20,,10.1371/journal.pone.0317601,SCOPUS_ID:85217764710
+34,Examination of General Motors Super Cruise system field effects using state police report crash data,Leslie A.J.,2025-02-01,92,207-216,10.1016/j.jsr.2024.11.013,SCOPUS_ID:85211188609
+35,OPTIMIZING ROAD SAFETY: THE ROLE OF GEOGRAPHIC INFORMATION SYSTEMS (GIS) IN TRAFFIC ACCIDENT ANALYSIS AND PREDICTION,Alfaras M.S.,2025-01-01,7,33-42,10.24874/PES07.01.005,SCOPUS_ID:105000049768
+523,Identifying optimal sites for static speed cameras in New Zealand,Scott N.,2017-01-01,1913,25-30,,SCOPUS_ID:85029291740
+36,Application of GIS in road safety analysis: A case study of NH66 corridor in Kollam,Zakeer S.,2025-01-01,17,683-699,10.1080/19439962.2024.2447990,SCOPUS_ID:85214707952
+37,Predictive Analysis of Road Accidents in Casablanca: A Machine Learning Approach,Hammoumi L.,2025-01-01,,69-80,10.1007/978-3-031-86654-8_6,SCOPUS_ID:105003238592
+38,Large-scale Geographic Information System-based Vulnerability Assessment of Black-ice-related Expressway Accidents Using Entropy Weighting,Hong S.B.,2025-01-01,37,4047-4070,10.18494/SAM5731,SCOPUS_ID:105017954457
+39,Identification and Ranking of High-Risk Road Segments and Intrersections in the Municipality of Bačka Palanka,Matović B.,2025-01-01,91,806-813,10.1016/j.trpro.2025.10.103,SCOPUS_ID:105023385542
+40,Exploring Road Traffic Accidents Hotspots Using Clustering Algorithms and GIS-Based Spatial Analysis,Kamh H.,2025-01-01,13,60944-60954,10.1109/ACCESS.2024.3443245,SCOPUS_ID:105003003917
+41,Investigating Geometric Design Characteristics and Crash Rates of Roundabouts in Thailand,Yaibok C.,2025-01-01,726 LNCE,123-134,10.1007/978-981-95-0090-1_17,SCOPUS_ID:105020014663
+42,Examining Geographic Disparities in Fatal Automobile Accidents Across Kuwait Using GIS,Alnasrallah M.,2025-01-01,11,198-209,10.1080/23754931.2024.2410856,SCOPUS_ID:85207837661
+43,"Enhancing road safety on Tacloban Bypass Road, Philippines: A GIS-based risk assessment",Entatano H.M.C.,2025-01-01,18,102-115,10.54645/2024181RAI-34,SCOPUS_ID:105005269267
+44,APPLICATION OF FUZZY-AHP IN GIS-BASED ANALYSIS FOR ROAD SAFETY INDEX MEASUREMENT,Ghany N.M.A.,2025-01-01,23,205-219,10.21837/pm.v23i36.1713,SCOPUS_ID:105005509886
+45,"Effective Railway Infrastructure Planning Using GIS for Data Mapping and Analysis: Case Study Level Crossings in Zagreb, Croatia",Grabušić S.,2025-01-01,Part F155,419-427,10.1007/978-3-031-82714-3_30,SCOPUS_ID:105000676653
+46,"Exploring hotspots of traffic accidents in Chiniot-Sargodha Road, Punjab, Pakistan",Ashraf T.,2025-01-01,,,10.1007/s10668-025-05996-w,SCOPUS_ID:85217441536
+47,An integrated approach for urban road safety analysis,Pinna M.,2025-01-01,90,702-709,10.1016/j.trpro.2025.06.089,SCOPUS_ID:105010339344
+48,"Implementing logistics technologies to optimize road transport flows: Urban planning, traffic capacity, and safety",Sarkisian H.,2025-01-01,9,384-394,10.55214/25768484.v9i2.4492,SCOPUS_ID:85217477114
+49,Road crash analysis and countermeasures on hilly roads in a developing country using iRAP,Kamalasekar A.,2025-01-01,30,496-502,10.1080/13588265.2025.2469982,SCOPUS_ID:86000235389
+50,"International Conference on Innovative Discoveries and Emerging Advancements in Applied Sciences, iDEAAS 2024",,2025-01-01,,,,SCOPUS_ID:105008762390
+51,Impact of ADAS on Road Crashes: An Interurban Highway Case Study,Thakur D.S.,2025-01-01,,,10.1007/s13177-025-00542-4,SCOPUS_ID:105019086680
+52,Geoinformation Modeling of Traffic Accident Concentration Areas in a Settlement,Korniienko I.,2025-01-01,1391 LNNS,249-261,10.1007/978-3-031-90735-7_20,SCOPUS_ID:105004650780
+53,Geospatial and econometric approaches or older driver safety: Analysis of crash injury severity of regional highways,Xiao D.,2025-01-01,20,,10.1371/journal.pone.0307927,SCOPUS_ID:85216329662
+54,"Identification and Prioritization of Accident Blackspots in Surat, India, Using Geographical Information Systems",Mahajan M.,2025-01-01,655,253-267,10.1007/978-981-96-8118-1_17,SCOPUS_ID:105021832265
+55,Optimal Allocation Model for Maritime Emergency Resource Considering the Spatial Correlation between Accident Hotspots,Hu S.,2025-01-01,2679,1342-1363,10.1177/03611981241255024,SCOPUS_ID:105002264578
+56,Efficient framework for Blackspot analysis and re-route selection using RBLMCN and GPWBWO,Singh N.,2025-01-01,18,,10.1007/s12145-024-01649-0,SCOPUS_ID:85217655588
+57,An Advanced Approach Toward Pedestrian Safety Analysis and Prediction: Advances in Multisensor Data Fusion and GIS Techniques,Tang J.,2025-01-01,18,15185-15197,10.1109/JSTARS.2025.3578536,SCOPUS_ID:105008014696
+58,The Technological Aspect of Digitalizing Traffic Management in Settlements under Martial Law and During Post-War Reconstruction,Verenych O.,2025-01-01,4023,188-199,,SCOPUS_ID:105017717995
+59,A Cycling Route Directness tool for suburbs in Cape Town: An assessment of connectivity of Cape Town's bicycle lane network,Liphoto P.,2025-01-01,89,467-482,10.1016/j.trpro.2025.05.075,SCOPUS_ID:105009795354
+60,A new data-driven model for vehicle and pedestrian safety: statistical approach based on spatial decision-making,Kabakuş N.,2025-01-01,32,439-459,10.1080/17457300.2025.2537683,SCOPUS_ID:105012423371
+61,"GIS-Based, Machine Learning Approach for Model Inventory Roadway Element Surface Type Classification from Aerial Imagery",Taylor S.,2025-01-01,,,10.1177/03611981251357935,SCOPUS_ID:105016746921
+62,"Spatial database creation and spatial analysis of road traffic crashes in the Ashanti region, Ghana",Asamoah E.A.,2025-01-01,3,,10.1016/j.aftran.2025.100041,SCOPUS_ID:105014965465
+63,The effect of traffic patterns and COVID-19 on accident hotspots in Turkey,Şenol H.İ.,2025-01-01,,,10.1080/14498596.2025.2592742,SCOPUS_ID:105023492270
+64,Feasibility of Geothermal Energy for Bridge Deicing and Deck Cooling,McNamara G.,2025-01-01,2025-March,310-319,10.1061/9780784486009.032,SCOPUS_ID:86000553166
+65,Older Driver Safety: Impact of Demographic Factors on Crash Frequency and Severity,Islam S.,2025-01-01,,171-182,10.1061/9780784486191.015,SCOPUS_ID:105010174088
+66,Spatial Risk Assessment Model for the Transport of Dangerous Goods by Road,Hluska P.,2025-01-01,,,10.1109/SCSP65598.2025.11037700,SCOPUS_ID:105011590609
+67,"A linear tessellation model for the identification of “food desert”: A case study of Shanghai, China",Wang L.,2025-01-01,20,,10.1371/journal.pone.0317003,SCOPUS_ID:85216328912
+68,Analysis of trajectory transection rate on four-lane divided rural highway curves,Sharma V.K.,2025-01-01,26,739-747,10.1080/15389588.2025.2450710,SCOPUS_ID:85216274443
+69,Linear infrastructure and associated wildlife accidents create an ecological trap for an apex predator and scavenger,Singh N.J.,2024-12-10,955,,10.1016/j.scitotenv.2024.176934,SCOPUS_ID:85207803524
+70,A spatial autocorrelation analysis of road traffic accidents by severity using Moran’s I spatial statistics: a study from Nepal 2019–2022,Mahato R.K.,2024-12-01,24,,10.1186/s12889-024-20586-7,SCOPUS_ID:85208739370
+71,Identifying emerging hot spots of road traffic injury severity using spatiotemporal methods: longitudinal analyses on major roads in Ghana from 2005 to 2020,Mesic A.,2024-12-01,24,,10.1186/s12889-024-18915-x,SCOPUS_ID:85196070357
+72,Exploring factors influencing pedestrian accident severity: a multi-source study in the city of Berlin,Kopsacheilis A.,2024-12-01,16,,10.1186/s12544-024-00686-6,SCOPUS_ID:85209773339
+805,Accident reconstruction via digital close-range photogrammetry,Fraser C.,2006-12-01,1,371-377,,SCOPUS_ID:84869049778
+73,GIS-based intelligent planning approach of child-friendly pedestrian pathway to promote a child-friendly city,Fang K.,2024-12-01,14,,10.1038/s41598-024-58712-5,SCOPUS_ID:85189793396
+74,Safety analysis of motorcyclists’ overtaking maneuvers,Bella F.,2024-12-01,208,,10.1016/j.aap.2024.107809,SCOPUS_ID:85206085660
+75,Advancing Sustainable Transportation Equity for Older Adults: A Geospatial Analysis of Mobility Gaps in Florida,Noh S.,2024-11-01,16,,10.3390/su162210013,SCOPUS_ID:85210597017
+76,Effect of spatial relationship between curves on crash severity at horizontal curves in a mountainous terrain,Awasthi D.,2024-10-01,206,,10.1016/j.aap.2024.107714,SCOPUS_ID:85198331917
+77,Analyzing Road Traffic Incident Hotspots Using Cluster Analysis in Thanh Hoa Province of Vietnam,Ha L.T.,2024-09-01,20,16-26,10.52939/ijg.v20i9.3537,SCOPUS_ID:85206922057
+78,"A Geospatial Analysis of Motorcycle Accident Risk Factors in Khon Kaen Municipality, Thailand: Examining the Chain of Survival and Potential Strategies",Tippayanate N.,2024-09-01,20,71-82,10.52939/ijg.v20i9.3547,SCOPUS_ID:85207394830
+79,"Reliability Analysis for Horizontal Curves with Crashes: Case Study in New Delhi, India",Rankavat S.,2024-09-01,150,,10.1061/JTEPBS.TEENG-8045,SCOPUS_ID:85196745306
+80,Explainable AI-driven high-fidelity IAQ prediction (HiFi-IAQ) model for subway stations: Spatiotemporal outdoor air quality interpolation using geographic data,Kim S.Y.,2024-09-01,263,,10.1016/j.buildenv.2024.111906,SCOPUS_ID:85200208528
+81,Two Decades of Geospatial Evolution: Tracing the Analytical Journey towards Data-Driven Road Crash Prevention,Soltani A.,2024-09-01,17,1301-1334,10.1007/s12061-024-09587-6,SCOPUS_ID:85197314939
+82,Development of Motorway Horizontal Alignment Databases for Accurate Accident Prediction Models,De Santos-Berbel C.,2024-09-01,16,,10.3390/su16177296,SCOPUS_ID:85204114773
+83,Development of an algorithm for analysis of routes: Case studies using novice and older drivers,Zhu S.,2024-09-01,90,319-332,10.1016/j.jsr.2024.07.003,SCOPUS_ID:85199801173
+84,"Built for movement: Neighborhoods and adolescent physical activity behaviors, and the moderating role of socioeconomic position and gender",Klomsten Andersen O.,2024-09-01,89,,10.1016/j.healthplace.2024.103313,SCOPUS_ID:85198726486
+85,Prediction and interpretive of motor vehicle traffic crashes severity based on random forest optimized by meta-heuristic algorithm,Wang X.,2024-08-30,10,,10.1016/j.heliyon.2024.e35595,SCOPUS_ID:85200811390
+86,Traffic jam by GPS: A systematic analysis of the negative social externalities of large-scale navigation technologies,Schade E.,2024-08-01,19,,10.1371/journal.pone.0308260,SCOPUS_ID:85200790816
+87,Global trends and hotspots related to whiplash injury: A visualization study,He Y.,2024-07-19,103,e38777,10.1097/MD.0000000000038777,SCOPUS_ID:85199161721
+88,NetPointLib: Library for Large-Scale Spatial Network Point Data Fusion and Analysis,Kang Y.,2024-07-17,,,10.1145/3626203.3670615,SCOPUS_ID:85200410367
+89,"Performance—Based Route Selection for Mountainous Highways: A Numerical Approach to Addressing Safety, Hydrological, and Geological Aspects",Said D.,2024-07-01,14,,10.3390/app14135844,SCOPUS_ID:85198421766
+90,"Effect of 20 mph speed limits on traffic injuries in Edinburgh, UK: A natural experiment and modelling study",Kokka K.,2024-06-10,78,437-443,10.1136/jech-2023-221612,SCOPUS_ID:85193542401
+91,Safety on Jordan's highways: A GIS-Based approach to identifying road accident hotspots,Sababhi S.,2024-06-01,89,,10.1007/s10708-024-11115-5,SCOPUS_ID:85192533995
+92,Analysis of Road Traffic Accidents in Dense Cities: Geotech Transport and ArcGIS,Aati K.,2024-06-01,16,,10.1016/j.treng.2024.100256,SCOPUS_ID:85195019147
+93,Utilizing GIS and Machine Learning for Traffic Accident Prediction in Urban Environment,Khan A.A.,2024-06-01,10,1922-1935,10.28991/CEJ-2024-010-06-013,SCOPUS_ID:85200656081
+94,Geospatial-based decision support system for prioritizing road segments for maintenance and rehabilitation,Pereira H.d.M.,2024-06-01,16,,10.1016/j.cstp.2024.101170,SCOPUS_ID:85187721586
+95,From sky to road: Incorporating the satellite imagery into analysis of freight truck-related crash factors,Yu C.,2024-06-01,200,,10.1016/j.aap.2024.107491,SCOPUS_ID:85187789122
+96,Spatial and Temporal Analysis of Road Traffic Accidents in Major Californian Cities Using a Geographic Information System,Alsahfi T.,2024-05-01,13,,10.3390/ijgi13050157,SCOPUS_ID:85194142228
+97,Predicting black ice-related accidents with probabilistic modeling using GIS-based Monte Carlo simulation,Hong S.B.,2024-05-01,19,,10.1371/journal.pone.0303605,SCOPUS_ID:85194129312
+98,"Spatiotemporal Analysis of Property Damage-only Accident Hotspots Using GIS in Sharjah, UAE",Obaid L.,2024-04-01,18,322-333,10.14525/JJCE.v18i2.13,SCOPUS_ID:85191968245
+99,The Effect of the COVID-19 Pandemic on the Distribution of Traffic Accident Hotspots in New York City,Zhang H.,2024-04-01,16,,10.3390/su16083440,SCOPUS_ID:85191378267
+100,Analyzing urban crash incidents: An advanced endogenous approach using spatiotemporal weights matrix,Mohammadi R.,2024-04-01,28,368-410,10.1111/tgis.13138,SCOPUS_ID:85190300331
+101,Geospatial Analysis for Identifying Blackspots on National and Rural Highways in Thailand,Sae-Ngow P.,2024-04-01,20,29-42,10.52939/ijg.v20i4.3147,SCOPUS_ID:85193215016
+102,GIS-Based Spatial Analysis Model for Assessing Impact and Cumulative Risk in Road Traffic Accidents via Analytic Hierarchy Process (AHP)—Case Study: Romania,Bilașco Ș.,2024-03-01,14,,10.3390/app14062643,SCOPUS_ID:85192479882
+103,Building Information Modeling Uses and Complementary Technologies in Road Projects: A Systematic Review,Castañeda K.,2024-03-01,14,,10.3390/buildings14030563,SCOPUS_ID:85188819440
+104,Spatio-temporal distribution and evolution of the Tujia traditional settlements in China,Li Y.,2024-03-01,19,,10.1371/journal.pone.0299073,SCOPUS_ID:85187668334
+105,A Profiles of Motorcycle Accident Mortality and Risk Behavior in Thai Children,Chiangkhong A.,2024-03-01,20,54-63,10.52939/ijg.v20i3.3133,SCOPUS_ID:85192994038
+106,"Identification and analysis of accident black spots using Geographic Information System (GIS): A study on Kushtia-Jhenaidah national highway (N704), Bangladesh",Khatun M.S.,2024-02-15,10,,10.1016/j.heliyon.2024.e25952,SCOPUS_ID:85184780409
+107,Safety performance analysis of horizontal curves in urban areas,Bejleri I.,2024-02-01,195,,10.1016/j.aap.2023.107402,SCOPUS_ID:85179123862
+108,Spatial-temporal and trend analysis of traffic accidents in AP Vojvodina (North Serbia),Kričković E.,2024-01-01,16,,10.1515/geo-2022-0630,SCOPUS_ID:85190546154
+109,"Mapping the relationship between traffic accidents, road network configuration, and urban land use",Iranmanesh A.,2024-01-01,31,672-685,10.1080/17457300.2024.2409638,SCOPUS_ID:85205216901
+110,"Navigating Road Safety and Equity: A GIS Analysis of Crash Data in Atlanta, GA",Sadeghvaziri E.,2024-01-01,,271-280,,SCOPUS_ID:85197309042
+111,Spatio-Temporal Patterns Analysis of Road Accidents in Butuan City Using Geographic Information System (GIS),Jamelo J.V.,2024-01-01,10,552-556,10.5109/7323315,SCOPUS_ID:85213382688
+112,"Spatial Analysis to Determine Black Spot Area in Kulon Progo Regency, Yogyakarta, Indonesia",Pratama W.A.,2024-01-01,1294,,10.1088/1755-1315/1294/1/012016,SCOPUS_ID:85185779932
+113,GEOINFORMATION METHOD FOR IDENTIFYING AND ANALYZING AREAS OF CONCENTRATION OF TRAFFIC ACCIDENTS,Izrailev L.A.,2024-01-01,30,445-455,10.35595/2414-9179-2024-2-30-445-455,SCOPUS_ID:85212411117
+114,Road Traffic Incident Detection and Management Using Image Analysis for Chennai City,Chella Gifta C.,2024-01-01,,,10.1109/ICSCAN62807.2024.10894379,SCOPUS_ID:105000241685
+115,Exploring the Factors Influencing Traffic Accidents: An Analysis of Black Spots and Decision Tree for Injury Severity,Abdullah P.,2024-01-01,52,33-39,10.3311/PPtr.22392,SCOPUS_ID:85181174787
+116,A Unified Approach with IoT Vehicle Monitoring: Revolutionizing Road Safety,Ali U.,2024-01-01,,279-283,10.1109/SoutheastCon52093.2024.10500180,SCOPUS_ID:85191719824
+117,"Using Crowdsourced Data to Assess Safety in Developing Countries: The Case Study of Eastern Cairo, Egypt",Farrag M.A.,2024-01-01,8,,10.55329/yzsq3960,SCOPUS_ID:105018693707
+118,Geographic Information System And Machine Learning-Based Expressway Accident Modelling,Dilshara M.K.H.,2024-01-01,,,,SCOPUS_ID:85217759363
+119,The Fuzzy Analysis of Western Windfarm Transportation Safety,Hong-Yi J.,2024-01-01,63,339-348,10.3233/ATDE241208,SCOPUS_ID:85215513921
+120,A GIS-Based Approach to Enhance Safety and Accessibility of Shared Mobility Services,D’Orso G.,2024-01-01,14825 LNCS,57-72,10.1007/978-3-031-65343-8_4,SCOPUS_ID:85200943205
+121,"Road Traffic Accidents (RTAs) in Bahawalpur City, Pakistan: A Comparative Injury Analysis",Mohsin M.,2024-01-01,67,57-64,,SCOPUS_ID:85186873538
+122,"SPATIAL ANALYSIS OF ROAD TRAFFIC ACCIDENT HOTSPOTS AND PATTERNS IN MUSCAT, OMAN: AN EXPLORATORY RISK MANAGEMENT ASSESSMENT",Alhajri B.,2024-01-01,22,74-89,10.21837/pm.v22i34.1614,SCOPUS_ID:85210931161
+123,Contribution of Geomatic in the improvement of road traffic in Algeria (Oran),Adjlout S.,2024-01-01,,,10.1109/LOGISTIQUA61063.2024.10571525,SCOPUS_ID:85198103202
+124,"Proceedings of the 2024 Conference of Young Researchers in Electrical and Electronic Engineering, ElCon 2024",,2024-01-01,,,,SCOPUS_ID:85189951151
+125,Traffic modeling and accidental data analysis using GIS: A Review,Nayak A.,2024-01-01,1327,,10.1088/1755-1315/1327/1/012028,SCOPUS_ID:85194072533
+126,Geospatial analysis of injury severity on major roads in Ghana (2017–2020): implications for targeted injury prevention and control initiatives,Mesic A.,2024-01-01,,,10.1136/ip-2024-045270,SCOPUS_ID:85204032343
+127,Smart Fine Management System for Detecting and Predicting Traffic Violations in Sri Lanka,Rathnayaka R.P.M.,2024-01-01,,340-345,10.1109/IEMCON62851.2024.11093536,SCOPUS_ID:105013687434
+128,Identifying spatio-temporal pattern of electric vehicles involved traffic accidents,Zhuang Y.,2024-01-01,16,1448-1468,10.1080/19439962.2024.2342478,SCOPUS_ID:85190409244
+129,"6th International Conference on Advances in Civil Engineering, ICACE 2022",,2024-01-01,368,,,SCOPUS_ID:85184122763
+130,Baseline vulnerable road user injury risk in multiple U.S. dense urban driving environments,Campolettano E.T.,2024-01-01,25,S94-S104,10.1080/15389588.2024.2364050,SCOPUS_ID:85204486513
+131,"Indexing the Maintenance Priority of Road Safety Barriers in Urban and Peri-Urban Contexts: Application of a Ranking Methodology in Bologna, Italy",Nalin A.,2023-12-01,8,,10.3390/infrastructures8120181,SCOPUS_ID:85180723805
+132,Deep transfer learning-based anomaly detection for cycling safety,Yaqoob S.,2023-12-01,87,122-131,10.1016/j.jsr.2023.09.010,SCOPUS_ID:85173825650
+133,Development and Implementation of a GIS-Based Active Route Visualization Tool to Facilitate Equitable Planning for Walking and Cycling Routes in Small Communities,Cordero F.,2023-12-01,2677,795-805,10.1177/03611981231170006,SCOPUS_ID:85176750801
+134,How do people perceive driving risks in small towns? A case study in Central Texas,Li X.,2023-12-01,193,,10.1016/j.aap.2023.107285,SCOPUS_ID:85171323365
+135,Identification of hotspot areas for traffic accidents and analyzing drivers’ behaviors and road accidents,Alkaabi K.,2023-11-01,22,,10.1016/j.trip.2023.100929,SCOPUS_ID:85173915815
+136,Spatial patterns and characteristics of global piracy analyzed using a geographic information system,Fan H.,2023-11-01,157,,10.1016/j.marpol.2023.105816,SCOPUS_ID:85170672346
+137,Managing Transitions to Autonomous and Electric Vehicles: Scientometric and Bibliometric Review,Todorovic M.,2023-11-01,14,,10.3390/wevj14110314,SCOPUS_ID:85178133792
+138,"A GIS Approach for Analysis of Traffic Accident Hotspots in Abha and Bisha Cities, Saudi Arabia",Abuhasel K.A.,2023-10-01,15,,10.3390/su151914112,SCOPUS_ID:85174201667
+139,"Untapped potential of commercial drivers in providing post-crash care to road traffic accident victims: A cross-sectional study from fast urbanizing city of Jodhpur, India",Rustagi N.,2023-10-01,14,629-636,10.25259/JNRP_145_2023,SCOPUS_ID:85176787594
+140,Investigation of horizontal alignment data extraction methodologies in terms of cost and time,Atif M.,2023-09-14,177,504-526,10.1680/jtran.23.00044,SCOPUS_ID:85172359101
+141,Processing Traffic Jam in Al-Sadrain Intersection in the Holy City of Najaf,Bedewy B.A.,2023-09-13,427,,10.1051/e3sconf/202342703021,SCOPUS_ID:85174199674
+142,Identification of accident hotspots from miyapur to punjagutta in hyderabad using QGIS,Ravinder R.,2023-09-05,2754,,10.1063/5.0167037,SCOPUS_ID:85176775583
+143,Exploring the Robustness of Alternative Cluster Detection and the Threshold Distance Method for Crash Hot Spot Analysis: A Study on Vulnerable Road Users,Habib M.F.,2023-09-01,9,,10.3390/safety9030057,SCOPUS_ID:85172248699
+144,Using GIS model to investigate sustainable irrigation techniques from wastewater,Al-Sharify Z.T.,2023-07-14,2787,,10.1063/5.0150147,SCOPUS_ID:85176810036
+145,"Pedestrian Road Traffic Accidents in Metropolitan Areas: GIS-Based Prediction Modelling of Cases in Mashhad, Iran",Mohammadi A.,2023-07-01,15,,10.3390/su151310576,SCOPUS_ID:85165093382
+146,Developing a Geospatial Safety Analysis Tool: A Systematic Approach to Identify Safety-Critical Horizontal Curve Segments and Hazardous Contributing Factors,Ryan A.,2023-07-01,149,,10.1061/JTEPBS.TEENG-7258,SCOPUS_ID:85158819531
+147,GIS-based spatiotemporal analysis for road traffic crashes; in support of sustainable transportation Planning,Mohammed S.,2023-07-01,20,,10.1016/j.trip.2023.100836,SCOPUS_ID:85159627976
+148,Spatial modeling and analysis approach for ship-encounters dynamic spatial–temporal domain,Liu Z.,2023-06-15,278,,10.1016/j.oceaneng.2023.114373,SCOPUS_ID:85153503633
+149,"Using parallel geocoding to analyse the spatial characteristics of road traffic injury occurrences across Lagos, Nigeria",Mehta A.,2023-05-22,8,,10.1136/bmjgh-2023-012315,SCOPUS_ID:85161539203
+150,Road crash zone identification and remedial measures using GIS,Pusuluri V.L.,2023-05-01,8,,10.1007/s41062-023-01111-y,SCOPUS_ID:85153218315
+151,Spatial pattern identification and crash severity analysis of road traffic crash hot spots in Ohio,Alam M.S.,2023-05-01,9,,10.1016/j.heliyon.2023.e16303,SCOPUS_ID:85159716987
+152,"Years of life lost and spatial distribution of mortality from road incidents in Medellín, 2010-2020",Edwin A.S.,2023-05-01,41,,10.17533/udea.rfnsp.e347846,SCOPUS_ID:85162820034
+153,Analysis of Traffic Accidents in Saudi Arabia: Safety Effectiveness Evaluation of SAHER Enforcement System,Al-Ahmadi H.M.,2023-04-01,48,5493-5506,10.1007/s13369-022-07473-2,SCOPUS_ID:85142886525
+154,"Prediction of Road Traffic Accidents on a Road in Portugal: A Multidisciplinary Approach Using Artificial Intelligence, Statistics, and Geographic Information Systems",Infante P.,2023-04-01,14,,10.3390/info14040238,SCOPUS_ID:85153680922
+155,"Spatial Statistics and Severity of Highway Accidents in Nakhon Pathom, Thailand",Sae-Ngow P.,2023-04-01,19,13-23,10.52939/ijg.v19i4.2629,SCOPUS_ID:85164771765
+156,Urban Transportation Concept and Sustainable Urban Mobility in Smart Cities: A Review,Mavlutova I.,2023-04-01,16,,10.3390/en16083585,SCOPUS_ID:85156142345
+157,Identifying anthropogenic and natural causes of wildfires by maximum entropy method-based ignition susceptibility distribution models,Sari F.,2023-04-01,34,355-371,10.1007/s11676-022-01502-4,SCOPUS_ID:85132328173
+158,"Analysis of Accident Sites from Motorcycles among High School Students Using Geographic Information Systems, Sukhothai Province",Thipthimwong K.,2023-03-01,19,45-56,10.52939/ijg.v19i3.2603,SCOPUS_ID:85160110408
+159,Identifying Hazardous Crash Locations Using Empirical Bayes and Spatial Autocorrelation,Mekonnen A.A.,2023-03-01,12,,10.3390/ijgi12030085,SCOPUS_ID:85151344126
+160,A GIS-based approach for accident hotspots mapping in mountain roads using seasonal and geometric indicators,Azari M.,2023-03-01,15,127-139,10.1007/s12518-023-00490-2,SCOPUS_ID:85146584805
+161,"Learning from Accidents: Spatial Intelligence Applied to Road Accidents with Insights from a Case Study in Setúbal District, Portugal",Nogueira P.,2023-03-01,12,,10.3390/ijgi12030093,SCOPUS_ID:85151537388
+162,Methodology for Conflating Large-Scale Roadway Networks,Zhang X.,2023-03-01,2677,189-202,10.1177/03611981221115085,SCOPUS_ID:85153377270
+163,Analysis of the impact of expressway construction on soil moisture in road areas,Li Y.,2023-03-01,18,,10.1371/journal.pone.0283225,SCOPUS_ID:85151397224
+164,Exploring Spatiotemporal Patterns of Expressway Traffic Accidents Based on Density Clustering and Bayesian Network,Zhang Y.,2023-02-01,12,,10.3390/ijgi12020073,SCOPUS_ID:85148635817
+165,Nationwide Analysis of the Distribution of Level 1 and Level 2 Trauma Centers Per Population Growth and Motor Vehicle Collision Injuries/Fatalities Utilizing Geographic Information Systems Mapping Technology: Toward Optimizing Access to Trauma Care,Sen-Crowe B.,2023-02-01,277,E418-E427,10.1097/SLA.0000000000004953,SCOPUS_ID:85112530573
+166,Event pattern analysis: Spatial clustering of sequential events and temporal change of events over time,Sadahiro Y.,2023-02-01,27,260-274,10.1111/tgis.13025,SCOPUS_ID:85147233700
+167,Tabu-Search-Based Combinatorial Subset Selection Approach to Support Investigation of Built Environment and Traffic Safety Relationship,Alisan O.,2023-02-01,2677,588-609,10.1177/03611981221108161,SCOPUS_ID:85150169411
+168,Heinrich’s Law for Traffic Incidents – Using the Digital Tachograph Data to Identify Traffic Accident Hotspots,Cho S.,2023-01-01,35,829-837,10.7307/ptt.v35i6.207,SCOPUS_ID:85182174038
+169,"Development of a traffic accident simulation system for main roads in Loei Province, Thailand: Application of a geographic information system and multiple logistic regression with clustering",Boonnuk T.,2023-01-01,55,129-136,10.22146/ijg.77153,SCOPUS_ID:85158917824
+170,"Effects of Age on Urban Road Traffic Accident Using GIS: A Case Study of Bangkok Metropolitan Area, Thailand",Chayphong S.,2023-01-01,279 LNCE,542-546,10.1007/978-981-19-4293-8_55,SCOPUS_ID:85135064646
+171,"Design and creation of a geotechnological tool for the analysis of road accidents in the City of Toluca, Mexico, SIGESEV-TC",Muñoz J.M.,2023-01-01,2023,7-34,10.35424/rcarto.i106.1660,SCOPUS_ID:85151460822
+172,"TRAFFIC ACCIDENTS AND ROAD SAFETY ANALYSIS IN BOGOR CITY, INDONESIA",Jaya G.N.P.,2023-01-01,21,47-60,10.21837/pm.v21i28.1315,SCOPUS_ID:85173053082
+173,WebGIS-Based Road Crash Information System: A Case Study,Saran M.S.,2023-01-01,17,156-160,10.58825/jog.2023.17.2.29,SCOPUS_ID:85178215067
+174,Examining Car Accident Prediction Techniques and Road Traffic Congestion: A Comparative Analysis of Road Safety and Prevention of World Challenges in Low-Income and High-Income Countries,Berhanu Y.,2023-01-01,2023,,10.1155/2023/6643412,SCOPUS_ID:85167665969
+175,Study on Traffic Incident Management Boundary Based on Gis and Its Historical Travel Time Data †,Kim D.H.,2023-01-01,36,,10.3390/engproc2023036022,SCOPUS_ID:85186473488
+176,"Analysis of Spatial Distribution of Pre-hospital Emergency Medical Services in Traffic Accidents: Mashhad City, Iran",Ebrahimipour H.,2023-01-01,8,259-266,10.32598/hdq.8.specialissue.201.2,SCOPUS_ID:85173534122
+177,Evolution Analysis of Temporal-Spatial Distribution Characteristics of Fatal Traffic Accidents,He J.,2023-01-01,12717,,10.1117/12.2684739,SCOPUS_ID:85171305084
+178,Remote sensing traffic scene retrieval based on learning control algorithm for robot multimodal sensing information fusion and human-machine interaction and collaboration,Peng H.,2023-01-01,17,,10.3389/fnbot.2023.1267231,SCOPUS_ID:85174729953
+179,A two-phase clustering approach for traffic accident black spots identification: integrated GIS-based processing and HDBSCAN model,Wang D.,2023-01-01,30,270-281,10.1080/17457300.2022.2164309,SCOPUS_ID:85145936709
+180,Factors influencing fatal vehicle-involved crash consequence metrics at spatio-temporal hotspots in South Korea: application of GIS and machine learning techniques,Tamakloe R.,2023-01-01,27,483-517,10.1080/12265934.2022.2134182,SCOPUS_ID:85139955062
+181,Overview of the identification of traffic accident-prone locations driven by big data,Dong C.,2023-01-01,2,67-76,10.48130/DTS-2023-0006,SCOPUS_ID:105021550085
+182,Network space analysis–based identification of road traffic accident hotspots: a case study,Zheng M.,2023-01-01,28,108-115,10.1080/13588265.2022.2109446,SCOPUS_ID:85135689181
+183,Spatial analysis of data frequency and severity of rural accidents,Shafabakhsh G.A.,2023-01-01,15,1243-1250,10.1080/19427867.2016.1138605,SCOPUS_ID:84981724350
+184,Basic Data Analysis of Smart City Traffic Planning Based on ArcGIS,Xia L.,2023-01-01,155,289-296,10.1007/978-981-19-9373-2_31,SCOPUS_ID:85153372129
+185,Measuring Safety Performance in the extra-urban Road Network of Lombardy Region (Italy),Bonera M.,2023-01-01,69,155-162,10.1016/j.trpro.2023.02.157,SCOPUS_ID:85159141390
+186,A GIS-supported methodology for the functional classification of road networks,Gianfranco F.,2023-01-01,69,368-375,10.1016/j.trpro.2023.02.184,SCOPUS_ID:85159128210
+187,Edge based Web Computing for Traffic Control Management for Distributed Environment Conditions,William P.,2023-01-01,,805-810,10.1109/ICAISS58487.2023.10250563,SCOPUS_ID:85173210368
+188,"Proceedings - 2023 10th International Conference on Computer, Control, Informatics and its Applications: Exploring the Power of Data: Leveraging Information to Drive Digital Innovation, IC3INA 2023",,2023-01-01,,,,SCOPUS_ID:85175994574
+189,Overview of identification methods of highway accident-prone sections,Zhang C.,2023-01-01,43,72-87,10.19721/j.cnki.1671-8879.2023.05.008,SCOPUS_ID:85174845922
+190,Predicting pedestrian crash locations in urban India: An integrated GIS-based spatiotemporal HSID technique,Hussain M.S.,2023-01-01,15,103-136,10.1080/19439962.2022.2048759,SCOPUS_ID:85126463010
+191,Spatial Analysis of Characteristics and Influencing Factors of Killed or Seriously Injured Persons from Motor Vehicle Collisions Within the City of Toronto,Thompson A.,2023-01-01,,65-96,10.1007/978-3-031-24731-6_4,SCOPUS_ID:85152016089
+192,Application of Spatial Network Analysis in Road Accidents Based on Open Data,Angelova M.,2023-01-01,22,66-83,10.32909/kg.22.40.3,SCOPUS_ID:85183602914
+193,Association between short-term air pollution exposure and traumatic intracranial hemorrhage: pilot evidence from Taiwan,Liao K.H.,2023-01-01,14,,10.3389/fneur.2023.1087767,SCOPUS_ID:85159943234
+194,Identification and Simulation of Traffic Crime Risk Posture within the Central City of Wuhan in China,Xu J.,2023-01-01,12797,,10.1117/12.3007821,SCOPUS_ID:85172873189
+195,"Risk exposure factors influencing the frequency of road crashes during the COVID-19 pandemic in Ciudad Juarez, Mexico. A negative binomial spatial regression model",Hernández V.,2023-01-01,30,362-374,10.1080/17457300.2023.2188469,SCOPUS_ID:85150830082
+196,"Geospatial analysis of mortality risk from road traffic crashes in Federal Capital Territory, Nigeria",Holmes B.D.,2023-01-01,4,,10.55329/zpni5260,SCOPUS_ID:85166766176
+197,BIM-based Assessment of Solar Glare Risk on a Road Section,Pérez-García A.,2023-01-01,71,300-306,10.1016/j.trpro.2023.11.088,SCOPUS_ID:85182347154
+198,Risk perceptions of pedestrians for traffic and road features,Rankavat S.,2023-01-01,30,410-418,10.1080/17457300.2023.2204488,SCOPUS_ID:85159051379
+199,GIS SPATIAL TOOLS FOR TRAFFIC ACCIDENTS: ANALYSIS WITH HEAVY VEHICLES ON HIGHWAYS IN RIO DE JANEIRO,Bressane S.,2022-12-31,16,141-153,10.4090/juee.2022.v16n2.141153,SCOPUS_ID:85173749945
+200,PEDESTRIAN MOBILITY IN THE PROXIMITY OF CONSTRUCTION SITES: AN APPROACH TO ANALYSE AND IMPROVE THE PEDESTRIAN EXPERIENCE,Moricca A.,2022-12-21,214,59-70,10.2495/SSR220051,SCOPUS_ID:85147885252
+201,Geographical spatial analysis and risk prediction based on machine learning for maritime traffic accidents: A case study of Fujian sea area,Yang Y.,2022-12-15,266,,10.1016/j.oceaneng.2022.113106,SCOPUS_ID:85142757049
+202,Assessment of Motorway Impact on Agricultural Land with a Simplified Method and GIS Data as a Tool for Selecting the Optimal Route,Bacior S.,2022-12-01,14,,10.3390/su142416410,SCOPUS_ID:85144865491
+203,CIIS 2022 - 2022 5th International Conference on Computational Intelligence and Intelligent Systems,,2022-11-04,,,,SCOPUS_ID:85159653800
+204,Nationwide analysis of proximity of American College of Surgeons–verified and state-designated trauma centers to the nearest highway exit and associated prehospital motor vehicle collision fatalities,Concepcion J.,2022-11-01,172,1584-1591,10.1016/j.surg.2022.07.011,SCOPUS_ID:85136518761
+205,"Mortality due to noninfectious lower respiratory diseases: A spatiotemporal, cross-sectional study",Amiri P.,2022-11-01,5,,10.1002/hsr2.875,SCOPUS_ID:85143131761
+206,RESEARCH ON EMERGENCY RESPONSE SYSTEM OF DANGEROUS GOODS TRANSPORTATION VEHICLES,Yang Y.,2022-10-27,10,71-77,10.5194/isprs-annals-X-3-W2-2022-71-2022,SCOPUS_ID:85141447002
+207,"Spatio-temporal analysis of accident hotspots on federal highways in the state of Goiás, Brazil",dos Santos A.M.,2022-10-01,87,3839-3854,10.1007/s10708-021-10472-9,SCOPUS_ID:85110766118
+208,Identification of Mobility Patterns in Rural Areas of Low Demographic Density through Stated Preference Surveys,Jiménez-Espada M.,2022-10-01,12,,10.3390/app121910034,SCOPUS_ID:85139922110
+209,Where the Crosswalk Ends: Mapping Crosswalk Coverage via Satellite Imagery in San Francisco,Moran M.E.,2022-10-01,49,2250-2266,10.1177/23998083221081530,SCOPUS_ID:85128400766
+210,Geographical Spatial Distribution and Risk Prediction of Maritime Traffic Accidents in Port of Xiamen,Yang Y.,2022-09-25,24,1676-1687,10.12082/dqxxkx.2022.210455,SCOPUS_ID:85138082294
+211,"Space time dynamics of road crashes occurrence in Punjab, Pakistan: A GIS Perspective",Mahmood K.,2022-09-01,65,260-270,,SCOPUS_ID:85147500373
+212,"Injury severity analysis of electric bike crashes in Changsha, Hunan Province: Taking different lighting conditions into consideration",Hu L.,2022-09-01,4,,10.1093/tse/tdac011,SCOPUS_ID:85159571213
+213,Exploring the Spatiotemporal Characteristics and Causes of Rear-End Collisions on Urban Roadways,Zhang W.,2022-09-01,14,,10.3390/su141811761,SCOPUS_ID:85138876744
+214,"Investigating the Risk Factors Associated with Injury Severity in Pedestrian Crashes in Santiago, Chile",Rampinelli A.,2022-09-01,19,,10.3390/ijerph191711126,SCOPUS_ID:85137586387
+215,SPEED-RELATED TRAFFIC ACCIDENT ANALYSIS USING GIS-BASED DBSCAN AND NNH CLUSTERING,Topcuoglu B.,2022-08-05,48,487-494,10.5194/isprs-archives-XLVIII-4-W1-2022-487-2022,SCOPUS_ID:85137176789
+216,"GIS Analysis on Road Accident and Road Safety: A Case Study of Road Geometry in Kajang, Selangor",Hisam F.N.S.A.,2022-08-01,18,45-50,10.52939/ijg.v18i4.2257,SCOPUS_ID:85138064039
+217,Computing traffic accident high-risk locations using graph analytics,Maduako I.,2022-08-01,30,497-511,10.1007/s41324-022-00448-3,SCOPUS_ID:85129269845
+218,Where can the elderly walk? A spatial multi-criteria method to increase urban pedestrian accessibility,Gaglione F.,2022-08-01,127,,10.1016/j.cities.2022.103724,SCOPUS_ID:85130319603
+219,Analysing the Impact of Road Intersection’s Safety Towards Road Accidents by Using Ordinary Least Square Regression,Adli H.A.A.,2022-07-22,18,1-7,10.52939/ijg.v18i4.2247,SCOPUS_ID:85135178134
+220,The Impact of Road Geometric Formation on Traffic Crash and Its Severity Level,Jima D.,2022-07-01,14,,10.3390/su14148475,SCOPUS_ID:85137176586
+221,Spatiotemporal Variability of Lightning Activity over the Railway Network in Sri Lanka with Special Attention to the Proposed Suburban Railway Electrification Network,Maduranga U.G.D.,2022-07-01,7,,10.3390/infrastructures7070092,SCOPUS_ID:85135438144
+222,A GIS-based assessment of long-term traffic accidents using spatiotemporal and empirical Bayes analysis in Turkey,Erdoğan S.,2022-06-01,14,147-162,10.1007/s12518-022-00419-1,SCOPUS_ID:85124104898
+223,A GIS-Based Spatiotemporal Modelling of Urban Traffic Accidents in Tabriz City during the COVID-19 Pandemic,Feizizadeh B.,2022-06-01,14,,10.3390/su14127468,SCOPUS_ID:85132800751
+224,A novel three-stage fuzzy GIS-MCDA approach to the dry port site selection problem: A case study of Shahid Rajaei Port in Iran,Raad N.G.,2022-06-01,168,,10.1016/j.cie.2022.108112,SCOPUS_ID:85127149850
+225,Emergency management of self-evacuation from flood hazard areas in Poland,Borowska-Stefańska M.,2022-06-01,107,,10.1016/j.trd.2022.103307,SCOPUS_ID:85130690689
+226,A Cross-Sectional Geographic Information Systems Study of a Pediatric Emergency Department Child Restraint System Distribution Program,Oglesbee S.J.,2022-05-01,48,278-287,10.1016/j.jen.2022.02.002,SCOPUS_ID:85127702853
+227,A Scalable Deep Learning Framework for Extracting Model Inventory of Roadway Element Intersection Control Types From Panoramic Images,Kwayu K.M.,2022-05-01,2676,630-642,10.1177/03611981211069066,SCOPUS_ID:85132047505
+228,Tracking traffic congestion and accidents using social media data: A case study of Shanghai,Chang H.,2022-05-01,169,,10.1016/j.aap.2022.106618,SCOPUS_ID:85125244958
+229,Using Machine Learning Models to Forecast Severity Level of Traffic Crashes by R Studio and ArcGIS,Al-Mistarehi B.W.,2022-04-20,8,,10.3389/fbuil.2022.860805,SCOPUS_ID:85129650330
+230,Traffic accident data analysis based on Internet of Things and cloud computing technology,Jiang Q.,2022-04-14,,1045-1048,10.1145/3544109.3544995,SCOPUS_ID:85135033090
+231,Spatiotemporal Analysis of Traffic Accidents Hotspots Based on Geospatial Techniques,Hazaymeh K.,2022-04-01,11,,10.3390/ijgi11040260,SCOPUS_ID:85129157956
+232,Understanding the potential of emerging digital technologies for improving road safety,Eskandari Torbaghan M.,2022-03-01,166,,10.1016/j.aap.2021.106543,SCOPUS_ID:85121971920
+233,Traffic accident prediction model for rural highways in Pernambuco,Macedo M.R.O.B.C.,2022-03-01,10,278-286,10.1016/j.cstp.2021.12.009,SCOPUS_ID:85122792553
+234,Investigating the correlation between sidewalks and pedestrian safety,Abou-Senna H.,2022-03-01,166,,10.1016/j.aap.2021.106548,SCOPUS_ID:85122330675
+235,Examining the influence of rural land uses and accessibility-related factors to estimate pedestrian safety: The use of GIS and machine learning techniques,Effati M.,2022-03-01,11,144-157,10.1016/j.ijtst.2021.03.005,SCOPUS_ID:85105257757
+236,Spatiotemporal Clustering and Analysis of Road Accident Hotspots by Exploiting GIS Technology and Kernel Density Estimation,Kazmi S.S.A.,2022-02-01,65,155-176,10.1093/comjnl/bxz158,SCOPUS_ID:85116426986
+237,Data Analytics Process over Road Accidents Data—A Case Study of Lisbon City,Mesquitela J.,2022-02-01,11,,10.3390/ijgi11020143,SCOPUS_ID:85125052192
+238,Spatial Statistical Analysis of Traffic Accidents Using GIS and Python for Optimum Resource Allocation,Srikanth L.,2022-01-01,172,805-813,10.1007/978-981-16-4396-5_70,SCOPUS_ID:85122028624
+239,Geographic Information System (GIS-T) database design for transportation safety system (case study: Spatial database for road transportation system in Indonesia),Istiyanto B.,2022-01-01,1117,,10.1088/1755-1315/1117/1/012023,SCOPUS_ID:85146655058
+240,Identification of Suburban Motorcycle Traffic Accident Hotspots Using GIS-Based Spatial Analysis,Klaylee J.,2022-01-01,,35-40,10.1109/ICTLE55577.2022.9902103,SCOPUS_ID:85141353854
+241,Contribution of a Geographic Information System to the Prevention of Crashes Among Vulnerable Road Users in the City of Cotonou: Exploratory Study,Daddah D.,2022-01-01,15,1271-1282,10.2147/RMHP.S362167,SCOPUS_ID:85133298571
+242,Spatio-temporal analysis of road traffic accidents in Tunisia,Turki Z.,2022-01-01,,,10.1109/LOGISTIQUA55056.2022.9938067,SCOPUS_ID:85143059958
+243,Empirical Study of a Spatial Analysis for Prone Road Traffic Accident Classification based on MCDM Method,Vitianingsih A.V.,2022-01-01,13,665-679,10.14569/IJACSA.2022.0130578,SCOPUS_ID:85131407914
+244,Traffic accident hotspot identification by integrating kernel density estimation and spatial autocorrelation analysis: a case study,Le K.G.,2022-01-01,27,543-553,10.1080/13588265.2020.1826800,SCOPUS_ID:85094818280
+245,"Spatiotemporal Investigation of Intersection Crashes in Victoria, Australia",Khalifa I.,2022-01-01,,,10.1109/ASET53988.2022.9735114,SCOPUS_ID:85128430465
+246,Modeling Urban Road Scenarios to Evaluate Intersection Visibility,Keila G.G.,2022-01-01,14,,10.3390/su14010354,SCOPUS_ID:85122828559
+247,Analytical Methods and Determinants of Frequency and Severity of Road Accidents: A 20-Year Systematic Literature Review,Ferreira-Vanegas C.M.,2022-01-01,2022,,10.1155/2022/7239464,SCOPUS_ID:85134540423
+248,A GIS and Fuzzy-based Model for Identification and Analysis of Accident Vulnerable Locations in Urban Traffic Management System: A Case Study of Bhubaneswar,Mahapatra S.,2022-01-01,13,709-717,10.14569/IJACSA.2022.0130881,SCOPUS_ID:85137164882
+249,LIBKDV: A Versatile Kernel Density Visualization Library for Geospatial Analytics,Chan T.N.,2022-01-01,15,3606-3609,10.14778/3554821.3554855,SCOPUS_ID:85137975372
+250,Predicting Red Light Running Violation Using Machine Learning Classifiers,Zahid M.,2022-01-01,775,137-148,10.1007/978-981-16-5429-9_10,SCOPUS_ID:85121797635
+251,A novel spatial analysis method to evaluate the safety impact of alternate road lighting,Zahran E.S.M.M.,2022-01-01,29,372-381,10.1080/17457300.2022.2045327,SCOPUS_ID:85126640999
+252,"2022 10th International Conference on Traffic and Logistic Engineering, ICTLE 2022",,2022-01-01,,,,SCOPUS_ID:85141382639
+253,Geo VISER: A Geospatial Data Visualization Platform,Yulong B.,2022-01-01,,1318-1325,10.1109/PRAI55851.2022.9904184,SCOPUS_ID:85141216684
+254,"Estimating Walk Score and Examining Its Association with Safety Factors of Neighborhood Environment in Kumamoto, Japan",Zhou Q.,2022-01-01,10,4-15,10.14246/irspsd.10.3_4,SCOPUS_ID:85135041719
+255,Analysis of Severity Level Types and Trends in Road Accident Cases at Johor Inter State Road Using Analytical Hierarchy Process (AHP) And Geographical Information System,Saifullizan M.B.,2022-01-01,14,66-73,10.30880/ijie.2022.14.09.009,SCOPUS_ID:85144751714
+256,GIS-Based Survey over the Public Transport Strategy: An Instrument for Economic and Sustainable Urban Traffic Planning,Droj G.,2022-01-01,11,,10.3390/ijgi11010016,SCOPUS_ID:85123264387
+257,Spatiotemporal Analysis of Overloaded Vehicles on a Highway Using Weigh-in-Motion Data,Lin Y.H.,2022-01-01,148,,10.1061/JTEPBS.0000616,SCOPUS_ID:85118144615
+258,Proximity to fatal accidents predicts police citation rates on urban and rural roads,Glass G.,2022-01-01,23,S149-S154,10.1080/15389588.2022.2110590,SCOPUS_ID:85136519101
+259,The Epidemiology of Hospital-Referred Injury in Iran-2016: a hierarchical model,Akbari H.,2022-01-01,8,152-159,,SCOPUS_ID:85135451332
+260,Collaborative Framework to Create a Culvert Asset Management System for NMDOT,Starnes A.L.,2022-01-01,6,34-45,10.1061/9780784484364.004,SCOPUS_ID:85138495492
+261,Evaluation and optimization of walkability of children’s school travel road for accessibility and safety improvement,Zhao J.,2022-01-01,19,,10.3390/ijerph19010071,SCOPUS_ID:85121438628
+262,ASSESSING ROAD ACCIDENTS IN SPATIAL CONTEXT VIA STATISTICAL AND NONSTATISTICAL APPROACHES TO DETECT ROAD ACCIDENT HOTSPOT USING GIS,Khosravi Y.,2022-01-01,66,412-431,10.15292/geodetski-vestnik.2022.03.412-431,SCOPUS_ID:85139873148
+263,An iRAP Based Risk Impact Analysis at National Highway-1 for a Proposed Route Connecting Coastal Areas of Bangladesh,Huq A.S.,2022-01-01,,542-555,10.1007/978-3-030-79801-7_39,SCOPUS_ID:85128952251
+264,Identification of contributing factors and hotspots of pedestrian-vehicle collisions in urban areas: An alternative hybrid method for small cities,Oestreich L.,2022-01-01,23,416-421,10.1080/15389588.2022.2104838,SCOPUS_ID:85135238282
+265,Creation of a rough runnability index using an affordance-based framework,Shashank A.,2022-01-01,49,321-334,10.1177/23998083211003886,SCOPUS_ID:85103425922
+266,A clearance pipeline-based method for street tree maintenance information detection using MLS data,Liu C.,2022-01-01,37,15324-15346,10.1080/10106049.2022.2097321,SCOPUS_ID:85133920736
+267,GIS-based analysis of spatial–temporal correlations of urban traffic accidents,Ma Q.,2021-12-01,13,,10.1186/s12544-021-00509-y,SCOPUS_ID:85114751957
+268,A comprehensive study of macro factors related to traffic fatality rates by XGBoost-based model and GIS techniques,Jiang F.,2021-12-01,163,,10.1016/j.aap.2021.106431,SCOPUS_ID:85118541254
+269,Application of geographical information system (GIS) in reducing accident blackspots and in planning of a safer urban road network: A review,Singh N.,2021-12-01,66,,10.1016/j.ecoinf.2021.101436,SCOPUS_ID:85116022954
+270,Spatial logical relationship analysis model of ship Encounter space,Liu Z.,2021-11-01,239,,10.1016/j.oceaneng.2021.109912,SCOPUS_ID:85116062348
+271,"Understanding e-scooter incidents patterns in street network perspective: A case study of travis county, texas",Jiao J.,2021-10-01,13,,10.3390/su131910583,SCOPUS_ID:85115791186
+272,Analysis of fatal and injury traffic accidents in istanbul sarıyer district with spatial statistics methods,Ersen M.,2021-10-01,13,,10.3390/su131911039,SCOPUS_ID:85116780927
+273,"Severity, spatial pattern and statistical analysis of road traffic crash hot spots in Ethiopia",Tola A.M.,2021-10-01,11,,10.3390/app11198828,SCOPUS_ID:85115772942
+274,Public participation geographic information system (PPGIS) as a method for active travel data acquisition,Alattar M.A.,2021-10-01,96,,10.1016/j.jtrangeo.2021.103180,SCOPUS_ID:85113810485
+275,The impact of bike network indicators on bike kilometers traveled and bike safety: A network theory approach,Kamel M.B.,2021-09-01,48,2055-2072,10.1177/2399808320964469,SCOPUS_ID:85092739234
+276,Highway route selection using GIS and analytical hierarchy process case study Ramadi Heet rural highway,Sameer Y.M.,2021-08-31,1973,,10.1088/1742-6596/1973/1/012060,SCOPUS_ID:85114203588
+277,A new methodology for accidents analysis: The case of the state road 36 in Italy,Borghetti F.,2021-07-23,5,278-290,10.2495/TDI-V5-N3-278-290,SCOPUS_ID:85112206311
+278,Revealing the spatial pattern of weather-related road traffic crashes in slovenia,Ivajnšič D.,2021-07-02,11,,10.3390/app11146506,SCOPUS_ID:85111123483
+279,Formulating a GIS-based geometric design quality assessment model for Mountain highways,Zhang H.,2021-07-01,157,,10.1016/j.aap.2021.106172,SCOPUS_ID:85105508042
+280,Factors affecting traffic accidents density on selected multilane rural highways,Al-Bayati A.H.,2021-07-01,7,1183-1202,10.28991/cej-2021-03091719,SCOPUS_ID:85113226796
+281,Measuring the spatiotemporal evolution of accident hot spots,Al Hamami M.,2021-07-01,157,,10.1016/j.aap.2021.106133,SCOPUS_ID:85105579443
+282,Hot spot analysis of the crash locations at the roundabouts through the application of GIS,Zubaidi H.,2021-06-03,1895,,10.1088/1742-6596/1895/1/012032,SCOPUS_ID:85108292304
+283,Spatial analysis model for traffic accident-prone roads classification: A proposed framework,Vitianingsih A.V.,2021-06-01,10,365-373,10.11591/ijai.v10.i2.pp365-373,SCOPUS_ID:85106173620
+284,"Quantitative Environmental Equity Analysis of Perceived Accessibility to Urban Parks in Osaka Prefecture, Japan",Yasumoto S.,2021-06-01,14,337-354,10.1007/s12061-020-09360-5,SCOPUS_ID:85092711676
+285,Cardioneuroablation for cardioinhibitory vasovagal syncope,John L.A.,2021-06-01,32,1748-1753,10.1111/jce.15044,SCOPUS_ID:85107322423
+286,Geospatial Analysis on the Impact of Road Defects on Motorcycle Accidents,Amir M.H.M.,2021-05-17,767,,10.1088/1755-1315/767/1/012002,SCOPUS_ID:85107190876
+287,Estimating Gaze Directions for Pedestrian Navigation,Zhou S.,2021-05-05,46,700-735,10.13203/j.whugis20200465,SCOPUS_ID:85106979682
+288,Analysis of the degree of threat to railway infrastructure by falling tree vegetation,Kučera M.,2021-05-01,10,,10.3390/ijgi10050292,SCOPUS_ID:85106522570
+289,Changes in Land Use and Its Impact on the Hierarchy of Roads in Ramadi City,Ahmed N.A.,2021-04-26,754,,10.1088/1755-1315/754/1/012015,SCOPUS_ID:85105247941
+290,Proximity to major roads and risks of childhood recurrent wheeze and asthma in a severe bronchiolitis cohort,Freid R.D.,2021-04-02,18,,10.3390/ijerph18084197,SCOPUS_ID:85104113878
+291,Enhancing trauma registries by integrating traffic records and geospatial analysis to improve bicyclist safety,Doucet J.J.,2021-04-01,90,631-640,10.1097/TA.0000000000003075,SCOPUS_ID:85103305511
+292,How Does Pedestrian-Driver Behavior Influence in the Number of Crashes? A Michigan's Case Study,Alhomaidat F.,2021-04-01,22,152-162,10.2478/ttj-2021-0012,SCOPUS_ID:85106332784
+293,Effect of transportation parameters on traffic accident in urban areas comparison study of anfis with statistical analysis,Suleiman G.M.,2021-04-01,11,129-134,10.18280/ijsse.110201,SCOPUS_ID:85106468954
+294,"Geographical mapping of road traffic injuries in Lilongwe, Malawi",Sundet M.,2021-04-01,52,806-813,10.1016/j.injury.2021.02.028,SCOPUS_ID:85102304345
+295,Low-cost road marking measures for increasing safety in horizontal curves: A driving simulator study,Babić D.,2021-04-01,153,,10.1016/j.aap.2021.106013,SCOPUS_ID:85100693827
+296,Fractionation mapping of the ganglionated plexi for cardioneuroablation,John L.A.,2021-04-01,12,4473-4476,10.19102/ICRM.2021.120405,SCOPUS_ID:85106391535
+297,GIS cloud computing based government Big Data analysis platform,Wang Q.,2021-03-26,,252-255,10.1109/ICBAIE52039.2021.9390052,SCOPUS_ID:85104450259
+298,"Neighborhood built environments, walking, and self-rated health among low-income older adults in St. Paul, Minnesota",Yun H.Y.,2021-03-02,13,,10.3390/su13063501,SCOPUS_ID:85103120599
+299,Influence of solar glare intensity on vehicular speed variance,Woo B.,2021-03-01,20,,10.1016/j.jth.2021.101020,SCOPUS_ID:85100384992
+300,A GIS approach to the development of a segment-level derailment prediction model,Chow T.,2021-03-01,151,,10.1016/j.aap.2020.105897,SCOPUS_ID:85099608897
+301,Evaluation of a population health strategy to reduce distracted driving: Examining all “Es” of injury prevention,Stewart T.C.,2021-03-01,90,535-543,10.1097/TA.0000000000002948,SCOPUS_ID:85102214434
+302,Traffic analysis for enhancing safety in the Singapore Straits using AIS data,Zaman M.B.,2021-02-23,649,,10.1088/1755-1315/649/1/012065,SCOPUS_ID:85102432919
+303,Navigational risk analysis based on GIS spatiotemporal trajectory mining: a case study in Nanjing Yangtze River Bridge waters,Xia H.,2021-02-01,14,,10.1007/s12517-021-06621-6,SCOPUS_ID:85100427390
+304,Driver glare exposure with different vehicle frontlighting systems,Alcón Gil P.,2021-02-01,76,228-237,10.1016/j.jsr.2020.12.018,SCOPUS_ID:85099631956
+305,"Traffic Accidents Detection using Geographic Information Systems (GIS): Spatial Correlation of Traffic Accidents in the City of Amman, Jordan",Alkhadour W.,2021-01-01,12,484-494,10.14569/IJACSA.2021.0120462,SCOPUS_ID:85105825288
+306,Spatial analysis of road traffic accident hotspots: evaluation and validation of recent approaches using road safety audit,Zahran E.S.M.M.,2021-01-01,13,575-604,10.1080/19439962.2019.1658673,SCOPUS_ID:85073818123
+307,Traffic Accidents Analysis with the GPS/Arc/GIS Telecommunication System,Pajaziti A.,2021-01-01,1250 AISC,155-163,10.1007/978-3-030-55180-3_12,SCOPUS_ID:85090176018
+308,Discussing the Role of Traffic Safety in Sustainable Urban Mobility Plans Using Spatial Analysis Techniques,Tzouras P.,2021-01-01,1278,505-514,10.1007/978-3-030-61075-3_50,SCOPUS_ID:85096420417
+309,Spatial and Temporal Distribution Analysis of Traffic Accidents Using GIS-Based Data in Harbin,Wang M.,2021-01-01,2021,,10.1155/2021/9207500,SCOPUS_ID:85115143396
+310,Analysis Of Traffic Accident Area On The Road In Gresik District Based On Geographic Information System,Umam M.W.C.,2021-01-01,1,32-36,10.52088/ijesty.v1i2.52,SCOPUS_ID:105007659424
+311,The application of geographic information system as an intelligent system towards emergency responses in road traffic accident in ibadan,Audu A.A.,2021-01-01,15,1-17,10.4102/jtscm.v15i0.546,SCOPUS_ID:85102892256
+312,"Predictors and geographic analysis of road traffic accidents in leon, nicaragua",Toval-Ruiz C.,2021-01-01,24,1-13,10.1590/1980-549720210003,SCOPUS_ID:85098285687
+313,Analysis of road traffic accident distribution in Tagaytay City Philippines,Abrigo D.P.,2021-01-01,,2612-2624,,SCOPUS_ID:85114231219
+314,A spatial decision support system for traffic accident prevention in different weather conditions,Ivajnšič D.,2021-01-01,61,75-92,10.3986/AGS.9415,SCOPUS_ID:85111085130
+315,Sustainable Civil Infrastructures Utilization and Regulations of Innovative Technology to Improve Road Safety via Drivers’ Warnings and Enforcement,Abufares L.,2021-01-01,,110-126,10.1007/978-3-030-79650-1_9,SCOPUS_ID:85119081036
+316,Kdv-explorer: A near real-time kernel density visualization system for spatial analysis,Chan T.N.,2021-01-01,14,2655-2658,10.14778/3476311.3476312,SCOPUS_ID:85116798412
+317,Investigating accidents on the main road network in the north-west region of Romania,Cadar R.D.,2021-01-01,16,1-23,10.7250/bjrbe.2021-16.512,SCOPUS_ID:85103395600
+318,Assessment of intersection conflicts between riders and pedestrians using a GIS-based framework and portable LiDAR,González-Gómez K.,2021-01-01,58,587-602,10.1080/15481603.2021.1920199,SCOPUS_ID:85105124418
+319,GIS-based crash hotspot identification: a comparison among mapping clusters and spatial analysis techniques,Amiri A.M.,2021-01-01,28,325-338,10.1080/17457300.2021.1925924,SCOPUS_ID:85106208785
+320,"Effects of neighborhood environment, safety, and urban amenities on origins and destinations of walking behavior",Wei Y.D.,2021-01-01,42,120-140,10.1080/02723638.2019.1699731,SCOPUS_ID:85075917275
+321,Analysis and Management of Road Accidents Caused Due to Pavement Surface Conditions on Expressways,Salgude R.R.,2021-01-01,87,513-521,10.1007/978-981-15-6463-5_49,SCOPUS_ID:85096226550
+322,"Intelligent Systems Conference, IntelliSys 2020",,2021-01-01,1250 AISC,,,SCOPUS_ID:85090114152
+323,"1st International Conference on Urban Science and Engineering, ICUSE 2020",,2021-01-01,121 LNCE,,,SCOPUS_ID:85104895960
+324,Analysis of crashes and Emergency Medical Services resources using geospatial information system on Western suburban roads of Iran,Mohammadi A.,2021-01-01,27,,10.1016/j.imu.2021.100786,SCOPUS_ID:85118533958
+325,Objective and subjective measures of the neighbourhood environment: Associations with frailty levels,Arakawa Martins B.,2021-01-01,92,,10.1016/j.archger.2020.104257,SCOPUS_ID:85091391045
+326,Crash data reporting systems in fourteen arab countries: Challenges and improvement,Abounoas Z.,2020-12-30,56,73-88,10.5604/01.3001.0014.5628,SCOPUS_ID:85098217899
+327,Analysis of motorcycle accidents using association rule mining-based framework with parameter optimization and GIS technology,Jiang F.,2020-12-01,75,292-309,10.1016/j.jsr.2020.09.004,SCOPUS_ID:85097102945
+328,The “Golden Hour” and field triage pattern for road trauma patients,Hu W.,2020-12-01,75,57-66,10.1016/j.jsr.2020.08.001,SCOPUS_ID:85089826517
+329,A GIS and microsimulation-based MCDA approach for evaluation of pedestrian crossings,Alemdar K.D.,2020-12-01,148,,10.1016/j.aap.2020.105771,SCOPUS_ID:85091947036
+330,Mobile-web-base volunteered geographic information application and geometric accuracy analysis for traffic accidents,Sevinç H.K.,2020-11-23,44,375-378,10.5194/isprs-archives-XLIV-4-W3-2020-375-2020,SCOPUS_ID:85101928090
+331,"Examining hotspots of traffic collisions and their spatial relationships with land use: A GIS-based geographically weighted regression approach for Dammam, Saudi Arabia",Rahman M.T.,2020-09-01,9,,10.3390/ijgi9090540,SCOPUS_ID:85090900923
+332,"Providing a Method for Accident Severity Analysis Using Geospatial Clustering Functions and Decision Tree, Case Study: Qazvin-Loshan Freeway",Behbahani H.,2020-09-01,52,1419-1438,10.22060/ceej.2019.15376.5903,SCOPUS_ID:85175689498
+333,"Feasibility Study on Walkable City Through Implementation of Car-Free Zones in Georgetown, Penang Using GIS Network Analysis",Salleh A.H.,2020-08-04,540,,10.1088/1755-1315/540/1/012032,SCOPUS_ID:85090159601
+334,"Paediatric, pedestrian road traffic injuries in the city of Mashhad in north-eastern Iran 2015-2019: A data note",Tabari P.,2020-07-31,13,,10.1186/s13104-020-05203-1,SCOPUS_ID:85089122100
+335,"Investigation of Spatiotemporal Changes in the Incidence of Traffic Accidents in Kahramanmaraş, Turkey, Using GIS-Based Density Analysis",Özcan M.,2020-07-01,48,1045-1056,10.1007/s12524-020-01137-0,SCOPUS_ID:85089084459
+336,"Investigation of clusters and injuries in pedestrian crashes using GIS in Changsha, China",Hu L.,2020-07-01,127,,10.1016/j.ssci.2020.104710,SCOPUS_ID:85082567936
+337,Quantifying suppressed child pedestrian and bicycle trips,Ferenchak N.N.,2020-07-01,20,91-103,10.1016/j.tbs.2020.03.002,SCOPUS_ID:85081017204
+338,"Are safety and performance affected by navigation system display size, environmental illumination, and gender when driving in both urban and rural areas?",Yared T.,2020-07-01,142,,10.1016/j.aap.2020.105585,SCOPUS_ID:85085137936
+339,Improving the educational process to address issues of digital technologies development in the road industry,Merentsova G.S.,2020-06-08,832,,10.1088/1757-899X/832/1/012062,SCOPUS_ID:85088115789
+340,Prediction of traffic accidents hot spots using fuzzy logic and GIS,Al-Omari A.,2020-06-01,12,149-161,10.1007/s12518-019-00290-7,SCOPUS_ID:85076015698
+341,Analysis of run-off-road accidents by association rule mining and geographic information system techniques on imbalanced datasets,Jiang F.,2020-06-01,12,,10.3390/SU12124882,SCOPUS_ID:85087497839
+342,Predicting risky and aggressive driving behavior among taxi drivers: Do spatio-temporal attributes matter?,Zahid M.,2020-06-01,17,,10.3390/ijerph17113937,SCOPUS_ID:85085967880
+343,GIS-based evaluation of the speed limit increase on urban arterial traffic safety in Ankara,Ture Kibar F.,2020-06-01,13,,10.1007/s12517-020-05486-5,SCOPUS_ID:85086407306
+344,"Effects Influencing Pedestrian-Vehicle Crash Frequency by Severity Level: A Case Study of Seoul Metropolitan City, South Korea",Park S.H.,2020-06-01,6,,10.3390/safety6020025,SCOPUS_ID:85090621158
+345,Identifying Changes in Bicycle Accident Trends Using GIS and Time Series Information in the City of Zürich,Kielhauser C.,2020-05-28,2,,10.3389/frsc.2020.00021,SCOPUS_ID:85123247276
+346,Spatial topological analysis model of ship encounter space,Liu Z.,2020-04-15,202,,10.1016/j.oceaneng.2020.107171,SCOPUS_ID:85080982769
+347,"Determining the road traffic accident hotspots using GIS-based temporal-spatial statistical analytic techniques in Hanoi, Vietnam",Le K.G.,2020-04-02,23,153-164,10.1080/10095020.2019.1683437,SCOPUS_ID:85075940081
+348,Geometric effect analysis of highway-rail grade crossing safety performance,Keramati A.,2020-04-01,138,,10.1016/j.aap.2020.105470,SCOPUS_ID:85079318104
+349,Impact of climate change on disaster events in metropolitan cities -trend of disasters reported by Taiwan national medical response and preparedness system,Lee C.H.,2020-04-01,183,,10.1016/j.envres.2020.109186,SCOPUS_ID:85079385781
+350,Qualitative field observation of pedestrian injury hotspots: A mixed-methods approach for developing built- and socioeconomic-environmental risk signatures,Schuurman N.,2020-03-01,17,,10.3390/ijerph17062066,SCOPUS_ID:85082445981
+351,Integrating GIS and statistical approaches to enhance allocation of highway patrol resources,Rezapour M.,2020-03-01,22,84-95,10.1177/1461355719888939,SCOPUS_ID:85114320564
+352,Application of the mobile GIS for the improvement of the knowledge and the management of the road network,Gharbi A.,2020-03-01,12,23-39,10.1007/s12518-019-00279-2,SCOPUS_ID:85069482320
+353,"Modern Approach to the Road Traffic Management in Cities of Ukraine: Case Study of Kyiv Municipal Company ""road Traffic Management Center""",Cherniy V.,2020-03-01,,,10.1109/E-TEMS46250.2020.9111757,SCOPUS_ID:85086994128
+354,RTA analysis & existing modelling for emergency medical service,Asim Azim M.,2020-02-01,27,251-261,10.17559/TV-20190212143303,SCOPUS_ID:85079571726
+355,Exploratory spatial data analysis in traffic safety,Azimian A.,2020-02-01,7,,,SCOPUS_ID:85088520269
+356,"Individual, social and neighbourhood correlates of cycling among children living in disadvantaged neighbourhoods",Bell L.,2020-02-01,23,157-163,10.1016/j.jsams.2019.08.010,SCOPUS_ID:85071140456
+357,Spatial Analyses of Traffic Conflicts to Assess Safety at Signalised Intersections,Abdul Majeed R.Z.,2020-01-17,671,,10.1088/1757-899X/671/1/012092,SCOPUS_ID:85078191588
+358,Review of road accident analysis using GIS technique,Shahzad M.,2020-01-01,27,472-481,10.1080/17457300.2020.1811732,SCOPUS_ID:85089785100
+359,The optimal rescue route of traffic accident based on gis and ant colony algorithm,Fan J.Y.,2020-01-01,1,105-114,10.4399/978882553186211,SCOPUS_ID:85084703667
+360,Spatial analysis of road crashes involving vulnerable road users in support of road safety management strategies,Bassani M.,2020-01-01,45,394-401,10.1016/j.trpro.2020.03.031,SCOPUS_ID:85083462859
+361,Analysis of children traffic accidents around school area using GIS and data mining techniques,Han H.S.,2020-01-01,11,161-167,10.24507/icicelb.11.10.961,SCOPUS_ID:85090519533
+362,"To Find Accident Prone Zones and Nearest Health Facility by GIS Based Spatial and Network Analysis in Amritsar, Punjab",Chaudary J.,2020-01-01,11,156-159,10.5455/njcm.20200405092812,SCOPUS_ID:85169338945
+363,Novel GIS-Based Model for Automatic Identification of Road Geometry in Vector Data,Pradhan B.,2020-01-01,,87-94,10.1007/978-3-030-10374-3_7,SCOPUS_ID:85097987341
+364,GIS-based space and time analysis of road accidents in an urban environment: A case study of the Colombo MC area,Jayathilaka H.B.T.P.,2020-01-01,,,,SCOPUS_ID:85107186300
+365,The dilemma of road safety in the eastern province of Saudi Arabia: Consequences and prevention strategies,Jamal A.,2020-01-01,17,,10.3390/ijerph17010157,SCOPUS_ID:85077277794
+366,A Spatial Analysis Methodology Based on Lazy Ensembled Adaptive Associative Classifier and GIS for Examining the Influential Factors on Traffic Fatalities,Zhai C.,2020-01-01,8,117932-117945,10.1109/ACCESS.2020.3002535,SCOPUS_ID:85087815266
+367,Road safety: Road degradation survey through images by UAV,Barrile V.,2020-01-01,16,649-659,10.37394/232015.2020.16.67,SCOPUS_ID:85091011595
+368,"Geographical distribution of at fault drivers involved in fatal traffic collisions in Tehran, Iran",Kavousi A.,2020-01-01,42,,10.4178/epih.e2020002,SCOPUS_ID:85081081811
+369,Location preferences of new pedestrian bridges based on multi-criteria decision-making and GIS-based estimation,Zagorskas J.,2020-01-01,15,158-181,10.7250/bjrbe.2020-15.478,SCOPUS_ID:85086860692
+370,A literature review on rail transport of hazmat release risk analysis,Bian Z.,2020-01-01,,,10.1115/JRC2020-8098,SCOPUS_ID:85094671315
+371,"Evaluation of pedestrian safety in fast developing Nagpur City, India",Mukesh M.S.,2020-01-01,14,52-60,10.4090/juee.2020.v14n1.052060,SCOPUS_ID:85090676000
+372,Using satellite imagery to estimate heavy vehicle volume for ecological injury analysis in India,Goel R.,2020-01-01,28,68-77,10.1080/17457300.2020.1837886,SCOPUS_ID:85096585236
+373,Solar glare vulnerability analysis of urban road networks—A methodology,Redweik P.,2019-12-14,12,,10.3390/en12244779,SCOPUS_ID:85076677293
+374,Decision Support System in GIS to Find Best Route,Alrhman A.M.A.,2019-12-01,,73-78,10.1109/CAS47993.2019.9075719,SCOPUS_ID:85084547636
+375,GIS-Technologies Using for Spatial Data Analyse of the Road Traffic Accidences on the Example of Kyiv,Verenych O.,2019-12-01,,125-128,10.1109/ATIT49449.2019.9030467,SCOPUS_ID:85082671290
+376,Integrated procedure for monitoring and assessment of linear infrastructures safety (I-Pro MONALISA) affected by slope instability,Infante D.,2019-12-01,9,,10.3390/app9245535,SCOPUS_ID:85077387486
+377,Evaluating pedestrians' safety on Urban intersections: A visibility analysis,González-Gómez K.,2019-12-01,11,,10.3390/su11236630,SCOPUS_ID:85076697184
+378,Who might be affected by crashes? Identifying areas susceptible to crash injury risk and their major contributing factors,Kocatepe A.,2019-11-29,15,1278-1305,10.1080/23249935.2019.1581854,SCOPUS_ID:85062363077
+379,"When policy meets the pedal: A reduction in motorcyclist fatalities following the implementation of a road traffic law in Lagos, Nigeria",Venkatraman C.,2019-11-17,20,849-853,10.1080/15389588.2019.1663346,SCOPUS_ID:85074500655
+380,TITAN: A spatiotemporal feature learning framework for traffic incident duration prediction,Fu K.,2019-11-05,,329-338,10.1145/3347146.3359381,SCOPUS_ID:85076967145
+381,Accident risk prediction based on heterogeneous sparse data: New dataset and insights,Moosavi S.,2019-11-05,,33-42,10.1145/3347146.3359078,SCOPUS_ID:85076973250
+382,Big spatio-temporal data mining for emergency management information systems,Dagaeva M.,2019-11-01,13,1649-1657,10.1049/iet-its.2019.0171,SCOPUS_ID:85075880773
+383,"A Novel Approach for Identifying, Diagnosing, and Treating Active Transportation Safety Issues",Osama A.,2019-11-01,2673,813-823,10.1177/0361198119847614,SCOPUS_ID:85068170127
+384,Unpacking older drivers’ mobility at roundabouts: Their visual-motor coordination through driver–vehicle–environment interactions,Sun Q.,2019-10-21,13,627-638,10.1080/15568318.2018.1497236,SCOPUS_ID:85051273791
+385,A space-time varying graph for modelling places and events in a network,Maduako I.,2019-10-03,33,1915-1935,10.1080/13658816.2019.1603386,SCOPUS_ID:85064571086
+386,Intersections and non-intersections: A protocol for identifying pedestrian crash risk locations in GIS,Kang M.,2019-10-01,16,,10.3390/ijerph16193565,SCOPUS_ID:85072671086
+387,Spatio-temporal Analysis and Machine Learning for Traffic Accidents Prediction,Al-Dogom D.,2019-10-01,,,10.1109/ICSPIS48135.2019.9045892,SCOPUS_ID:85085585124
+388,Short Segment Statewide Screening of Midblock Crashes in South Carolina,Famili A.,2019-10-01,2673,696-707,10.1177/0361198119851068,SCOPUS_ID:85067800220
+389,The effect of brick and granite block paving materials on traffic speed,Nogueira X.R.,2019-10-01,16,,10.3390/ijerph16193704,SCOPUS_ID:85072919000
+390,Pedestrian Road Accident Index for Municipalities: The Portuguese Case,Santos B.,2019-09-18,603,,10.1088/1757-899X/603/4/042084,SCOPUS_ID:85073121549
+391,Methodological considerations with data uncertainty in road safety analysis,Schlögl M.,2019-09-01,130,136-150,10.1016/j.aap.2017.02.001,SCOPUS_ID:85012929455
+392,A new integrated GIS-based analysis to detect hotspots: A case study of the city of Sherbrooke,Harirforoush H.,2019-09-01,130,62-74,10.1016/j.aap.2016.08.015,SCOPUS_ID:84994165633
+393,An investigation into the impact of alternate road lighting on road traffic accident hotspots using spatial analysis,Zahran E.S.M.M.,2019-09-01,,242-246,10.1109/ICITE.2019.8880263,SCOPUS_ID:85074910750
+394,Development of a road illumination measurement system,Ramli M.A.A.B.,2019-09-01,,296-300,10.1109/ICITE.2019.8880163,SCOPUS_ID:85074901856
+395,Measuring spatial dependencies of various spatial objects related to the road safety discrepancies,Ganteda C.,2019-09-01,8,362-365,10.35940/ijitee.K1308.0981119,SCOPUS_ID:85073376959
+396,"Errors in accident data, its types, causes and methods of rectification-analysis of the literature",Ahmed A.,2019-09-01,130,3-21,10.1016/j.aap.2017.07.018,SCOPUS_ID:85026464736
+397,Finding safe and efficient shipping routes in ice-covered waters: A framework and a model,Lehtola V.,2019-09-01,165,,10.1016/j.coldregions.2019.102795,SCOPUS_ID:85066859093
+398,Traffic accident spatial simulation modeling for planning of road emergency services,Naboureh A.,2019-08-25,8,,10.3390/ijgi8090371,SCOPUS_ID:85072570059
+399,"The study of urban climate and traffic: Considerations from the Araraquara case, SP",De Moraes C.M.,2019-08-13,111,,10.1051/e3sconf/201911102070,SCOPUS_ID:85071872513
+400,Urban traffic accident-prone section identification & analysis system based on GIS space clustering,Yan X.,2019-08-01,10,725-736,10.24507/icicelb.10.08.725,SCOPUS_ID:85069841678
+401,GIS-based Spatial Patterns Analysis of Urban Road Traffic Crashes in Shenzhen,Lu H.P.,2019-08-01,32,156-164,10.19721/j.cnki.1001-7372.2019.08.014,SCOPUS_ID:85074793041
+402,Neighborhood Risk Factors for Pediatric Fall-Related Injuries: A Retrospective Analysis of a Statewide Hospital Network,Veras Y.,2019-08-01,19,677-683,10.1016/j.acap.2018.11.012,SCOPUS_ID:85060005167
+403,Identifying high-risk areas for nonfatal opioid overdose: a spatial case-control study using EMS run data,Pesarsick J.,2019-08-01,36,20-25,10.1016/j.annepidem.2019.07.001,SCOPUS_ID:85070214731
+404,Multi-Scale Hierarchical CRF for Railway Electrification Asset Classification from Mobile Laser Scanning Data,Chen L.,2019-08-01,12,3131-3148,10.1109/JSTARS.2019.2918272,SCOPUS_ID:85072630497
+405,Analyzing the social impacts of scooters with geo-spatial methods,Voinov A.,2019-07-15,242,529-538,10.1016/j.jenvman.2019.04.114,SCOPUS_ID:85065127125
+406,"POPULATION AT RISK: SPACE-TEMPORAL ANALYSIS OF VIAL ACCIDENTS BY THE USE OF GIS TOOLS IN THE MUNICIPALITY OF TOLUCA, STATE OF MEXICO, 2000 – 2005",Hinojosa Reyes R.,2019-07-03,2019,49-69,10.21138/GF.584,SCOPUS_ID:85142247198
+407,Equity Analysis of Proactively- vs. Reactively-Identified Traffic Safety Issues,Ferenchak N.N.,2019-07-01,2673,596-606,10.1177/0361198119841296,SCOPUS_ID:85063365542
+408,Integrating spatial and temporal approaches for explaining bicycle crashes in high-risk areas in Antwerp (Belgium),Wang H.,2019-07-01,11,,10.3390/su11133746,SCOPUS_ID:85068639864
+409,Temporal-spatial Characteristics and Influencing Factors of At-fault Traffic Crashes: A Case Study in Guangzhou,Zhang G.N.,2019-06-01,19,208-214,10.16097/j.cnki.1009-6744.2019.03.031,SCOPUS_ID:85070766147
+410,Spatial analysis of driving accidents leading to deaths related to motorcyclists in Tehran,Saadat S.,2019-06-01,22,148-154,10.1016/j.cjtee.2018.12.006,SCOPUS_ID:85065037700
+411,Road infrastructure analysis with reference to traffic stream characteristics and accidents: An application of benchmarking based safety analysis and sustainable decision-making,Shah S.A.R.,2019-06-01,9,,10.3390/app9112320,SCOPUS_ID:85067243916
+412,Association between commercial vehicle driver at-fault crashes involving sleepiness/fatigue and proximity to rest areas and truck stops,Bunn T.L.,2019-05-01,126,3-9,10.1016/j.aap.2017.11.022,SCOPUS_ID:85034662315
+413,"A zonal level safety investigation of pedestrian crashes in Riyadh, Saudi Arabia",Alkahtani K.F.,2019-04-21,13,255-267,10.1080/15568318.2018.1463417,SCOPUS_ID:85049771854
+414,"Children’s transport built environments: A mixed methods study of associations between perceived and objective measures and relationships with parent licence for independent mobility in Auckland, New Zealand",Smith M.,2019-04-02,16,,10.3390/ijerph16081361,SCOPUS_ID:85065301173
+415,Distance from home to the nearest park and the use of the parks for physical activity: the mediator role of road safety perception in adolescents,Dias A.F.,2019-03-01,168,9-16,10.1016/j.puhe.2018.11.021,SCOPUS_ID:85060077349
+416,Investigating exposure of the population to crash injury using a spatiotemporal analysis: A case study in Florida,Mafi S.,2019-03-01,104,42-55,10.1016/j.apgeog.2019.02.001,SCOPUS_ID:85061548506
+417,Measures of speeding from a GPS-based travel behavior survey,Yokoo T.,2019-02-17,20,158-163,10.1080/15389588.2018.1543873,SCOPUS_ID:85063081178
+418,Railway trespass prevention: Spatial analysis of incidents to connect to countermeasures,Beiler M.R.O.,2019-02-01,145,,10.1061/JTEPBS.0000209,SCOPUS_ID:85057813129
+419,Temporal and spatial dynamics of falls among older pedestrians in Sweden,Ceccato V.,2019-02-01,103,122-133,10.1016/j.apgeog.2018.12.007,SCOPUS_ID:85060847992
+420,A model for spatiotemporal injury surveillance: Implications for the evolution of a trauma system,Jansen J.O.,2019-02-01,86,289-298,10.1097/TA.0000000000002136,SCOPUS_ID:85060959274
+421,Do crash barriers and fences have an impact on wildlife–vehicle collisions?—An artificial intelligence and GIS-based analysis,Pagany R.,2019-01-30,8,,10.3390/ijgi8020066,SCOPUS_ID:85061454107
+422,"Application of a Geographic Information System to Analyze Traffic Accidents Using Nantou County, Taiwan, as an Example",Su J.M.,2019-01-23,47,101-111,10.1007/s12524-018-0874-z,SCOPUS_ID:85055976070
+423,Geographic analysis of road accident severity index in Nigeria,Iyanda A.E.,2019-01-02,26,72-81,10.1080/17457300.2018.1476387,SCOPUS_ID:85047659749
+424,A similarity-based neuro-fuzzy modeling for driving behavior recognition applying fusion of smartphone sensors,Eftekhari H.R.,2019-01-02,23,72-83,10.1080/15472450.2018.1506338,SCOPUS_ID:85059771829
+425,Applying the GIS to discuss the traffic accidents under environmental analysis-Case on Taichung city,Li C.,2019-01-01,28,3805-3816,,SCOPUS_ID:85063967247
+426,A study on traffic accident measures in municipal roads by using GIS,Funamoto S.,2019-01-01,,,,SCOPUS_ID:85083947214
+427,Analysis of traffic accident occurrence in niigata prefecture of Japan using open data,Yamazaki T.,2019-01-01,2019-May,,10.1109/ISCAS.2019.8702202,SCOPUS_ID:85066813111
+428,Analyzing the Leading Causes of Traffic Fatalities Using XGBoost and Grid-Based Analysis: A City Management Perspective,Ma J.,2019-01-01,7,148059-148072,10.1109/ACCESS.2019.2946401,SCOPUS_ID:85075991214
+429,Use of cloud computing and GIS on vehicle traffic management,Ziani A.,2019-01-01,6,382-392,10.1504/IJIE.2019.101138,SCOPUS_ID:85069803130
+430,Georeferencing of Road Infrastructure from Photographs using Computer Vision and Deep Learning for Road Safety Applications,Graf S.,2019-01-01,,71-76,10.5220/0007706800710076,SCOPUS_ID:85067505845
+431,"Combining land use, traffic and demographic data for modelling road safety performance in urban areas",Papadopoulos E.,2019-01-01,879,71-78,10.1007/978-3-030-02305-8_9,SCOPUS_ID:85059009550
+432,3D reconstruction of traffic accident scene using drone & Pix4D,Kim J.,2019-01-01,27,941-947,10.7467/KSAE.2019.27.12.941,SCOPUS_ID:85080085697
+433,Analysis of Dogs’s Abandonment Problem Using Georeferenced Multi-agent Systems,Ruiz-Chavez Z.,2019-01-01,11487 LNCS,297-306,10.1007/978-3-030-19651-6_29,SCOPUS_ID:85065970410
+434,Diagnostic analysis of the effects of weather condition on pedestrian crash severity,Zhai X.,2019-01-01,122,318-324,10.1016/j.aap.2018.10.017,SCOPUS_ID:85056150923
+435,Design of hazardous materials transportation safety management system under the vehicle-infrastructure connected environment,Yang X.,2019-01-01,2,14-24,10.1108/JICV-11-2018-0012,SCOPUS_ID:85079047332
+436,Integrating police reports with geographic information system resources for uncovering patterns of pedestrian crashes in Denmark,Prato C.G.,2019-01-01,74,10-23,10.1016/j.jtrangeo.2018.10.018,SCOPUS_ID:85055869234
+437,Image-based identification and GIS-integration of vehicle restraint systems and evaluation of safety effects,Stefan C.,2019-01-01,9,344-355,10.2495/SAFE-V9-N4-344-355,SCOPUS_ID:85085261368
+438,Detection of Anomalous Traffic Patterns and Insight Analysis from Bus Trajectory Data,Zhang X.,2019-01-01,11672 LNAI,307-321,10.1007/978-3-030-29894-4_26,SCOPUS_ID:85072862856
+439,Applicability of enhanced Interchange Safety Analysis Tool (ISATe) for local applications: A Florida case study,Saha D.,2019-01-01,49,129-144,10.4399/978882552809110,SCOPUS_ID:85074777881
+440,Relational model of accidents and vessel traffic using AIS Data and GIS: A case study of the Western port of Shenzhen City,Li M.,2019-01-01,7,,10.3390/jmse7060163,SCOPUS_ID:85069223407
+441,Applications of deep learning in severity prediction of traffic accidents,Sameen M.I.,2019-01-01,9,793-808,10.1007/978-981-10-8016-6_58,SCOPUS_ID:85060326067
+442,Investigating proximity of crash locations to aging pedestrian residences,Haule H.J.,2019-01-01,122,215-225,10.1016/j.aap.2018.10.008,SCOPUS_ID:85055739877
+443,Multi-sensor movement analysis for transport safety and health applications,Sila-Nowicka K.,2019-01-01,14,,10.1371/journal.pone.0210090,SCOPUS_ID:85060883462
+444,Spatial and factor analysis of vehicle crashes in Mississippi state,Bu L.,2018-12-01,94,1255-1276,10.1007/s11069-018-3475-9,SCOPUS_ID:85053709605
+445,Exploring spatial relationship between roadway safety and wet condition risk factors based on systemic safety analysis approach,Park S.,2018-12-01,24,,10.1061/(ASCE)IS.1943-555X.0000444,SCOPUS_ID:85051849899
+446,A state-wise performance appraisal of the Indian roads using PROMETHEE-GIS approach,Chakraborty S.,2018-11-29,25,3338-3356,10.1108/BIJ-03-2017-0053,SCOPUS_ID:85058014652
+447,Geographical information system analysis on road accidents involving wandering dogs in the urban area of Naples,Mennonna G.,2018-11-13,13,259-264,10.4081/gh.2018.628,SCOPUS_ID:85056737865
+448,Understanding the effects of trip patterns on spatially aggregated crashes with large-scale taxi GPS data,Bao J.,2018-11-01,120,281-294,10.1016/j.aap.2018.08.014,SCOPUS_ID:85052642287
+449,Research on the Map-matching and Spatial-temporal Visualization of Expressway Traffic Accident Information,Fang A.,2018-10-15,,23-27,10.1109/ICITE.2018.8492572,SCOPUS_ID:85057243113
+450,An analysis of the characteristics of road traffic injuries and a prediction of fatalities in China from 1996 to 2015,Wang L.,2018-10-03,19,749-754,10.1080/15389588.2018.1487061,SCOPUS_ID:85054530389
+451,"Prevalence of road traffic accidents in Iran: A systematic review, GIS and meta-analysis",Najimi-Varzaneh A.,2018-10-01,20,,10.5812/ircmj.83852,SCOPUS_ID:85056661428
+452,Territorial resilience: From concept to mountain critical infrastructures analysis,Tacnet J.M.,2018-10-01,2018-January,20-28,10.1051/lhb/2018047,SCOPUS_ID:85060889389
+453,Diagnosis on transport risk based on a combined assessment of road accidents and watershed vulnerability to spills of hazardous substances,Machado E.R.,2018-09-14,15,,10.3390/ijerph15092011,SCOPUS_ID:85053691957
+454,Portuguese mainland road network safety performance indicator,Viera Gomes S.,2018-09-01,6,416-422,10.1016/j.cstp.2017.10.006,SCOPUS_ID:85031498336
+455,"Geographic Information System for Mapping Potential of Traffic Congestion (Case Study : Setiabudi Street - Perintis Kemerdekaan Street, Semarang City)",Bashit N.,2018-07-03,165,,10.1088/1755-1315/165/1/012020,SCOPUS_ID:85050015908
+456,Effects of distance and rescue time to medical facilities on traffic mortality utilizing GIS,Hu W.,2018-07-03,25,329-335,10.1080/17457300.2018.1431931,SCOPUS_ID:85042237965
+457,Identification of Traffic Accident Clusters using Kulldorff's Space-Time Scan Statistics,Song J.,2018-07-02,,3162-3167,10.1109/BigData.2018.8622226,SCOPUS_ID:85062588430
+458,The vulnerability of the environment to spills of dangerous substances on highways: A diagnosis based on multi criteria modeling,Machado E.R.,2018-07-01,62,748-759,10.1016/j.trd.2017.10.012,SCOPUS_ID:85032349662
+459,Data analysis on traffic accident and urban crime: A case study in Toyota City,Ando R.,2018-06-01,7,103-113,10.1016/j.ijtst.2018.01.002,SCOPUS_ID:85066491129
+460,Access to trauma centers for road crashes in the United States,Hu W.,2018-06-01,65,21-27,10.1016/j.jsr.2018.02.006,SCOPUS_ID:85044090723
+461,The impacts of heavy rain on speed and headway Behaviors: An investigation using the SHRP2 naturalistic driving study data,Ahmed M.M.,2018-06-01,91,371-384,10.1016/j.trc.2018.04.012,SCOPUS_ID:85046349936
+462,Spatial-temporal cluster analysis of mortality from road traffic injuries using geographic information systems in West of Iran during 2009–2014,Zangeneh A.,2018-04-01,55,15-22,10.1016/j.jflm.2018.02.009,SCOPUS_ID:85042186388
+463,"Hot spot analysis based on network spatial weights to determine spatial statistics of traffic accidents in Rize, Turkey",Colak H.E.,2018-04-01,11,,10.1007/s12517-018-3492-8,SCOPUS_ID:85044943110
+464,"Alcohol and non-alcohol-related motor vehicle crashes in Perth, Australia: Do alcohol outlets make a difference?",Hobday M.,2018-04-01,113,117-124,10.1016/j.aap.2018.01.013,SCOPUS_ID:85041467412
+465,"A ride for whom: Has cycling network expansion reduced inequities in accessibility in Montreal, Canada?",Houde M.,2018-04-01,68,9-21,10.1016/j.jtrangeo.2018.02.005,SCOPUS_ID:85042395848
+466,Associating pedestrian crashes with demographic and socioeconomic factors,Chimba D.,2018-03-01,6,11-16,10.1016/j.cstp.2018.01.006,SCOPUS_ID:85041592994
+467,Geographical information systems-based bus stop accessibility and safety analysis-a case study of the coimbatore corporation,Sathish Kumar V.,2018-03-01,15,972-976,10.1166/jctn.2018.7185,SCOPUS_ID:85044402672
+468,"Road safety risk assessment: An analysis of transport policy and management for low-, middle-, and high-income Asian countries",Shah S.A.R.,2018-02-02,10,,10.3390/su10020389,SCOPUS_ID:85041520186
+469,Safety assessment on pedestrian crossing environments using MLS data,Soilán M.,2018-02-01,111,328-337,10.1016/j.aap.2017.12.009,SCOPUS_ID:85038948811
+470,Influence of pedestrian age and gender on spatial and temporal distribution of pedestrian crashes,Toran Pour A.,2018-01-02,19,81-87,10.1080/15389588.2017.1341630,SCOPUS_ID:85028535191
+471,"Assessing the Impact of Location on Hotel Development: An Analysis of Manhattan Hotels, 1822–2012",Li Y.,2018-01-02,4,21-33,10.1080/23754931.2017.1366356,SCOPUS_ID:85066496195
+472,Bicycle equity in Brazil: Access to safe cycling routes across neighborhoods in Rio de Janeiro and Curitiba,Tucker B.,2018-01-02,12,29-38,10.1080/15568318.2017.1324585,SCOPUS_ID:85020445354
+473,Considering built environment and spatial correlation in modeling pedestrian injury severity,Prato C.,2018-01-02,19,88-93,10.1080/15389588.2017.1329535,SCOPUS_ID:85026557784
+474,The development of road databases and analysis of traffic accident-prone section (blacksite) based on Geographic Information System (GIS),Bolla M.E.,2018-01-01,403,,10.1088/1757-899X/403/1/012062,SCOPUS_ID:85054900902
+475,The application of geographic information system (GIS) on five basic indicators of sustainable urban transport performance,Nadi P.A.,2018-01-01,224,267-281,10.1007/978-3-319-94180-6_26,SCOPUS_ID:85051119685
+476,Spatial analysis and statistics of pedestrian injuries in Curitiba through a grid database,Moroz C.B.,2018-01-01,2018-December,128-133,,SCOPUS_ID:85061043919
+477,"Using GIS to identify vehicle crash hot spots and unsafe crossroads – A case study of Kolkata, India",Hussain M.S.,2018-01-01,1,287-295,,SCOPUS_ID:85071890704
+478,Planar and network spatial analyses of road traffic accidents - A review of methods and tools,Hie Tan A.E.,2018-01-01,2018,,,SCOPUS_ID:85065728402
+479,GIS based spatial analysis of pedestrian crashes: A case study of South Carolina,Famili A.,2018-01-01,,368-376,10.1061/9780784481530.037,SCOPUS_ID:85050857769
+480,Differences in network-based kernel density estimation according to pedestrian network and road centerline network,Lee B.,2018-01-01,36,335-341,10.7848/ksgpc.2018.36.5.335,SCOPUS_ID:85066621651
+481,"Geospatial and environmental analysis of road traffic accidents in the city of Resistencia, Argentina",Chaparro M.,2018-01-01,14,139-151,10.18294/sc.2018.1207,SCOPUS_ID:85045259497
+482,Geospatial mapping can be used to identify geographic areas and social factors associated with intentional injury as targets for prevention efforts distinct to a given community,Lasecki C.H.,2018-01-01,84,70-74,10.1097/TA.0000000000001720,SCOPUS_ID:85039978764
+483,Presentation of modern accident reconstruction procedures - Case study,Vida G.,2018-01-01,0,487-494,10.1007/978-3-319-75677-6_42,SCOPUS_ID:85046973920
+484,Epidemiological study of hospitalized road traffic injuries in Iran 2011,Rasoul S.,2018-01-01,32,,10.14196/mjiri.32.50,SCOPUS_ID:85052206167
+485,Accidents involving motorcycles and potential years of life lost. An ecological and exploratory study,Pavanitto D.,2018-01-01,136,4-9,10.1590/1516-3180.2017.0098070817,SCOPUS_ID:85044620544
+486,The safety of transnational imported second-hand cars: A case study on vehicle-to-vehicle crashes in Romania,Coşciug A.,2017-12-20,9,,10.3390/su9122380,SCOPUS_ID:85038846007
+487,A spatially explicit analysis of traffic accidents involving pedestrians and cyclists in Berlin,Lakes T.,2017-12-01,60,1328-1335,10.1007/s00103-017-2639-1,SCOPUS_ID:85031907023
+488,Cloud based spatial visualization with statistical approach for road accidents,Pritee K.,2017-12-01,25,825-835,10.1007/s41324-017-0148-9,SCOPUS_ID:85075270753
+489,Investigating the effect of spatial and mode correlations on active transportation safety modeling,Osama A.,2017-12-01,16,60-74,10.1016/j.amar.2017.08.003,SCOPUS_ID:85029286224
+490,Geographically weighted regression model for urban traffic black-spot analysis,Ye Y.,2017-12-01,2017-July,4866-4869,10.1109/IGARSS.2017.8128093,SCOPUS_ID:85041865263
+491,Northern marine transportation corridors: Creation and analysis of northern marine traffic routes in Canadian waters,Chénier R.,2017-12-01,21,1085-1097,10.1111/tgis.12295,SCOPUS_ID:85038425751
+492,A dynamic spatiotemporal analysis model for traffic incident influence prediction on urban road networks,Liu C.,2017-11-01,6,,10.3390/ijgi6110362,SCOPUS_ID:85044599073
+493,How bicycle level of traffic stress correlate with reported cyclist accidents injury severities: A geospatial and mixed logit analysis,Chen C.,2017-11-01,108,234-244,10.1016/j.aap.2017.09.001,SCOPUS_ID:85029281075
+494,Geographic age and gender representation in volunteered cycling safety data: A case study of BikeMaps.org,Ferster C.J.,2017-11-01,88,144-150,10.1016/j.apgeog.2017.09.007,SCOPUS_ID:85016740872
+495,A comparison between prediction power of artificial neural networks and multivariate analysis in road safety management,De Luca M.,2017-10-02,32,379-385,10.3846/16484142.2014.995702,SCOPUS_ID:84922374968
+496,Effects of traffic volumes on accidents: The case of Romania’s national roads,Cadar R.D.,2017-10-01,12,20-29,10.21163/GT_2017.122.03,SCOPUS_ID:85032709956
+497,A Novel Approach for Identification and Ranking of Road Traffic Accident Hotspots,Zahran E.S.M.M.,2017-09-29,124,,10.1051/matecconf/201712404003,SCOPUS_ID:85031311924
+498,Spatio-temporal study of road traffic crash on a national highway of Bangladesh,Newaz K.M.S.,2017-09-20,,60-66,10.1109/ICTIS.2017.8047743,SCOPUS_ID:85032813526
+499,A new model for determining the traffic accident black spots using GIS-aided spatial statistical methods,Dereli M.A.,2017-09-01,103,106-117,10.1016/j.tra.2017.05.031,SCOPUS_ID:85020275958
+500,Evaluating the impacts of grades on vehicular speeds on interstate highways,Chen X.,2017-09-01,12,,10.1371/journal.pone.0184142,SCOPUS_ID:85029835385
+501,Road safety risk evaluation using GIS-based data envelopment analysis-artificial neural networks approach,Shah S.A.R.,2017-08-29,7,,10.3390/app7090886,SCOPUS_ID:85028849336
+502,Using geospatial mapping to determine the impact of all-terrain vehicle crashes on both rural and urban communities,Qin E.S.,2017-08-01,18,913-922,10.5811/westjem.2017.6.34404,SCOPUS_ID:85027872167
+503,"2017 International Symposium on Geoinformatics, ISyG 2017",,2017-07-02,2018-January,,,SCOPUS_ID:85172546792
+504,"The epidemiology and hotspots of road traffic injuries in Moshi, Tanzania: An observational study",Reardon J.M.,2017-07-01,48,1363-1370,10.1016/j.injury.2017.05.004,SCOPUS_ID:85019376089
+505,Distance matters: Effect of geographic trauma system resource organization on fatal motor vehicle collisions,Brown J.B.,2017-07-01,83,111-118,10.1097/TA.0000000000001508,SCOPUS_ID:85017617978
+506,Severity prediction of traffic accidents with recurrent neural networks,Sameen M.I.,2017-06-08,7,,10.3390/app7060476,SCOPUS_ID:85020286900
+507,"Factors associated with the occurrence of injuries requiring hospital transfer among older and working-age pedestrians in Kurume, Japan",Nagata T.,2017-06-02,17,,10.1186/s12889-017-4456-8,SCOPUS_ID:85020229828
+508,"GIS-based spatial analysis of urban traffic accidents: Case study in Mashhad, Iran",Shafabakhsh G.A.,2017-06-01,4,290-299,10.1016/j.jtte.2017.05.005,SCOPUS_ID:85020266006
+509,Spatial distribution of child pedestrian injuries along census tract boundaries: Implications for identifying area-based correlates,Curtis J.,2017-06-01,12,,10.1371/journal.pone.0179331,SCOPUS_ID:85020750080
+510,Where can the big rigs park?,Chromey T.,2017-05-01,80,18-21,,SCOPUS_ID:85020261556
+511,A multi criteria analog model for assessing the vulnerability of rural catchments to road spills of hazardous substances,Siqueira H.E.,2017-05-01,64,26-36,10.1016/j.eiar.2017.02.002,SCOPUS_ID:85013857406
+512,"Effective environmental factors on geographical distribution of traffic accidents on pedestrians, downtown Tehran city",Moradi A.,2017-04-01,7,101-106,10.4103/2229-5151.207750,SCOPUS_ID:85020804489
+513,A preliminary investigation of the relationships between historical crash and naturalistic driving,Pande A.,2017-04-01,101,107-116,10.1016/j.aap.2017.01.023,SCOPUS_ID:85013321928
+514,Towards a spatial data infrastructure for technological disasters: an approach for the road transportation of hazardous materials,Silva J.B.,2017-04-01,82,293-310,10.1007/s10708-015-9680-0,SCOPUS_ID:84944627457
+515,Adolescents’ perceptions of cycling versus walking to school: Understanding the New Zealand context,Mandic S.,2017-03-01,4,294-304,10.1016/j.jth.2016.10.007,SCOPUS_ID:85006036010
+516,Exploring spatial autocorrelation of traffic crashes based on severity,Soltani A.,2017-03-01,48,637-647,10.1016/j.injury.2017.01.032,SCOPUS_ID:85009971486
+517,"Introducing GIS as legitimate instrument to deal with road accident data: a case study of Iran, Tehran",Haji Mirza Aghasi N.,2017-02-01,25,151-159,10.1007/s41324-017-0083-9,SCOPUS_ID:85089784630
+518,Practical approach to determining traffic congestion propagation boundary due to traffic incidents,Fei W.p.,2017-02-01,24,413-422,10.1007/s11771-017-3443-7,SCOPUS_ID:85018394258
+519,GIS based surveillance of road traffic accidents (RTA) risk for Rawalpindi city: A geo-statistical approach,Butt A.,2017-01-01,44,129-134,,SCOPUS_ID:85036634988
+520,Identification of accident black-spots in 18 Michigan freeways using GIS,Ali A.,2017-01-01,,,,SCOPUS_ID:85021743493
+521,Spatial investigation of aging-involved crashes: A GIS-based case study in Northwest Florida,Ulak M.B.,2017-01-01,58,71-91,10.1016/j.jtrangeo.2016.11.011,SCOPUS_ID:85002152600
+522,Urbanization Challenges in Emerging Economies,Vyas V.,2017-01-01,,714-724,,SCOPUS_ID:85091330366
+524,The application of artificial intelligence in public administration for forecasting high crime risk transportation areas in urban environment,Kouziokas G.N.,2017-01-01,24,467-473,10.1016/j.trpro.2017.05.083,SCOPUS_ID:85020222902
+525,Traffic data acquirement by unmanned aerial vehicle,Salvo G.,2017-01-01,50,343-351,10.1080/22797254.2017.1328978,SCOPUS_ID:85042088435
+526,Segmentation and classification of road markings using MLS data,Soilán M.,2017-01-01,123,94-103,10.1016/j.isprsjprs.2016.11.011,SCOPUS_ID:85000900029
+527,"3rd International Symposium for Intelligent Transportation and Smart City, ITASC 2017",,2017-01-01,62,1-302,,SCOPUS_ID:85017503838
+528,"Using spatial network analysis to model pedal cycle flows, risk and mode choice",Cooper C.H.V.,2017-01-01,58,157-165,10.1016/j.jtrangeo.2016.12.003,SCOPUS_ID:85003691660
+529,Extraction of road geometric parameters from high resolution remote sensing images validated by GNSS/INS geodetic techniques,Cefalo R.,2017-01-01,10407 LNCS,181-195,10.1007/978-3-319-62401-3_14,SCOPUS_ID:85026766298
+530,Analysis of intrinsic factors contributing to urban road crashes,Raicu S.,2017-01-01,7,1-9,10.2495/SAFE-V7-N1-1-9,SCOPUS_ID:85053484373
+531,Traffic accident diagnosis in the last decade - A case study,Lúis I.,2016-12-22,,1678-1683,10.1109/ITSC.2016.7795784,SCOPUS_ID:85010073621
+532,Analysis of behaviour of vehicles using VGI data,Mozas-Calvache A.T.,2016-12-01,30,2486-2505,10.1080/13658816.2016.1181265,SCOPUS_ID:84965075988
+533,Exploring the association of rear-end crash propensity and micro-scale driver behavior,Kim S.K.,2016-11-01,89,45-54,10.1016/j.ssci.2016.05.016,SCOPUS_ID:84973312208
+534,"Hotspots and causes of motor vehicle crashes in Baltimore, Maryland: A geospatial analysis of five years of police crash and census data",Dezman Z.,2016-11-01,47,2450-2458,10.1016/j.injury.2016.09.002,SCOPUS_ID:84994126409
+535,Safe Routes to Play? Pedestrian and Bicyclist Crashes Near Parks in Los Angeles,Jerrett M.,2016-11-01,151,742-755,10.1016/j.envres.2016.07.029,SCOPUS_ID:84988904879
+536,A concise summary of spatial anomalies and its application in efficient real-time driving behaviour monitoring,Lam H.T.,2016-10-31,,,10.1145/2996913.2996989,SCOPUS_ID:85011063385
+537,Using qualitative study and GIS to explore road accident black areas in Algeria,Oulha R.,2016-10-03,44,209-214,10.3311/PPtr.8446,SCOPUS_ID:84990064158
+538,Development of operating mode distributions for different types of roadways under different congestion levels for vehicle emission assessment using MOVES,Qi Y.,2016-10-02,66,1003-1011,10.1080/10962247.2016.1194338,SCOPUS_ID:84988035829
+539,"Geographic information systems: Practical application to study car accidents involving pedestrians in cercado de Lima, Peru",Hernández-Vásquez A.,2016-10-01,33,725-731,10.17843/rpmesp.2016.334.2558,SCOPUS_ID:85013391521
+540,Rural casualty crashes on the Kings Highway: A new approach for road safety studies,Alian S.,2016-10-01,95,8-19,10.1016/j.aap.2016.06.005,SCOPUS_ID:84976631734
+541,A combination of geospatial and clinical analysis in predicting disability outcome after road traffic injury (rti) in a district in Malaysia,Nik Hisamuddin R.,2016-09-29,42,361-365,10.5194/isprs-archives-XLII-4-W1-361-2016,SCOPUS_ID:84993991950
+542,LIDAR-based roadway and roadside modelling for sight distance studies,Castro M.,2016-09-02,48,309-315,10.1179/1752270615Y.0000000037,SCOPUS_ID:84978496172
+543,"The epidemiology of road traffic injury hotspots in Kigali, Rwanda from police data",Patel A.,2016-08-02,16,,10.1186/s12889-016-3359-4,SCOPUS_ID:84987995215
+544,Influence of built environment on pedestrian crashes: A network-based GIS analysis,Dai D.,2016-08-01,73,53-61,10.1016/j.apgeog.2016.06.005,SCOPUS_ID:84976406227
+545,Using Geographic Information Systems (GIS) to Characterize Pediatric Pedestrian Motor Vehicle Accidents in the State of Delaware,Talati R.,2016-07-01,88,206-211,,SCOPUS_ID:85029680048
+546,Efficient road geometry identification from digital vector data,Andrášik R.,2016-07-01,18,249-264,10.1007/s10109-016-0230-1,SCOPUS_ID:84975121995
+547,"Suicides in commuting railway systems: The case of Stockholm county, Sweden",Ceccato V.,2016-07-01,198,206-221,10.1016/j.jad.2016.02.051,SCOPUS_ID:84961644244
+548,Identification of Black Spots on Highway with Kernel Density Estimation Method,Sandhu H.A.S.,2016-06-01,44,457-464,10.1007/s12524-015-0500-2,SCOPUS_ID:84957536081
+549,Spatial regression analysis of traffic crashes in Seoul,Rhee K.A.,2016-06-01,91,190-199,10.1016/j.aap.2016.02.023,SCOPUS_ID:84961774388
+550,What drives technology-based distractions? A structural equation model on social-psychological factors of technology-based driver distraction engagement,Chen H.Y.W.,2016-06-01,91,166-174,10.1016/j.aap.2015.08.015,SCOPUS_ID:84961768982
+551,Spatial Analysis Methods for Health Promotion and Education,Chaney R.A.,2016-05-01,17,408-415,10.1177/1524839915602438,SCOPUS_ID:84964997199
+552,The use of navigation systems in naturalistic driving,Knapper A.,2016-04-02,17,264-270,10.1080/15389588.2015.1077384,SCOPUS_ID:85000838040
+553,Computer simulation of impacts of a chlorine tanker truck accident,Brzozowska L.,2016-03-01,43,107-122,10.1016/j.trd.2015.12.001,SCOPUS_ID:84953863317
+554,Classification of routes on the basis of their danger based on Geographical Information Systems. SafeRoute project,Peiró Torres M.A.D.P.,2016-03-01,4,51-63,,SCOPUS_ID:84975048460
+555,Using mental mapping to unpack perceived cycling risk,Manton R.,2016-03-01,88,138-149,10.1016/j.aap.2015.12.017,SCOPUS_ID:84952767921
+556,Missing aircraft crash sites and spatial relationships to the last radar fix,Koester R.J.,2016-02-01,87,114-121,10.3357/AMHP.4396.2016,SCOPUS_ID:84965092224
+557,Breaking Out of Surveillance Silos: Integrative Geospatial Data Collection for Child Injury Risk and Active School Transport,Schuch L.,2016-02-01,93,36-52,10.1007/s11524-015-0006-9,SCOPUS_ID:84949770706
+558,An index for sight-hidden dips assessment,de Santos-Berbel C.,2016-02-01,169,24-33,10.1680/jtran.14.00043,SCOPUS_ID:85030661406
+559,The KDE+ software: a tool for effective identification and ranking of animal-vehicle collision hotspots along networks,Bíl M.,2016-02-01,31,231-237,10.1007/s10980-015-0265-6,SCOPUS_ID:84955350655
+560,High road utilizers surveys compared to police data for road traffic crash hotspot localization in Rwanda and Sri Lanka,Staton C.A.,2016-01-20,16,,10.1186/s12889-015-2609-1,SCOPUS_ID:84955246009
+561,Traffic collisions in space: four decades of advancement in applied GIS,Yao S.,2016-01-02,22,1-14,10.1080/19475683.2015.1085440,SCOPUS_ID:84956602235
+562,Application for visualization and analysis of traffic accident information,Lamr M.,2016-01-01,,1703-1709,,SCOPUS_ID:85013888144
+563,Conceptualizing Road Safety Management through a Territorialized Complex System: Context and Goals,Saint-Gérand T.,2016-01-01,4,19-33,10.1002/9781119307853.ch2,SCOPUS_ID:105000606301
+564,A case study to identify secondary crashes on interstate highways in Florida by using geographic information systems (GIS),Tian Y.,2016-01-01,2,103-112,,SCOPUS_ID:84982924018
+565,Spatial analysis and transportation system review for tourism areas in Jordan: Ajloun City as a case study,Al-Kheder S.A.,2016-01-01,10,501-514,,SCOPUS_ID:84996538845
+566,Accident and traffic analysis using GIS,Selvasofia A.S.D.,2016-01-01,2016,S103-S106,,SCOPUS_ID:84988663086
+567,Effect of wind induced on road accident along east coast expressway (ECE),Sundara P.,2016-01-01,11,8858-8862,,SCOPUS_ID:84985903417
+568,Cohort-based analysis structure for modeling driver behavior with an in-vehicle data recorder,Wu K.F.,2016-01-01,2601,24-32,10.3141/2601-04,SCOPUS_ID:85010874921
+569,GIS as a useful tool in public health policy during the Austerity period,Melidoniotis E.,2016-01-01,33,55-63,,SCOPUS_ID:84955314237
+570,Forecasting severity of traffic accidents using road geometry extracted from mobile laser scanning data,Sameen M.,2016-01-01,2,1357-1362,,SCOPUS_ID:85018414267
+571,Optimization of routes for hazardous materials transportation: A case study of fuel deliveries in Lisbon,Correia D.,2016-01-01,,357-361,10.5220/0005711703570361,SCOPUS_ID:84964815972
+572,Socio economic status and traumatic brain injury amongst pediatric populations: A spatial analysis in greater vancouver,Amram O.,2015-12-08,12,15594-15604,10.3390/ijerph121215009,SCOPUS_ID:84949256789
+573,Spatial analysis of geometric design consistency and road sight distance,Castro M.,2015-12-02,29,2061-2074,10.1080/13658816.2015.1037304,SCOPUS_ID:84942199956
+574,Spatial analysis of road mortality rates in Turkey,Tortum A.,2015-12-01,168,532-542,10.1680/jtran.14.00029,SCOPUS_ID:85019077638
+575,Assessment of ecological passages along road networks within the Mediterranean forest using GIS-based multi criteria evaluation approach,Gülci S.,2015-12-01,187,1-13,10.1007/s10661-015-5009-1,SCOPUS_ID:84949008973
+576,Find the butterfly: A social media based arterial incidents detection and causality analysis system,Fu K.,2015-11-03,03-06-November-2015,,10.1145/2820783.2820797,SCOPUS_ID:84961216804
+577,"Isochrones as indicators of the influence of traffic in public health: A visual simulation application in Ávila, Spain",Javier Otamendi F.,2015-10-09,12,12556-12576,10.3390/ijerph121012556,SCOPUS_ID:84944038548
+578,Effects of pavement surface conditions on traffic crash severity,Lee J.,2015-10-01,141,,10.1061/(ASCE)TE.1943-5436.0000785,SCOPUS_ID:84939834576
+579,The bioenergy potential of conservation areas and roadsides for biogas in an urbanized region,Van Meerbeek K.,2015-09-15,154,742-751,10.1016/j.apenergy.2015.05.007,SCOPUS_ID:84930670664
+580,"Spatial analysis of road traffic accidents with fatalities in Spain, 2008-2011",Gómez-Barroso D.,2015-09-01,29,24-29,10.1016/j.gaceta.2015.02.009,SCOPUS_ID:84962134104
+581,Route planning and cost analysis for travelling through the Arctic Northeast Passage using public 3D GIS,Chang K.Y.,2015-08-03,29,1375-1393,10.1080/13658816.2015.1030672,SCOPUS_ID:84938419736
+582,Safety performance function development for analysis of bridges,Mehta G.,2015-08-01,141,,10.1061/(ASCE)TE.1943-5436.0000776,SCOPUS_ID:84952306504
+583,A risk-informed ship collision alert system: Framework and application,Goerlandt F.,2015-08-01,77,182-204,10.1016/j.ssci.2015.03.015,SCOPUS_ID:84928317003
+584,Identifying the hot spot areas of road traffic accidents,W/Yohannes A.Y.,2015-07-13,9,358-370,10.14525/jjce.9.3.3077,SCOPUS_ID:84936952139
+585,Assessment pattern model for road accident rates in urban areas of Bogota D.C. (Colombia),Cerquera Escobar F.Á.,2015-07-01,4,16-32,,SCOPUS_ID:84948433818
+586,Exploring spatial non-stationarity and varying relationships between crash data and related factors using geographically weighted poisson regression,Shariat-Mohaymany A.,2015-04-01,19,321-337,10.1111/tgis.12107,SCOPUS_ID:85027936407
+587,Characteristics of winter-precipitation-related transportation fatalities in the United States,Black A.W.,2015-04-01,7,133-145,10.1175/WCAS-D-14-00011.1,SCOPUS_ID:84940664275
+588,Traffic safety prediction model for identifying spatial degrees of exposure to the risk of road accidents based on fuzzy logic approach,Driss M.,2015-03-16,30,243-257,10.1080/10106049.2014.883554,SCOPUS_ID:84924607195
+589,Spatial analysis of two-wheeled vehicles traffic crashes: Osmaniye in Turkey,Yalcin G.,2015-02-06,19,2225-2232,10.1007/s12205-015-0661-0,SCOPUS_ID:84946487176
+590,A new scalable reactive location based ad hoc routing protocol for VANETs,Rajesh K.,2015-02-05,,,10.1109/ICICES.2014.7033848,SCOPUS_ID:84925308343
+591,Safety classification using GIS in decision-making process to define priority road interventions,Rodrigues D.S.,2015-02-01,43,101-110,10.1016/j.jtrangeo.2015.01.007,SCOPUS_ID:84922621227
+592,Automatic horizontal curve identification and measurement method using GPS data,Ai C.,2015-02-01,141,,10.1061/(ASCE)TE.1943-5436.0000740,SCOPUS_ID:84921324572
+593,Emergency care facility access in rural areas within the golden hour?: Western Cape case study,Vanderschuren M.,2015-01-16,14,,10.1186/1476-072X-14-5,SCOPUS_ID:84924855574
+594,Traffic accident analysis using GIS: A case study of Kyrenia City,Kara C.,2015-01-01,9535,,10.1117/12.2192435,SCOPUS_ID:84938918340
+595,A model suggestion for the determination of the traffic accident hotspots on the turkish highway road network: A pilot study,Erdogan S.,2015-01-01,21,169-188,10.1590/S1982-21702015000100011,SCOPUS_ID:84925606296
+596,3D GIS based evaluation of the available sight distance to assess safety of urban roads,Bassani M.,2015-01-01,40,137-143,10.5194/isprsarchives-XL-3-W3-137-2015,SCOPUS_ID:84952768717
+597,The Influence of Bicycle Oriented Facilities on Bicycle Crashes within Crash Concentrated Areas,Kim D.,2015-01-01,16,70-75,10.1080/15389588.2014.895924,SCOPUS_ID:84907801245
+598,High crash areas resulting in injuries and deaths in Tehran traffic areas from november 2011 through february 2012: A geographic information system analysis,Salamati P.,2015-01-01,29,,,SCOPUS_ID:84937551546
+599,Spatial and temporal pattern of road accidents and casualties in peninsular Malaysia,Shahid S.,2015-01-01,76,57-65,10.11113/jt.v76.5843,SCOPUS_ID:84944544087
+600,Route network planning for children safer journey to school,Aziz I.,2015-01-01,28,53-59,,SCOPUS_ID:84943238732
+601,Terrain model resolution effect on sight distance on roads,Castro M.,2015-01-01,59,165-172,10.3311/PPci.7658,SCOPUS_ID:84929330497
+602,Effects of geodemographic profiles of drivers on their injury severity from traffic crashes using multilevel mixed-effects ordered logit model,Quddus M.,2015-01-01,2514,149-157,10.3141/2514-16,SCOPUS_ID:84962756339
+603,Mapping cyclist activity and injury risk in a network combining smartphone GPS data and bicycle counts,Strauss J.,2015-01-01,83,132-142,10.1016/j.aap.2015.07.014,SCOPUS_ID:84954233612
+604,Taking the tyke on a bike: Mothers’ and childless women’s space–time geographies in Amsterdam compared,Eyer A.,2015-01-01,47,691-708,10.1068/a140373p,SCOPUS_ID:84925449123
+605,Methodological approach to spatiotemporal optimization of rural freeway enforcement in Florida,Carrick G.,2014-12-01,2425,1-9,10.3141/2425-01,SCOPUS_ID:84907264860
+606,Traffic incident validation and correlation using text alerts and images,Yan W.,2014-11-04,04-07-November-2014,601-604,10.1145/2666310.2666379,SCOPUS_ID:84961207552
+607,An efficient reactive location based ad hoc routing protocol for VANETs,Rajesh K.,2014-10-12,,468-471,10.1109/ICoAC.2013.6921995,SCOPUS_ID:84911090130
+608,Effects of rainfall intensity on traffic crashes in hong kong,Yun Yuan L.,2014-10-01,167,343-350,10.1680/tran.12.00087,SCOPUS_ID:84914174613
+609,Analysis of intra-urban traffic accidents using spatiotemporal visualization techniques,Soltani A.,2014-09-01,15,227-232,10.2478/ttj-2014-0020,SCOPUS_ID:84924910636
+610,Contributing factors to vehicle to vehicle crash frequency and severity under rainfall,Jung S.,2014-09-01,50,1-10,10.1016/j.jsr.2014.01.001,SCOPUS_ID:84893870006
+611,Decision support system design for rail transport of hazardous materials,Zhao R.,2014-08-01,167,217-231,10.1680/tran.12.00015,SCOPUS_ID:84931075710
+612,Geo-based statistical models for vulnerability prediction of highway network segments,Pollak K.,2014-06-01,3,619-637,10.3390/ijgi3020619,SCOPUS_ID:84948990102
+613,The Road Accident Analyzer: A Tool to Identify High-Risk Road Locations,Van Raemdonck K.,2014-04-01,6,130-151,10.1080/19439962.2013.826314,SCOPUS_ID:84893302428
+614,"Proactive approaches to audit pedestrian safety locations, a model for developing countries",Chimba D.,2014-03-04,,160-165,10.1109/SCAT.2014.7055123,SCOPUS_ID:84949928192
+615,Characterizing Bicycle Collisions by Neighborhood in a Large Midwestern City,Chaney R.,2014-03-01,15,232-242,10.1177/1524839913505283,SCOPUS_ID:84893913042
+616,"2013 International Conference on Structural Engineering, Vibration and Aerospace Engineering, SEVAE 2013",,2014-01-17,482,,,SCOPUS_ID:84892155083
+617,Environmental risk analysis of hazardous material rail transportation,Saat M.R.,2014-01-15,264,560-569,10.1016/j.jhazmat.2013.10.051,SCOPUS_ID:84891142421
+618,GIS framework for hierarchical Bayesian based crash data analysis,Schultz G.G.,2014-01-01,,477-486,10.1061/9780784413586.046,SCOPUS_ID:84933522752
+619,Road traffic accident analysis of Ajmer City using remote sensing and GIS technology,Bhalla P.,2014-01-01,40,1455-1462,10.5194/isprsarchives-XL-8-1455-2014,SCOPUS_ID:84924267309
+620,Determining strategic locations for environmental sensor stations with weather-related crash data,Jin P.J.,2014-01-01,2440,34-42,10.3141/2440-05,SCOPUS_ID:84938526514
+621,"Estimation of vehicle damage cost involved in road traffic accidents in karachi, pakistan: A geospatial perspective",Kazmi J.,2014-01-01,77,70-78,10.1016/j.proeng.2014.07.008,SCOPUS_ID:84923301553
+622,Geographic Information System to support managing of obstacles in Visual Segment Surface,Dos Santos F.A.B.,2014-01-01,20,504-525,10.1590/S1982-21702014000300029,SCOPUS_ID:84907236743
+623,The study of port functions in koper with help of geographic information systems,Prah K.,2014-01-01,23,73-80,,SCOPUS_ID:84928261528
+624,Procedia Engineering,,2014-01-01,77,242,,SCOPUS_ID:84923412903
+625,Hotzone identification with GIS-based post-network screening analysis,Young J.,2014-01-01,34,106-120,10.1016/j.jtrangeo.2013.11.007,SCOPUS_ID:84890237038
+626,The design and implementation of traffic management system based on supermap,Yu M.,2014-01-01,587-589,2105-2108,10.4028/www.scientific.net/AMM.587-589.2105,SCOPUS_ID:84904965642
+627,Empirical estimation of school siting parameter towards improving children's safety,Aziz I.,2014-01-01,18,,10.1088/1755-1315/18/1/012076,SCOPUS_ID:84902326251
+628,Integration of geospatial multi-mode transportation systems in Kuala Lumpur,Ismail M.A.,2014-01-01,20,,10.1088/1755-1315/20/1/012027,SCOPUS_ID:84906542844
+629,Vehicle miles traveled and the built environment: Evidence from vehicle safety inspection data,Diao M.,2014-01-01,46,2991-3009,10.1068/a140039p,SCOPUS_ID:84916624271
+630,"Pedestrian safety initiative in Montgomery County, Maryland: Data-driven approach to coordinating engineering, education, and enforcement",Dunckel J.,2014-01-01,2464,100-108,10.3141/2464-13,SCOPUS_ID:84938581483
+631,Not just a rural occurrence: Differences in agricultural equipment crash characteristics by rural-urban crash site and proximity to town,Harland K.K.,2014-01-01,70,8-13,10.1016/j.aap.2014.02.013,SCOPUS_ID:84897424553
+632,Traffic analysis and road accidents: A case study of Hyderabad using GIS,Bhagyaiah M.,2014-01-01,20,,10.1088/1755-1315/20/1/012026,SCOPUS_ID:84906542845
+633,Risk Factors Associated with Crash Severity on Low-Volume Rural Roads in Denmark,Prato C.G.,2014-01-01,6,1-20,10.1080/19439962.2013.796027,SCOPUS_ID:84885156119
+634,A web-based geospatial toolkit for the monitoring of dengue fever,Delmelle E.,2014-01-01,52,144-152,10.1016/j.apgeog.2014.05.007,SCOPUS_ID:84902006307
+635,An application of ITS devices for powered two-wheelers safety analysis: The Rome case study,Sgarra V.,2014-01-01,,85-96,10.4399/97888548728997,SCOPUS_ID:84904768068
+636,Significant route discovery: A summary of results,Oliver D.,2014-01-01,8728,284-300,10.1007/978-3-319-11593-1_19,SCOPUS_ID:84921420957
+637,Time and distance to first accident and driving patterns of young drivers with pay-as-you-drive insurance,Ayuso M.,2014-01-01,73,125-131,10.1016/j.aap.2014.08.017,SCOPUS_ID:84907435932
+638,An analysis of different sensors for turnout detection for train-borne localization systems,Stein D.,2014-01-01,135,827-838,10.2495/CR140691,SCOPUS_ID:84903701063
+639,Free-Flow travel speed analysis and monitoring at the national level using global positioning system measurements,Bekhor S.,2013-11-26,139,1235-1243,10.1061/(ASCE)TE.1943-5436.0000607,SCOPUS_ID:84888018901
+640,"Analysis of pedestrian accidents using a geographical information system (GIS) in Konya city, Turkey",Avci C.,2013-11-25,134,495-501,10.2495/SAFE130441,SCOPUS_ID:84887898772
+641,"5th International Conference on Safety and Security Engineering, SAFE 2013",,2013-11-25,134,,,SCOPUS_ID:84887859086
+642,"2013 3rd International Conference on Materials Science and Information Technology, MSIT 2013",,2013-11-06,756-759,,,SCOPUS_ID:84886777089
+643,"High-risk road accident corridors in Dhaka, Bangladesh",Ahmed I.,2013-10-31,65,61-65,10.11113/jt.v65.2147,SCOPUS_ID:84887213893
+644,Spatiotemporal analysis of vehicle collisions involving wild boar and roe deer in NW Spain,Rodríguez-Morales B.,2013-09-30,60,121-133,10.1016/j.aap.2013.07.032,SCOPUS_ID:84884551308
+645,A Poisson-lognormal conditional-autoregressive model for multivariate spatial analysis of pedestrian crash counts across neighborhoods,Wang Y.,2013-09-18,60,71-84,10.1016/j.aap.2013.07.030,SCOPUS_ID:84883875745
+646,"A fuzzy logic model for identifying spatial degrees of exposure to the risk of road accidents (Case study of the Wilaya of Mascara, Northwest of Algeria)",Driss M.,2013-09-09,,69-74,10.1109/ICAdLT.2013.6568437,SCOPUS_ID:84883416132
+647,Daily mobility and traffic risk in the Urban Community of Lille,Propeck E.,2013-09-09,,258-262,10.1109/ICAdLT.2013.6568469,SCOPUS_ID:84883368089
+648,"AVRA Bangladesh collection, analysis & visualization of road accident data in Bangladesh",Solaiman K.M.A.,2013-09-09,,,10.1109/ICIEV.2013.6572632,SCOPUS_ID:84883430601
+649,An experimental analysis of driver's attitudes towards in-vehicle warning system at stop sign controlled intersection,Ming Y.,2013-09-05,361-363,2224-2231,10.4028/www.scientific.net/AMM.361-363.2224,SCOPUS_ID:84883263824
+650,Impact of pavement conditions on crash severity,Li Y.,2013-08-05,59,399-406,10.1016/j.aap.2013.06.028,SCOPUS_ID:84880897356
+651,"Analysis of pedestrian accidents in Irbid City, Jordan",Al-Omari B.H.,2013-06-25,7,1-6,,SCOPUS_ID:84876070896
+652,Using geographical information systems to organize police patrol routes effectively by grouping hotspots of crash and crime data,Kuo P.F.,2013-06-01,30,138-148,10.1016/j.jtrangeo.2013.04.006,SCOPUS_ID:84878579501
+653,"Spatial environmental risk factors for pedestrian injury collisions in Ciudad Juárez, Mexico (2008-2009): Implications for urban planning",Fuentes C.M.,2013-06-01,20,169-178,10.1080/17457300.2012.724690,SCOPUS_ID:84878563851
+654,A spatial autocorrelation-based approach for identifying hot spots on urban road,Jiang H.,2013-05-01,41,664-669,10.3969/j.issn.0253-374x.2013.05.005,SCOPUS_ID:84879548771
+655,An exploratory study of surface characteristics and crash occurrence on selected roads in Australia,Cairney P.,2013-05-01,,1-89,,SCOPUS_ID:84889850793
+656,Investigation of road network features and safety performance,Wang X.,2013-04-22,56,22-31,10.1016/j.aap.2013.02.026,SCOPUS_ID:84876245603
+657,The use of a quasi-naturalistic riding method to investigate bicyclists' behaviors when motorists pass,Chuang K.,2013-04-22,56,32-41,10.1016/j.aap.2013.03.029,SCOPUS_ID:84876240916
+658,"Ethnic, socioeconomic and geographical inequalities in road traffic injury rates in the Auckland region",Hosking J.,2013-04-01,37,162-167,10.1111/1753-6405.12034,SCOPUS_ID:84876006807
+659,A survey on abrupt environmental pollution accidents in china from 2000 to 2010,Lin N.,2013-03-18,664,342-347,10.4028/www.scientific.net/AMR.664.342,SCOPUS_ID:84874828084
+660,GIS-based method for detecting high-crash-risk road segments using network kernel density estimation,Mohaymany A.S.,2013-01-01,16,113-119,10.1080/10095020.2013.766396,SCOPUS_ID:84880984108
+661,Intersection road accident analysis using geographical information systems: Antalya (Turkey) example,Ertunc E.,2013-01-01,,,10.1109/ICAICT.2013.6722713,SCOPUS_ID:84894216421
+662,"A geographic information system-based analysis of ambulance station coverage area in Samsun, Turkey",Terzi O.,2013-01-01,54,653-658,10.11622/smedj.2013228,SCOPUS_ID:84887901057
+663,Geographical unit based analysis in the context of transportation safety planning,Abdel-Aty M.,2013-01-01,49,62-75,10.1016/j.tra.2013.01.030,SCOPUS_ID:84873963669
+664,"American association for the surgery of trauma prevention committee topical overview: National trauma data bank, geographic information systems, and teaching injury prevention",Crandall M.,2013-01-01,206,709-713,10.1016/j.amjsurg.2013.07.002,SCOPUS_ID:84886723036
+665,"A spatial and temporal analysis of child pedestrian crashes in Santiago, Chile",Blazquez C.,2013-01-01,50,304-311,10.1016/j.aap.2012.05.001,SCOPUS_ID:84870293408
+666,"Corridor-level signalized intersection safety analysis in Shanghai, China using Bayesian hierarchical models",Xie K.,2013-01-01,50,25-33,10.1016/j.aap.2012.10.003,SCOPUS_ID:84868598382
+667,Modeling safety in Utah,Schultz G.G.,2013-01-01,,71-78,,SCOPUS_ID:84893358269
+668,High accuracy tightly-coupled integrity monitoring algorithm for map-matching,Li L.,2013-01-01,36,13-26,10.1016/j.trc.2013.07.009,SCOPUS_ID:84883808957
+669,Effects of drink driving on crash risk based on random breath test data,Li Y.C.,2013-01-01,20,146-154,10.1177/102490791302000304,SCOPUS_ID:84878340286
+670,Distinguishing between rural and urban road segment traffic safety based on zero-inflated negative binomial regression models,Yan X.,2012-12-26,2012,,10.1155/2012/789140,SCOPUS_ID:84871365321
+671,Temporal and spatial impacts of rainfall intensity on traffic accidents in Hong Kong,Li D.,2012-12-01,,333-339,,SCOPUS_ID:84896690945
+672,Spatial patterns analysis of urban road traffic accidents based on gis,Gao D.,2012-12-01,2012,1898-1901,10.1049/cp.2012.1363,SCOPUS_ID:84877781134
+673,Integrated system of telecommunication for the automation of monitoring based on GIS. application to a road network,El Houssaini S.,2012-11-28,63,44-53,,SCOPUS_ID:84869784299
+674,"2012 International Conference on Civil, Architectural and Hydraulic Engineering, ICCAHE 2012",,2012-11-26,209-211,,,SCOPUS_ID:84870394698
+675,On the significance of omitted variables in intersection crash modeling,Mitra S.,2012-11-01,49,439-448,10.1016/j.aap.2012.03.014,SCOPUS_ID:84867083361
+676,Spatial-temporal analysis on traffic accidents of chemical products transportation in China,Wang Y.q.,2012-10-16,550-553,3420-3424,10.4028/www.scientific.net/AMR.550-553.3420,SCOPUS_ID:84867283202
+677,"Body mass index, safety hazards, and neighborhood attractiveness",Lovasi G.S.,2012-10-01,43,378-384,10.1016/j.amepre.2012.06.018,SCOPUS_ID:84866392260
+678,Geocoding coronial data: Tools and techniques to improve data quality,Freestone D.,2012-10-01,41,4-12,10.1177/183335831204100301,SCOPUS_ID:84867801519
+679,Design and analysis of traffic information sharing platform based on GIS,Wei D.,2012-09-01,6,269-278,10.4156/jdcta.vol6.issue17.29,SCOPUS_ID:84866992252
+680,Automatic determination of traffic accidents based on KMC-based attribute weighting,Polat K.,2012-09-01,21,1271-1279,10.1007/s00521-011-0559-9,SCOPUS_ID:84865658230
+681,The roles of exposure and speed in road safety analysis,Pei X.,2012-09-01,48,464-471,10.1016/j.aap.2012.03.005,SCOPUS_ID:84861899720
+682,Spatial Analysis along Networks: Statistical and Computational Methods,Okabe A.,2012-06-22,,1-288,10.1002/9781119967101,SCOPUS_ID:84949809073
+683,Safety evaluation for signalized intersections using GIS techniques and statistic analysis,Zhang C.,2012-06-06,178-181,2725-2730,10.4028/www.scientific.net/AMM.178-181.2725,SCOPUS_ID:84861744561
+684,Multidisciplinary efforts toward sustained road safety benefits: Integrating place-based and people-based safety analyses,Loo B.,2012-05-01,19,58-63,10.1136/injuryprev-2012-040400,SCOPUS_ID:84872906696
+685,Deaths from road injuries in Argentina: A spatial analysis for the 2001-2009 period,Leveau C.M.,2012-05-01,31,439-442,10.1590/S1020-49892012000500013,SCOPUS_ID:84864215963
+686,"Spatial exploratory analysis of road accidents in Ciudad Juarez, Mexico",Hernández V.,2012-05-01,31,396-402,10.1590/S1020-49892012000500007,SCOPUS_ID:84864272099
+687,Road traffic injury incidence and crash characteristics in Dar es Salaam: A population based study,Zimmerman K.,2012-03-01,45,204-210,10.1016/j.aap.2011.06.018,SCOPUS_ID:84856089919
+688,Prediction model of freeway network traffic incident radiation scope,Cong H.,2012-03-01,40,414-422,10.3969/j.issn.0253-374x.2012.03.015,SCOPUS_ID:84861443586
+689,A Geographic analysis of collisions involving child pedestrians in a large Southern California county,Chakravarthy B.,2012-03-01,13,193-198,10.1080/15389588.2011.642034,SCOPUS_ID:84859595080
+690,Mapping commuter cycling risk in urban areas,Yiannakoulias N.,2012-03-01,45,164-172,10.1016/j.aap.2011.12.002,SCOPUS_ID:84855722895
+691,Under-reporting of road traffic mortality in developing countries: Application of a capture-recapture statistical model to refine mortality estimates,Samuel J.C.,2012-02-15,7,,10.1371/journal.pone.0031091,SCOPUS_ID:84857094673
+692,"Impact of bus rapid transit systems on road safety: Lessons from Bogotá, Colombia",Bocarejo J.P.,2012-01-01,2317,1-7,10.3141/2317-01,SCOPUS_ID:85025820047
+693,Geographical information systems,Loo B.,2012-01-01,,447-463,10.1007/978-1-4614-1599-2_24,SCOPUS_ID:84881530884
+694,"Spatial analysis of deaths due to traffic accidents, before and after the Brazilian Drinking and Driving Law, in micro-regions of the state of São Paulo, Brazil",Nunes M.N.,2012-01-01,58,685-690,10.1590/s0104-42302012000600013,SCOPUS_ID:84875504017
+695,"All-Terrain Vehicle Injuries in Texas, Mapping the Path to Intervention with a Geographic Information System",Huff S.,2012-01-01,17,51-62,10.1080/1059924X.2012.632206,SCOPUS_ID:84855427642
+696,Analysis of pediatric all-terrain vehicle trauma data in Middle Tennessee: implications for injury prevention.,Unni P.,2012-01-01,73,S277-280,,SCOPUS_ID:84872041060
+697,Comparison of two warning concepts of an intelligent Curve Warning system for motorcyclists in a simulator study,Huth V.,2012-01-01,44,118-125,10.1016/j.aap.2011.04.023,SCOPUS_ID:80755190119
+698,"Spatial pattern analysis of cruise ship-humpback whale interactions in and near glacier bay national park, Alaska",Harris K.,2012-01-01,49,44-54,10.1007/s00267-011-9754-9,SCOPUS_ID:84856733928
+699,Highway safety metrics implementation and evaluation using a geographic information system-based screening tool,Wellner A.,2011-12-01,,1-9,10.3141/2241-01,SCOPUS_ID:84855376402
+700,The research of vehicle information monitoring system based on WEBGIS,Hu C.,2011-12-01,3,1887-1890,10.1109/ICCSNT.2011.6182338,SCOPUS_ID:84860643503
+701,Spatial and temporal visualisation techniques for crash analysis,Plug C.,2011-11-01,43,1937-1946,10.1016/j.aap.2011.05.007,SCOPUS_ID:79961173949
+702,Targeting pediatric pedestrian injury prevention efforts: Teasing the information through spatial analysis,Statter M.,2011-11-01,71,S511-S516,10.1097/TA.0b013e31823a4b70,SCOPUS_ID:84863677469
+703,Research on dynamic display system of highway traffic incident information based on GIS,Wang X.,2011-10-11,99-100,264-267,10.4028/www.scientific.net/AMM.99-100.264,SCOPUS_ID:80053465651
+704,Identification of black spot on traffic accidents and its spatial association analysis based on geographic information system,Chen Y.,2011-10-06,1,143-150,10.1109/ICNC.2011.6021904,SCOPUS_ID:80053432260
+705,Longitudinal evaluation of a GIS laboratory in a transportation engineering course,Bham G.H.,2011-10-01,137,258-266,10.1061/(ASCE)EI.1943-5541.0000064,SCOPUS_ID:81855224782
+706,"Trauma center accessibility for road traffic injuries in Hanoi, Vietnam",Nagata T.,2011-09-30,5,,10.1186/1752-2897-5-11,SCOPUS_ID:84864345301
+707,The study of rescue system construction based on GIS-T for urban road traffic accident,Xiao D.,2011-09-26,,291-295,10.1109/ISCCS.2011.85,SCOPUS_ID:80053032964
+708,The visualization aids and traffic accident reconstruction,Wang S.C.,2011-09-09,,1224-1230,10.1061/41177(415)156,SCOPUS_ID:80052399807
+709,Use of GIS for marine accident data analysis visualization,Mao Z.,2011-09-09,,2667-2674,10.1061/41177(415)336,SCOPUS_ID:80052412157
+710,Are rural older drivers subject to low-mileage bias?,Hanson T.,2011-09-01,43,1872-1877,10.1016/j.aap.2011.04.028,SCOPUS_ID:79958239860
+711,Identification method of road hot zone based on GIS,Loo B.P.Y.,2011-08-01,11,97-102,,SCOPUS_ID:80052658290
+712,The geography of deterrence: Exploring the small area effects of sobriety checkpoints on alcohol-impaired collision rates within a city,Nunn S.,2011-08-01,35,354-378,10.1177/0193841X11405139,SCOPUS_ID:81255179462
+713,The impact of the 'school run' on road traffic accidents: A spatio-temporal analysis,Kingham S.,2011-07-01,19,705-711,10.1016/j.jtrangeo.2010.08.011,SCOPUS_ID:79957487696
+714,"Application of geographical information system (GIS) for mapping road traffic injuries using existing source of data in karachi, pakistan - a pilot study",Razzak J.A.,2011-07-01,61,640-643,,SCOPUS_ID:79959769151
+715,Clustering analysis of the districts in Erzurum for traffic accidents between 2002 and 2007,Tortum A.,2011-07-01,6,2850-2857,,SCOPUS_ID:79960889043
+716,Pediatric craniofacial fractures due to violence: Comparing violent and nonviolent mechanisms of injury,Mericli A.F.,2011-07-01,22,1342-1347,10.1097/SCS.0b013e31821c944c,SCOPUS_ID:80051552321
+717,GIS measured environmental correlates of active school transport: A systematic review of 14 studies,Wong B.Y.M.,2011-05-06,8,,10.1186/1479-5868-8-39,SCOPUS_ID:79955643945
+718,A new approach for GIS-supported mapping of traffic accidents,Gundogdu I.B.,2011-05-01,164,87-96,10.1680/tran.2011.164.2.87,SCOPUS_ID:79953229225
+719,"Context sensitive multimodal road planning: A case study in Cape Town, South Africa",Beukes E.A.,2011-05-01,19,452-460,10.1016/j.jtrangeo.2010.08.014,SCOPUS_ID:79953326120
+720,Effects of Pay-As-You-Drive vehicle insurance on young drivers' speed choice: Results of a Dutch field experiment,Bolderdijk J.W.,2011-05-01,43,1181-1186,10.1016/j.aap.2010.12.032,SCOPUS_ID:79952454779
+721,Patterns of otter Lutra lutra road mortality in a landscape abundant in lakes,Jancke S.,2011-04-01,57,373-381,10.1007/s10344-010-0442-5,SCOPUS_ID:79952815332
+722,"A framework for traffic accident scene investigation with GPS VRS, road database and stereo vision integration",Hu Q.,2011-02-23,,,10.1109/M2RSM.2011.5697391,SCOPUS_ID:79951750770
+723,Subtractive clustering attribute weighting (SCAW) to discriminate the traffic accidents on Konya-Afyonkarahisar highway in Turkey with the help of GIS: A case study,Polat K.,2011-01-01,42,491-500,10.1016/j.advengsoft.2011.04.001,SCOPUS_ID:79958096993
+724,GeoTAIS: An application of spatial analysis for traffic safety improvements on provincial highways in Saskatchewan,Denham B.,2011-01-01,,,,SCOPUS_ID:84896977633
+725,Sight distance analysis of highways using GIS tools,Castro M.,2011-01-01,19,997-1005,10.1016/j.trc.2011.05.012,SCOPUS_ID:79960451455
+726,Using GIS to identify pedestrian- vehicle crash hot spots and unsafe bus stops,Truong L.T.,2011-01-01,14,99-114,10.5038/2375-0901.14.1.6,SCOPUS_ID:84863806178
+727,SafeRoadMaps: Communication of location and density of traffic fatalities through spatial visualization and heat map analysis,Hilton B.N.,2011-01-01,10,82-96,10.1057/ivs.2010.14,SCOPUS_ID:80054800141
+728,Exploring the Boundaries of Web Map Services: The Example of the Online Injury Atlas for Ontario,Rinner C.,2011-01-01,15,129-145,10.1111/j.1467-9671.2011.01247.x,SCOPUS_ID:79953316615
+729,Research and implement of traffic accident analysis system based on accident black spot,Ye J.,2010-12-01,,1805-1809,10.1109/ICCSE.2010.5593800,SCOPUS_ID:78649440565
+730,Developing real time model for road safety measures in Nigeria using geographical information systems and remote sensing,Alade T.,2010-12-01,10,8081-8087,,SCOPUS_ID:79959424802
+731,Spatial analysis and modeling of traffic incidents for proactive incident management and strategic planning,Khattak A.J.,2010-12-01,,128-137,10.3141/2178-14,SCOPUS_ID:78951486013
+732,Efficiencies in Web-Based Crash Reporting,Carmody M.,2010-12-01,,75-81,,SCOPUS_ID:84873495618
+733,Street network types and road safety: A study of 24 California cities,Marshall W.E.,2010-09-28,15,133-147,10.1057/udi.2009.31,SCOPUS_ID:77956964919
+734,An intelligent traffic information service system based on agent and GIS-T,Zhang J.,2010-09-02,,2791-2794,10.1109/MACE.2010.5536501,SCOPUS_ID:77956092588
+735,Identifying targets for potential interventions to reduce rural trauma deaths: A population-based analysis,Gomez D.,2010-09-01,69,633-639,10.1097/TA.0b013e3181b8ef81,SCOPUS_ID:77957590306
+736,Applying linear analysis methods to GIS-supported procedures for preventing traffic accidents: Case study of Konya,Gundogdu I.B.,2010-07-01,48,763-769,10.1016/j.ssci.2010.02.016,SCOPUS_ID:77951090251
+737,Traffic management in Konya by junction risk factor,Gundogdu I.B.,2010-06-01,163,99-105,10.1680/muen.2010.163.2.99,SCOPUS_ID:79551581474
+738,"Data acquisition, analysis and transmission platform for a Pay-As-You-Drive system",Boquete L.,2010-06-01,10,5395-5408,10.3390/s100605395,SCOPUS_ID:77954790813
+739,Moving Beyond Traditional Measurement of Mortality after Injury: Evaluation of Risks for Late Death,Claridge J.,2010-05-01,210,788-794,10.1016/j.jamcollsurg.2009.12.035,SCOPUS_ID:77952308869
+740,Integration of a geographic information system and evolutionary computation for automatic routing in coastal navigation,Tsou M.C.,2010-04-01,63,323-341,10.1017/S0373463309990385,SCOPUS_ID:77953575219
+741,Development of planning level transportation safety tools using Geographically Weighted Poisson Regression,Hadayeghi A.,2010-03-01,42,676-688,10.1016/j.aap.2009.10.016,SCOPUS_ID:76049106306
+742,Motor vehicle and pedestrian collisions: Burden of severe injury on major versus neighborhood roads,Rothman L.,2010-02-01,11,43-47,10.1080/15389580903452340,SCOPUS_ID:76449096721
+743,A decision making system to automatic recognize of traffic accidents on the basis of a GIS platform,Durduran S.S.,2010-01-01,37,7729-7736,10.1016/j.eswa.2010.04.068,SCOPUS_ID:77957857382
+744,Evaluation of a web-based learning tool for teaching GIS within the context of transportation engineering,Banaszek A.,2010-01-01,,,,SCOPUS_ID:85029074789
+745,Traffic accidents in Crete (1996-2006): The role of the emergency coordination center,Vourvahakis D.,2010-01-01,160,505-509,10.3233/978-1-60750-588-4-505,SCOPUS_ID:78649515463
+746,Road safety analysis using web-based collaborative GIS,Pirotti F.,2010-01-01,38,,,SCOPUS_ID:84923923822
+747,Modeling signalized intersection safety with corridor-level spatial correlations,Guo F.,2010-01-01,42,84-92,10.1016/j.aap.2009.07.005,SCOPUS_ID:71549125242
+748,Are safety-related features of the road environment associated with smaller declines in physical activity among youth?,Carver A.,2010-01-01,87,29-43,10.1007/s11524-009-9402-3,SCOPUS_ID:77249158777
+749,"Development and analysis of GIS-based road traffic injury database for Karachi, Pakistan",Ali M.,2009-12-01,2,613-622,,SCOPUS_ID:84897659879
+750,The identification of Hazardous road locations: A comparison of the blacksite and hot zone methodologies in Hong Kong,Loo B.,2009-12-01,3,187-202,10.1080/15568310801915583,SCOPUS_ID:75749094706
+751,Using GIS and spatial statistics to study crash and weather patterns,Khan G.,2009-12-01,2,945-976,,SCOPUS_ID:84873502661
+752,Risk ranking of road sections on highways using ordered weight averaging (OWA) decision rule,Jantakat Y.,2009-12-01,1,411-416,,SCOPUS_ID:84866094168
+753,"50th Annual Transportation Research Forum 2009, Volume 2",,2009-12-01,2,,,SCOPUS_ID:84883876061
+754,"50th Annual Transportation Research Forum 2009, Volume 1",,2009-12-01,1,,,SCOPUS_ID:84883750588
+755,Spatial clusters of violent deaths in a newly urbanized region of Brazil: Highlighting the social disparities,Minamisava R.,2009-11-27,8,,10.1186/1476-072X-8-66,SCOPUS_ID:71949100290
+756,Integrating GIS with cellular automaton model for railway transportation safety system,Zhou H.,2009-11-16,5,503-507,10.1109/CSIE.2009.821,SCOPUS_ID:71049115165
+757,GIS and lidar use for identification of potential road hazard locations,Pradhan A.,2009-10-26,346,125-134,10.1061/41052(346)13,SCOPUS_ID:70350164916
+758,Explorative spatial analysis of traffic accident statistics and road mortality among the provinces of Turkey,Erdogan S.,2009-10-01,40,341-351,10.1016/j.jsr.2009.07.006,SCOPUS_ID:70449732118
+759,The effects of area-wide road speed and curvature on traffic casualties in England,Wang C.,2009-09-01,17,385-395,10.1016/j.jtrangeo.2008.06.003,SCOPUS_ID:67949088125
+760,Modelling the effects of land use and temporal factors on child pedestrian casualties,Dissanayake D.,2009-09-01,41,1016-1024,10.1016/j.aap.2009.06.015,SCOPUS_ID:68049135712
+761,Pedestrian injury and the built environment: An environmental scan of hotspots,Schuurman N.,2009-08-14,9,,10.1186/1471-2458-9-233,SCOPUS_ID:68349154097
+762,Impact of traffic congestion on road accidents: A spatial analysis of the M25 motorway in England,Wang C.,2009-07-01,41,798-808,10.1016/j.aap.2009.04.002,SCOPUS_ID:67349093808
+806,Validating crash locations for quantitative spatial analysis: A GIS-based approach,Loo B.,2006-09-01,38,879-886,10.1016/j.aap.2006.02.012,SCOPUS_ID:33745746960
+763,Kernel density estimation and K-means clustering to profile road accident hotspots,Anderson T.,2009-05-01,41,359-364,10.1016/j.aap.2008.12.014,SCOPUS_ID:64849103766
+764,"A kernel density estimation method for networks, its computational method and a GIS-based tool",Okabe A.,2009-03-18,23,7-32,10.1080/13658810802475491,SCOPUS_ID:62149150941
+765,Application of electronic surveillance and global information system mapping to track the epidemiology of pediatric pedestrian injury,Weiner E.J.,2009-03-01,66,S10-S16,10.1097/TA.0b013e3181937bc8,SCOPUS_ID:68049118315
+766,"Application and integration of lattice data analysis, network K-functions, and geographic information system software to study ice-related crashes",Khan G.,2009-01-01,,67-76,10.3141/2136-08,SCOPUS_ID:76749155516
+767,Technical documentation in traffic technology,Danko C.,2009-01-01,21,359-365,10.7307/ptt.v21i5.251,SCOPUS_ID:70449498809
+768,A statistical GIS-based analysis of Wild boar (Sus scrofa) traffic collisions in a Mediterranean area,Primi R.,2009-01-01,8,649-651,10.4081/ijas.2009.s2.649,SCOPUS_ID:80051565327
+769,Spatial autocorrelation and Bayesian spatial statistical method for analyzing intersections Prone to injury crashes,Mitra S.,2009-01-01,,92-100,10.3141/2136-11,SCOPUS_ID:76749155074
+770,Accident information at your fingertip using strada,Eliasson R.,2009-01-01,,,,SCOPUS_ID:84954525035
+771,Route optimization model for urban hazardous material transportation based on Arc GIS,Wang Y.P.,2009-01-01,39,45-49,,SCOPUS_ID:59949091161
+772,Combining state route and local road linear referencing system information,Graettinger A.J.,2009-01-01,,152-159,10.3141/2121-17,SCOPUS_ID:76149138892
+773,"Road traffic accidents management model: The successful application of stakeholder involvement in Chon Buri, Thailand",Rudtanasudjatum K.,2008-12-01,,195-198,10.1109/ITST.2008.4740255,SCOPUS_ID:62949200501
+774,Michigan's crash data analysis tool for local agencies-roadsoft gis,Colling T.,2008-12-01,,432-441,,SCOPUS_ID:84873504463
+775,A new application of GIS to transportation: Highway design consistency and safety analysis,Castro M.,2008-12-01,,211-224,,SCOPUS_ID:84895332834
+776,Accident prediction models in urban areas: Lisbon case study,Vieira Gomes S.,2008-12-01,101,619-627,10.2495/UT080601,SCOPUS_ID:58849122268
+777,"Urban Traffic Safety Analysis and Assessment System based on GIS: System design, key techniques and implementation strategy",Peijun D.,2008-12-01,7144,,10.1117/12.812852,SCOPUS_ID:62649165911
+778,Analysis of association between traffic exposure and accident risk in Hong Kong,Pei X.,2008-12-01,,125-133,,SCOPUS_ID:84896813560
+779,"Generalized network Voronoi diagrams: Concepts, computational methods, and applications",Okabe A.,2008-09-01,22,965-994,10.1080/13658810701587891,SCOPUS_ID:47949112784
+780,Automated GIS-based system for speed estimation and highway safety evaluation,Castro M.,2008-08-25,22,325-331,10.1061/(ASCE)0887-3801(2008)22:5(325),SCOPUS_ID:49749091740
+781,Spatial analysis of weather crash patterns,Khan G.,2008-05-01,134,191-202,10.1061/(ASCE)0733-947X(2008)134:5(191),SCOPUS_ID:42549151247
+782,The influence of road curvature on fatal crashes in New Zealand,Haynes R.,2008-05-01,40,843-850,10.1016/j.aap.2007.09.013,SCOPUS_ID:42949145054
+783,Spatialtemporal dynamic segmentation and its traffic incident representation application,Guo P.,2008-04-01,33,422-425,,SCOPUS_ID:44649170533
+784,Walkability and Safety Around Elementary Schools. Economic and Ethnic Disparities,Zhu X.,2008-04-01,34,282-290,10.1016/j.amepre.2008.01.024,SCOPUS_ID:40949083072
+785,"Demographic analysis of automobile accidents in Irbid, Jordan, using GIS and GPS",El Shair I.,2008-03-01,11,57-69,,SCOPUS_ID:78650945731
+786,Improving road network databases by integrating a geographic information system and digital imagery,Abdalla M.,2008-02-01,35,170-178,10.1139/L07-096,SCOPUS_ID:42149183525
+787,Application of spatial data mining in accident analysis system,Jinlin W.,2008-01-01,1,472-475,10.1109/ETTandGRS.2008.253,SCOPUS_ID:70350676184
+788,Geographical information systems aided traffic accident analysis system case study: city of Afyonkarahisar,Erdogan S.,2008-01-01,40,174-181,10.1016/j.aap.2007.05.004,SCOPUS_ID:38149019171
+789,A quantitative analysis of risk based on climatic factors on the roads in Iran,Nokhandan M.H.,2008-01-01,15,347-357,10.1002/met.77,SCOPUS_ID:52949144944
+790,Tool with road-level crash prediction for transportation safety planning,Tarko A.P.,2008-01-01,,16-25,10.3141/2083-03,SCOPUS_ID:63849227654
+791,"Vehicle-type choice and neighbourhood characteristics: An empirical study of Hamilton, Canada",Potoglou D.,2008-01-01,13,177-186,10.1016/j.trd.2008.02.002,SCOPUS_ID:41849098498
+792,Spatial analysis of pedestrians'trips in urban area focusing on crossings to assess risk exposure to accident,Bonnet E.,2008-01-01,,2-13,10.4000/tem.1002,SCOPUS_ID:77957163819
+793,Geographical variations in mortality and morbidity from road traffic accidents in England and Wales,Jones A.P.,2008-01-01,14,519-535,10.1016/j.healthplace.2007.10.001,SCOPUS_ID:41349118157
+794,Introducing alignment based risk indices into the highway traffic accident analysis,Kang S.,2007-12-01,,465-477,10.1061/40937(261)56,SCOPUS_ID:84891330132
+795,3GR technique to enhance run of the road analysis,Abdalla M.,2007-12-01,96,577-586,10.2495/UT070541,SCOPUS_ID:38849187839
+796,Study on road traffic safety management and rescue system based on 3S technology,Yuan B.,2007-12-01,,2530-2535,10.1061/40932(246)415,SCOPUS_ID:37749045296
+797,Geo-spatial and log-linear analysis of pedestrian and bicyclist crashes involving school-aged children,Abdel-Aty M.,2007-11-20,38,571-579,10.1016/j.jsr.2007.04.006,SCOPUS_ID:36148967327
+798,A GIS-based Bayesian approach for analyzing spatial-temporal patterns of intra-city motor vehicle crashes,Li L.,2007-07-01,15,274-285,10.1016/j.jtrangeo.2006.08.005,SCOPUS_ID:34248583761
+799,New methods to identify and rank high pedestrian crash zones: An illustration,Pulugurtha S.S.,2007-07-01,39,800-811,10.1016/j.aap.2006.12.001,SCOPUS_ID:34247471082
+800,Bayesian approach based on geographic information system to identify hazardous roadway segments for traffic crashes,Li L.,2007-01-01,,63-72,10.3141/2024-08,SCOPUS_ID:40449107955
+801,Safety impacts of access management techniques in Utah,Schultz G.G.,2007-01-01,,35-42,10.3141/1994-05,SCOPUS_ID:38349177480
+802,System for digitizing information on Wisconsin's crash locations,Dutta A.,2007-01-01,,256-264,10.3141/2019-30,SCOPUS_ID:41549158382
+803,Analysis of police vehicle stops in Cincinnati: A geographic perspective,Liu L.,2007-01-01,27,29-51,,SCOPUS_ID:38349156661
+804,Road effects on abundance and fitness of Galápagos lava lizards (Microlophus albemarlensis),Tanner D.,2007-01-01,85,270-278,10.1016/j.jenvman.2006.08.022,SCOPUS_ID:34547944965
+807,A GIS-based infrastructure management system for municipalities,Ferreira A.,2006-06-14,159,113-120,10.1680/muen.2006.159.2.113,SCOPUS_ID:33744926934
+808,The identification of environmental factors in pediatric pedestrian motor vehicle crashes,Statter M.,2006-06-01,60,1384-1385,10.1097/00005373-200606000-00045,SCOPUS_ID:33745235583
+809,Design of GIS-based road safety information management system,Fang S.,2006-05-01,34,629-633,,SCOPUS_ID:33746855072
+810,Evacuation route selection based on tree-based hazards using light detection and ranging and GIS,Laefer D.F.,2006-04-01,132,312-320,10.1061/(ASCE)0733-947X(2006)132:4(312),SCOPUS_ID:33745054211
+811,Pattern of traffic injuries in Shanghai: implications for control,Yan-Hong L.,2006-01-01,13,217-225,10.1080/17457300600580779,SCOPUS_ID:33947499905
+812,Road traffic accidents in Vientiane (Lao PDR): A new and important public health issue,Ferrand J.,2006-01-01,,287-297,10.4000/eps.1841,SCOPUS_ID:34147200461
+813,SANET: A toolbox for spatial analysis on a network,Okabe A.,2006-01-01,38,57-66,10.1111/j.0016-7363.2005.00674.x,SCOPUS_ID:33645935072
+814,"Influence of land use, population, employment, and economic activity on accidents",Kim K.,2006-01-01,,56-64,10.3141/1953-07,SCOPUS_ID:33845307231
+815,The study on the development of analysis and management system for traffic accident spatial DB,Yu J.,2005-12-31,23,345-352,,SCOPUS_ID:77953941904
+816,Using GIS for law enforcement,Smith R.,2005-12-14,36,477-479,10.1016/j.jsr.2005.10.003,SCOPUS_ID:28644438696
+817,Crash data and signal coordination: A one-way pair case study,Tindale S.,2005-12-14,36,481-482,10.1016/j.jsr.2005.10.007,SCOPUS_ID:28644441811
+818,Application of spatial information technology for emergency response in traffic accident,Li Z.,2005-12-01,3,1580-1582,,SCOPUS_ID:33745727301
+819,Semi-automatic method to enhance network screening for illuminated rural highway segments and improve safety analysis - A 3GR approach,Abdalla M.,2005-12-01,,173-181,,SCOPUS_ID:84873588237
+820,Management of conveyor belt system in GIS environment,Szczepanik H.,2005-12-01,,311-320,,SCOPUS_ID:33644883663
+821,"Social capital in settings with a high concentration of road traffic injuries. The case of Cuernavaca, Mexico",Inclán C.,2005-11-01,61,2007-2017,10.1016/j.socscimed.2005.04.024,SCOPUS_ID:23444442068
+822,WebGIS-based design and realization of preventing traffic accident system,Hu Y.,2005-04-01,29,219-222,,SCOPUS_ID:18744372458
+823,How alcohol-related crashes of different severity interrelate and respond to local spatial characteristics: An evaluation of a common site sales ban on alcohol and gasoline,Farmer M.C.,2005-03-01,39,185-201,10.1007/s00168-004-0205-x,SCOPUS_ID:20344387446
+824,Epidemiology of traffic accidents in the province of Trento: first results of an integrated surveillance system (MITRIS),Moghadam P.F.,2005-01-01,29,172-179,,SCOPUS_ID:33645066148
+825,Traffic incident information management systems based on GIS-T,Jiang G.,2004-12-01,,527-530,,SCOPUS_ID:13344276524
+826,A spatially disaggregate analysis of road casualties in England,Noland R.,2004-11-01,36,973-984,10.1016/j.aap.2003.11.001,SCOPUS_ID:4344699939
+827,Spatial analysis of annual air pollution exposure and mortality,Scoggins A.,2004-04-05,321,71-85,10.1016/j.scitotenv.2003.09.020,SCOPUS_ID:1642543859
+828,An accident waiting to happen: A spatial approach to proactive pedestrian planning,Schneider R.J.,2004-03-01,36,193-211,10.1016/S0001-4575(02)00149-5,SCOPUS_ID:0344034791
+829,"3GR for road safety integration of GIS, GPS, GSM and Remote Sensing, for road safety",Abdalla M.,2004-01-01,,255-260,10.1061/40730(144)48,SCOPUS_ID:15844376275
+830,The status and role of modern mapping technology in Botswana,Dixon-Gough R.,2004-01-01,4,63-80,10.1504/IJTPM.2004.004568,SCOPUS_ID:2942582480
+831,Visualizing moose habitat changes due to infrastructure construction in southern Finland,Krisp J.M.,2004-01-01,35,,,SCOPUS_ID:85044523695
+832,GIS for traffic accident application in Universiti Putra Malaysia,Liang L.Y.,2003-12-01,21,1-6,,SCOPUS_ID:1842455784
+833,Road safety evaluation using GIS for accident analysis,Augeri M.,2003-12-01,6,547-554,,SCOPUS_ID:4544282575
+834,Traffic's Ebb and Flow in Phoenix,Guge G.,2003-11-01,13,28,,SCOPUS_ID:1242329355
+835,Consideration of driver home county prohibition and alcohol-related vehicle crashes,Schulte Gary S.L.,2003-09-01,35,641-648,10.1016/S0001-4575(02)00042-8,SCOPUS_ID:0042329787
+836,"Streamlining Chinese highway accident data acquisition, communications, and analysis",Yi P.,2003-01-01,,31-38,10.3141/1846-06,SCOPUS_ID:1342308304
+837,Pedestrian injuries in Mexico: A multi-method approach,Híjar M.,2003-01-01,57,2149-2159,10.1016/S0277-9536(03)00067-4,SCOPUS_ID:0141793869
+838,Human Fatalities in Animal-Related Highway Crashes,Khattak A.J.,2003-01-01,,158-165,10.3141/1840-18,SCOPUS_ID:1842428121
+839,Multi-criteria evaluation of safety and risks along transportation corridors on the Hopi Reservation,Fuller D.,2003-01-01,23,177-188,10.1016/j.apgeog.2003.08.010,SCOPUS_ID:0242657372
+840,Evaluating the reliability of automated collision notification systems,Akella M.R.,2003-01-01,35,349-360,10.1016/S0001-4575(02)00010-6,SCOPUS_ID:0141789941
+841,Analysis of North Carolina Guidelines and Criteria for Establishing School Walk Zones,Tsai J.,2003-01-01,,47-55,10.3141/1828-06,SCOPUS_ID:0348163516
+842,Highway safety and public policy: A GIS perspective,Lipscomb C.,2002-12-01,,371-387,,SCOPUS_ID:0038208036
+843,Geographic patterns of pilot fatality rates in commuter and air taxi crashes,Grabowski J.,2002-10-01,73,1014-1020,,SCOPUS_ID:0036787748
+844,Geographic information system-based truck accident information and management system for New Jersey roadways,Chien S.,2002-01-01,,134-142,10.3141/1818-20,SCOPUS_ID:0036979224
+845,An algorithm for assessing the risk of traffic accident.,Ng K.,2002-01-01,33,387-410,10.1016/S0022-4375(02)00033-6,SCOPUS_ID:0036784494
+846,Motor vehicle crashes and land use empirical analysis from Hawaii,Kim K.,2002-01-01,,73-79,10.3141/1784-10,SCOPUS_ID:0036949822
+847,Motorcycles as a full mode of transportation,Wigan M.,2002-01-01,,39-46,10.3141/1818-06,SCOPUS_ID:0036973852
+848,An ODMG-based object model for dynamic segmentation,Huang B.,2002-01-01,2002-January,661-667,10.1109/ITSC.2002.1041297,SCOPUS_ID:84949198845
+849,External costs of the Belgian interurban freight traffic: A network analysis of their internalisation,Beuthe M.,2002-01-01,7,285-301,10.1016/S1361-9209(01)00025-6,SCOPUS_ID:0036643432
+850,Effects of urban design on road accidents in Hong Kong,Ng K.,2001-12-01,8,589-598,,SCOPUS_ID:4544267792
+851,"A geographic analysis of motor vehicle collisions with child pedestrians in Long Beach, California: Comparing intersection and midblock incident locations",Lightstone A.S.,2001-06-01,7,155-160,10.1136/ip.7.2.155,SCOPUS_ID:0035374731
+852,Interstate highway crash injuries during winter snow and nonsnow events,Khattak A.J.,2001-01-01,,30-36,10.3141/1746-05,SCOPUS_ID:0035689057
+853,Evaluation of inexpensive global positioning system units to improve crash location data,Graettinger A.J.,2001-01-01,,94-101,10.3141/1746-13,SCOPUS_ID:0035685990
+854,Child road safety in the urban environment,Petch R.,2000-09-05,8,197-211,10.1016/S0966-6923(00)00006-5,SCOPUS_ID:0033842616
+855,Geographical information systems: Unique analytic capabilities for the traffic safety community,Miller J.S.,2000-01-01,,21-28,10.3141/1734-04,SCOPUS_ID:0034432824
+856,Geographic information system procedures to improve speed and accuracy in locating crashes,Carreker L.E.,2000-01-01,,215-218,10.3141/1719-28,SCOPUS_ID:0034433205
+857,Demographic and environmental correlates of pedestrian injury collisions: A spatial analysis,LaScala E.A.,2000-01-01,32,651-658,10.1016/S0001-4575(99)00100-1,SCOPUS_ID:0034277535
+858,Using GIS to identify hazardous alley locations,Johnson R.C.,1999-12-01,4,61-70,,SCOPUS_ID:33645025964
+859,Evaluation of truck crashes using a GIS-based crash referencing and analysis system,Harkey D.,1999-01-01,,13-21,10.3141/1686-03,SCOPUS_ID:0033326922
+860,Toronto bicycle commuter safety rates,Aultman-Hall L.,1999-01-01,31,675-686,10.1016/S0001-4575(99)00028-7,SCOPUS_ID:0033226786
+861,The application of GIS as a tool in the analysis of heavy truck accidents in Manitoba,Montufar J.,1998-12-01,4 C,247-259,,SCOPUS_ID:33645036117
+862,Alcohol consumption and injury in Western Australia: A spatial correlation analysis using geographic information systems,Midford R.,1998-01-01,22,80-85,10.1111/j.1467-842X.1998.tb01149.x,SCOPUS_ID:0031803084
+863,Ottawa-Carleton commuter cyclist on- and off-road incident rates,Aultman-Hall L.,1998-01-01,30,29-43,10.1016/S0001-4575(97)00059-6,SCOPUS_ID:0031606595
+864,Accidental heroes,,1997-05-01,,20,,SCOPUS_ID:8344231624
+865,The use of geographical information systems to enhance road safety analysis,Austin K.,1997-01-01,20,249-266,10.1080/03081069708717592,SCOPUS_ID:0031393106
+866,Using GIS in risk analysis: A case study of hazardous waste transport,Lovett A.A.,1997-01-01,17,625-633,10.1111/j.1539-6924.1997.tb00903.x,SCOPUS_ID:0031259470
+867,Crime and the digital dragnet,Fox-Clinch J.,1997-01-01,11,22-24,,SCOPUS_ID:0030748338
+868,Occurrence of secondary crashes on urban arterial roadways,Raub R.A.,1997-01-01,,53-58,10.3141/1581-07,SCOPUS_ID:0003950394
+869,"The application of K-function analysis to the geographical distribution of road traffic accident outcomes in Norfolk, England",Jones A.P.,1996-01-01,42,879-885,10.1016/0277-9536(95)00186-7,SCOPUS_ID:0029669691
+870,Multimedia data management in a highway information system,Wang K.,1996-01-01,,607-612,,SCOPUS_ID:0029722313
+871,A GIS‐Based traffic accident information system,Faghri A.,1995-01-01,29,321-334,10.1002/atr.5670290305,SCOPUS_ID:0029371185
+872,New hybrid expert-GIS for wide-area incident management,Subramaniam S.,1994-12-01,2,1710-1715,,SCOPUS_ID:0028730692
+873,Advanced computer system for road safety analysis,Austin K.,1994-11-01,41,16-19,,SCOPUS_ID:0028547443
+874,PC-oriented GIS application for road safety analysis and management,Peled A.,1993-07-01,34,355-361,,SCOPUS_ID:0027629436
+875,Traffic accident analysis using geoprocessing techniques,Goh P.,1993-06-01,2,76-85,,SCOPUS_ID:0027617269
+876,PC oriented GIS application for road safety improvements,Peled A.,1991-12-01,2,528-543,,SCOPUS_ID:0026371465

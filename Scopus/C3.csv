@@ -1,0 +1,55 @@
+id,Title,Author,Date,Volume,Pages,DOI,SCOPUS_ID
+1,An Analytical Framework for Clustering Roads Based on Crash Severity Analysis,khedher I.,2025-08-01,6,,10.1007/s42979-025-04097-9,SCOPUS_ID:105008937663
+2,The Dashboard of Remote Monitoring System for Driver Fatigue,Hidayat R.N.,2025-06-01,58,1089-1100,10.18280/jesa.580601,SCOPUS_ID:105012209983
+3,Children on wheels: Identifying crash determinants using cluster correspondence analysis,Chakraborty R.,2025-06-01,216,,10.1016/j.aap.2025.108025,SCOPUS_ID:105002130690
+4,Towards Enhancing Road Safety in South Carolina Using Insights from Traffic and Driver-Education Data,Gupta N.,2025-04-11,39,29385-29387,10.1609/aaai.v39i28.35260,SCOPUS_ID:105003902256
+5,Driver-Centric Design: Empirical Strategies for Optimizing the Visualization of Driving Information on Vehicle Liquid Crystal Display Dashboards,Lin J.L.,2025-01-01,13,67334-67349,10.1109/ACCESS.2025.3560681,SCOPUS_ID:105003759710
+6,Visualization Service System for Ship Trajectory Prediction Based on Multi-Source Data Fusion,Huang L.,2025-01-01,,1929-1936,10.1109/ICTIS68762.2025.11214801,SCOPUS_ID:105022479929
+7,Tableau Driven Insights and Trends of Road Accidents in Kerala from 2018 to 2023,Tejaswi K.,2025-01-01,,,10.1109/ICCC64910.2025.11077297,SCOPUS_ID:105012776236
+8,Machine Learning-based Predictive Framework for Road Accident Severity Classification and Real-Time Risk Assessment,Kumar V.A.,2025-01-01,,1038-1044,10.1109/ICVADV63329.2025.10961401,SCOPUS_ID:105004406142
+9,Dual Space DTR-net Learning based Heart Disease Prediction,Maragatham T.,2025-01-01,,1464-1471,10.1109/IDCIOT64235.2025.10914786,SCOPUS_ID:105001664014
+10,An Association Rule Mining-Based Modeling Framework for Characterizing Urban Road Traffic Accidents,Du L.,2024-12-01,16,,10.3390/su162310597,SCOPUS_ID:85212223029
+11,Diagnostic laparoscopy with indocyanine green fluorescence test for the evaluation of intestinal perfusion in abdominal blunt injury: a case report,Li Z.R.,2024-12-01,17,,10.1186/s12245-024-00684-4,SCOPUS_ID:85202064876
+12,Risk prediction model for distracted driving: Characterizing interactions of eye glances and manual sequences,Li S.,2024-10-01,37,,10.1016/j.tbs.2024.100851,SCOPUS_ID:85196484585
+13,Driving Change: Leveraging Predictive Modeling and Geospatial Insights to Strengthen Road Safety Measures in India and USA,Balashivudu G.T.,2024-01-01,,,10.1109/ICCCNT61001.2024.10723942,SCOPUS_ID:85212862956
+14,Efficient Route Prediction Using ML Algorithm,Sobiya R.,2024-01-01,,,10.1109/ICCDS60734.2024.10560450,SCOPUS_ID:85197936100
+15,Road Traffic Flow Prediction with Visual Analytics,Datia N.,2024-01-01,1126,293-318,10.1007/978-3-031-46549-9_10,SCOPUS_ID:85192734601
+16,Integrating Google Maps and Deep Learning in Path Hole Detection Alert System,Sophia S.,2024-01-01,,1006-1012,10.1109/ICPCSN62568.2024.00168,SCOPUS_ID:85201685006
+17,A GIS-Based Damage Evaluation Method for Explosives Road Transportation Accidents,Zhao J.,2023-12-01,12,,10.3390/ijgi12120470,SCOPUS_ID:85180691743
+18,Identification of Road Crashes Characteristics using Data Visualization for Sustainable Campus,Mohd Nusa F.N.,2023-11-02,2983,,10.1063/5.0178661,SCOPUS_ID:85178030302
+19,Robust visual detection of brake-lights in front for commercialized dashboard camera,Moon J.,2023-08-01,18,,10.1371/journal.pone.0289700,SCOPUS_ID:85167761096
+20,Roadcast: A Vehicle Incident Management System and Forecasting Implementing Moving Average,Abuan K.F.A.,2023-01-01,579,9-18,10.1007/978-981-19-7663-6_2,SCOPUS_ID:85149956960
+21,Drowsiness Detection System,Oommen A.B.,2023-01-01,,424-427,10.1109/ICSCC59169.2023.10334941,SCOPUS_ID:85181403903
+22,Vehicle health monitoring and accident avoidance system based on IoT model,Muthumanickam A.,2023-01-01,44,2561-2576,10.3233/JIFS-222719,SCOPUS_ID:85148056284
+23,ViewClassifier: Visual Analytics on Performance Analysis for Imbalanced Fatal Accident Data,Alicioglu G.,2022-01-01,296,481-501,10.1007/978-3-030-82199-9_32,SCOPUS_ID:85113786933
+24,Geo VISER: A Geospatial Data Visualization Platform,Yulong B.,2022-01-01,,1318-1325,10.1109/PRAI55851.2022.9904184,SCOPUS_ID:85141216684
+25,Visual Analytics on Maritime Traffic Accidents in Tianjin Port,Qinyu C.,2022-01-01,,3201-3205,,SCOPUS_ID:85141897806
+26,Beyond a three-dimensional digital rescue sheet,Deserno T.M.,2021-10-07,,,10.1109/ICECCME52200.2021.9590849,SCOPUS_ID:85119448454
+27,ExTraVis: Exploration of Traffic Incidents Using a Visual Interactive System,Zerafa J.,2021-07-01,2021-July,48-53,10.1109/IV53921.2021.00018,SCOPUS_ID:85118439298
+28,Kdv-explorer: A near real-time kernel density visualization system for spatial analysis,Chan T.N.,2021-01-01,14,2655-2658,10.14778/3476311.3476312,SCOPUS_ID:85116798412
+29,"Collection, analysis, and reporting of kentucky traffic incident management performance",Zhang X.,2021-01-01,2675,167-181,10.1177/03611981211001077,SCOPUS_ID:85118422661
+30,Analysis of road traffic accident distribution in Tagaytay City Philippines,Abrigo D.P.,2021-01-01,,2612-2624,,SCOPUS_ID:85114231219
+31,The role of data visualization and analytics of highway accidents,Sunkpho J.,2020-12-01,17,1379-1389,10.48048/wjst.2020.10739,SCOPUS_ID:85097629295
+32,Examining the Effects of Winter Road Maintenance Operations on Traffic Safety through Visual Analytics,Hallmark B.,2020-09-20,,,10.1109/ITSC45102.2020.9294266,SCOPUS_ID:85099643127
+33,Training beginners and experienced drivers using mobile-based virtual and augmented reality,Tomchinskaya T.,2020-01-01,2744,,,SCOPUS_ID:85098146218
+34,"Road accidents detection, data collection and data analysis using V2X communication and edge/cloud computing",Khaliq K.A.,2019-08-01,8,,10.3390/electronics8080896,SCOPUS_ID:85074526113
+35,Data visualisation of vehicle crash using interactive map and data dashboard,Razak M.Z.A.,2019-06-01,14,1405-1411,10.11591/ijeecs.v13.i3.pp1405-1411,SCOPUS_ID:85068560992
+36,Real-time visualization method for estimating 3D highway sight distance using LiDAR data,Ma Y.,2019-04-01,145,,10.1061/JTEPBS.0000228,SCOPUS_ID:85061014367
+37,Evaluation of VDOT's safety service patrols to improve response to incidents,Abrisqueta A.,2019-04-01,,,10.1109/SIEDS.2019.8735648,SCOPUS_ID:85068564318
+38,Analyzing traffic accident and casualty trend using data visualization,Sakib A.,2019-01-01,843,84-94,10.1007/978-3-319-99007-1_9,SCOPUS_ID:85053910383
+39,Disparities in unintentional occupational injury mortality between high-income countries and low-and middle-income countries: 1990–2016,Wu Y.,2018-10-19,15,,10.3390/ijerph15102296,SCOPUS_ID:85055142654
+40,A mobile application based on augmented and virtual reality for dynamic training and testing of the road-rule skills,Tomchinskaya T.N.,2018-01-01,2018-July,403-407,,SCOPUS_ID:85063133450
+41,Srazenazver.cz: A system for evidence of animal-vehicle collisions along transportation networks,Bíl M.,2017-09-01,213,167-174,10.1016/j.biocon.2017.07.012,SCOPUS_ID:85030451068
+42,"2017 International Symposium on Geoinformatics, ISyG 2017",,2017-07-02,2018-January,,,SCOPUS_ID:85172546792
+43,Development of a system of dynamic tests for beginners and experienced drivers using virtual and augmented reality technologies,Dudakov N.Y.,2017-01-01,,308-311,,SCOPUS_ID:85078443562
+44,Disparities in under-five child injury mortality between developing and developed countries: 1990–2013,Huang Y.,2016-07-01,13,,10.3390/ijerph13070653,SCOPUS_ID:84978976664
+45,Detection of Road Accident Accumulation Zones with a Visual Analytics Approach,Ramos L.,2015-01-01,64,969-976,10.1016/j.procs.2015.08.615,SCOPUS_ID:84962829100
+46,An analysis tool for the contextual information from field experiments on driving fatigue,Ruer P.,2015-01-01,9405,172-185,10.1007/978-3-319-25591-0_13,SCOPUS_ID:84952342460
+47,A web-based geospatial toolkit for the monitoring of dengue fever,Delmelle E.,2014-01-01,52,144-152,10.1016/j.apgeog.2014.05.007,SCOPUS_ID:84902006307
+48,HVAC automotive vents evaluation and their performance,Ležovič T.,2013-11-17,19,1073-1082,10.1080/10789669.2013.824498,SCOPUS_ID:84890031008
+49,Forensic-case analysis: From 3D imaging to interactive visualization,Urschler M.,2012-08-27,32,79-87,10.1109/MCG.2012.75,SCOPUS_ID:84865233436
+50,Green score: Developing a measurement model for sustainable pedestrian-friendly environment based on space syntax,Joo Y.,2011-12-01,,385-390,,SCOPUS_ID:84863738068
+51,Exploring the Boundaries of Web Map Services: The Example of the Online Injury Atlas for Ontario,Rinner C.,2011-01-01,15,129-145,10.1111/j.1467-9671.2011.01247.x,SCOPUS_ID:79953316615
+52,Road safety analysis using web-based collaborative GIS,Pirotti F.,2010-01-01,38,,,SCOPUS_ID:84923923822
+53,A web-GIS for the choice of the path in regional greenways,Salvo G.,2010-01-01,139,123-130,10.2495/ST100111,SCOPUS_ID:78549235482
+54,Finding comparable temporal categorical records: A similarity measure with an interactive visualization,Wongsuphasawat K.,2009-12-01,,27-34,10.1109/VAST.2009.5332595,SCOPUS_ID:72849125354
